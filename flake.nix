@@ -23,7 +23,7 @@
             mkdir -p rss
             curl -vL "https://coder.fireside.fm/rss" > rss/coder.xml
             curl -vL "https://coderqa.fireside.fm/rss" > rss/coderqa.xml
-            curl -vL "https://selfhosted.fireside.fm/rss" > rss/selfhosted.xml
+            curl -vL "https://selfhosted.fireside.fm/rss" > rss/ssh.xml
             curl -vL "https://sshsre.fireside.fm/rss" > rss/sshsre.xml 
             echo 'coder coderqa ssh sshsre' | tr ' ' '\n' | xargs -I {} s5cmd cp rss/{}.xml s3://feeds/rss/{}_test.xml
           '';
