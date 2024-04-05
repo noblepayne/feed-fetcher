@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
     - uses: actions/checkout@v4
-    - run: sudo mkdir -p /nix/store && sudo chmod a+rwx /nix && ./run
+    - run: sudo mkdir -p /nix/store && sudo chmod -R a+rwx /nix && ./run
       env: 
         AWS_DEFAULT_REGION: auto
         S3_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
