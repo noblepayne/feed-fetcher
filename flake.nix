@@ -12,7 +12,7 @@
             pkgs.findutils # xargs
             pkgs.curl
             pkgs.cacert
-	    pkgs.s5cmd
+            pkgs.s5cmd
           ];
         };
         archiver = pkgs.writeShellApplication {
@@ -47,17 +47,16 @@
             tar czf $out -P -T ${pkgs.writeClosure archiver}
           '';
         };
-	runScript = pkgs.stdenv.mkDerivation {
-	  name = "run";
+        runScript = pkgs.stdenv.mkDerivation {
+          name = "run";
           dontUnpack = true;
           dontBuild = true;
-	  dontPatchShebangs = true;
-	  installPhase = ''
-	    cat ${baseRunScript} ${toolsBundle} >> $out
-	    chmod +x $out
-	  '';
-	  postInstall="";
-	};
+          dontPatchShebangs = true;
+          installPhase = ''
+              cat ${baseRunScript} ${toolsBundle} >> $out
+              chmod +x $out
+          '';
+        };
       in
       {
         packages.${system} = {
@@ -66,7 +65,7 @@
           inherit baseRunScript;
           inherit toolsBundle;
           inherit runScript;
-	  default = runScript;
+          default = runScript;
         };
       }
     );
