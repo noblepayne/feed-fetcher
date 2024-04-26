@@ -12,7 +12,7 @@ let
     text = ''
       #!/usr/bin/env sh
       set -e
-      tail -n +6 $0 | tar xzf - -P
+      cat $0 | tail -n +6 | tar xzf - -P
       ${runCmd}
       exit $?
     '';
