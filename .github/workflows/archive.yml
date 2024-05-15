@@ -11,10 +11,17 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: actions/checkout@v4
-    - run: sudo mkdir -p /nix/store && sudo chmod -R a+rwx /nix && ./run
-      env: 
-        AWS_DEFAULT_REGION: auto
-        S3_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: run
+        run: sudo mkdir -p /nix/store && sudo chmod -R a+rwx /nix && ./run
+        env: 
+          AWS_DEFAULT_REGION: auto
+          S3_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "updating feeds"
+          file_pattern: "rss"
