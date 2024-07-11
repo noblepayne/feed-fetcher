@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 10 Jul 2024 04:46:26 -0500</fireside:genDate>
+    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
+    <fireside:genDate>Thu, 11 Jul 2024 10:49:12 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder QA</title>
     <link>https://coderqa.fireside.fm</link>
-    <pubDate>Wed, 10 Jul 2024 09:45:04 -0000</pubDate>
+    <pubDate>Thu, 11 Jul 2024 15:49:08 -0000</pubDate>
     <description>Thank you for your support, enjoy the ad-free version of Coder Radio as a thank you!
 </description>
     <language>en-us</language>
@@ -26,6 +26,32 @@
 <itunes:category text="Arts">
   <itunes:category text="Performing Arts"/>
 </itunes:category>
+    <item>
+      <title>Coderly 2024 Q2</title>
+      <link>https://coderqa.fireside.fm/2024q2</link>
+      <guid isPermaLink="false">830b3daa-284e-4e7c-83e5-3000cbd071e0</guid>
+      <pubDate>Thu, 11 Jul 2024 08:30:00 -0700</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/8fba08fb-aa33-4b57-ac76-a388418a583a/830b3daa-284e-4e7c-83e5-3000cbd071e0.mp3" length="35179922" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>It's been too long since we had a Coderly; this was recorded a couple of weeks ago. I think we have both recovered since the recording session ;) </itunes:subtitle>
+      <itunes:duration>48:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>It's been too long since we had a Coderly; this was recorded a couple of weeks ago. I think we have both recovered since the recording session ;)  
+</description>
+      <itunes:keywords>Coderly, Q2</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>It&#39;s been too long since we had a Coderly; this was recorded a couple of weeks ago. I think we have both recovered since the recording session ;) </p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>It&#39;s been too long since we had a Coderly; this was recorded a couple of weeks ago. I think we have both recovered since the recording session ;) </p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/GELrkoc1+oVCayysx</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/GELrkoc1+oVCayysx" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+    </item>
     <item>
       <title>Episode 578: Cancel the 100X</title>
       <link>https://coderqa.fireside.fm/578</link>
