@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Fri, 12 Jul 2024 01:25:36 -0500</fireside:genDate>
+    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
+    <fireside:genDate>Fri, 12 Jul 2024 04:16:15 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Self-Hosted</title>
     <link>https://selfhosted.show</link>
-    <pubDate>Fri, 12 Jul 2024 06:24:18 -0000</pubDate>
+    <pubDate>Fri, 12 Jul 2024 09:15:04 -0000</pubDate>
     <description>Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you along for the journey as they learn new ones.
  A Jupiter Broadcasting podcast showcasing free and open source technologies you can host yourself.
 </description>
@@ -31,6 +31,35 @@
 <itunes:category text="Leisure">
   <itunes:category text="Hobbies"/>
 </itunes:category>
+    <item>
+      <title>127: Can't Fix What You Don't Track</title>
+      <link>https://selfhosted.show/127</link>
+      <guid isPermaLink="false">51409d18-42b0-4d47-99f2-45e766bcc57b</guid>
+      <pubDate>Fri, 12 Jul 2024 02:15:00 -0700</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7296e34a-2697-479a-adfb-ad32329dd0b0/51409d18-42b0-4d47-99f2-45e766bcc57b.mp3" length="49501854" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>Chris gets serious about tracking maintenance and alerts, why Alex is impressed by the RISC-V-powered NanoKVM, how we might end up using Docmost, and a follow-up review of LubeLogger.</itunes:subtitle>
+      <itunes:duration>58:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Chris gets serious about tracking maintenance and alerts, why Alex is impressed by the RISC-V-powered NanoKVM, how we might end up using Docmost, and a follow-up review of LubeLogger. 
+</description>
+      <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Mitsubishi heatpump, esp config, UK server maintenance, HDHomerun, football, travel internet, glInet travel router, Pixel 8, tethering, NanoKVM, RISC-V, KVM over IP, open source, Docmost, wiki, documentation software, LubeLogger, vehicle maintenance, fuel mileage tracker, self-hosted, open-source, Docker, maintenance records, fuel economy, global search, vehicle report, picture attachment, Obsidian, NixOS, Proxmox-NixOS, email alerts, game server, streaming recommendations, Bazzite, Linux gaming, HTPC, keyboard, mouse, hibernate, wake, controller, display flickering, anti-cheat</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Chris gets serious about tracking maintenance and alerts, why Alex is impressed by the RISC-V-powered NanoKVM, how we might end up using Docmost, and a follow-up review of LubeLogger.</p><p>Sponsored By:</p><ul><li><a href="https://unraid.net/selfhosted" rel="nofollow">Unraid</a>: <a href="https://unraid.net/selfhosted" rel="nofollow">Unraid: A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.</a></li><li><a href="http://tailscale.com/selfhosted" rel="nofollow">Tailscale</a>: <a href="http://tailscale.com/selfhosted" rel="nofollow">Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. </a></li><li><a href="https://getgrist.com/selfhosted" rel="nofollow">Grist</a>: <a href="https://getgrist.com/selfhosted" rel="nofollow">Grist - the open-source alternative to Airtable and Google Sheets. </a></li></ul><p><a href="https://jupitersignal.memberful.com/checkout?plan=53744" rel="payment">Support Self-Hosted</a></p><p>Links:</p><ul><li><a href="https://strike.me/download/" title="⚡ Grab Sats with Strike Around the World" rel="nofollow">⚡ Grab Sats with Strike Around the World</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. </li><li><a href="https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5" title="🎉 Boost with Fountain FM" rel="nofollow">🎉 Boost with Fountain FM</a> &mdash; Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site.</li><li><a href="https://gist.github.com/ironicbadger/9e67e8e917f17636177820e4818ce8fe" title="Mitsubishi heatpump esp config" rel="nofollow">Mitsubishi heatpump esp config</a> &mdash; The ESP Config for Alex's Garage A/C.</li><li><a href="https://github.com/hargata/lubelog" title="LubeLogger" rel="nofollow">LubeLogger</a> &mdash; a web-based vehicle maintenance and fuel mileage tracker</li><li><a href="https://docs.lubelogger.com/Funding" title="Funding" rel="nofollow">Funding</a></li><li><a href="https://docs.lubelogger.com/" title="LubeLogger Wiki" rel="nofollow">LubeLogger Wiki</a></li><li><a href="https://discourse.nixos.org/t/announcing-proxmox-nixos/47579" title="Announcing Proxmox-NixOS" rel="nofollow">Announcing Proxmox-NixOS</a> &mdash; The project is still in early development and might have some rough edges, but we would be very happy to have our first beta testers!</li><li><a href="https://bazzite.gg/" title="Bazzite" rel="nofollow">Bazzite</a> &mdash; The next generation of Linux gaming</li><li><a href="https://paste.docs.lol/code/InactivateElectrotypist" title="SSH 127 Boost Barn" rel="nofollow">SSH 127 Boost Barn</a> &mdash; Thank you Boosters!</li><li><a href="https://www.amazon.com/dp/B0953QG2MQ" title="foot rest" rel="nofollow">foot rest</a></li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Chris gets serious about tracking maintenance and alerts, why Alex is impressed by the RISC-V-powered NanoKVM, how we might end up using Docmost, and a follow-up review of LubeLogger.</p><p>Sponsored By:</p><ul><li><a href="https://unraid.net/selfhosted" rel="nofollow">Unraid</a>: <a href="https://unraid.net/selfhosted" rel="nofollow">Unraid: A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.</a></li><li><a href="http://tailscale.com/selfhosted" rel="nofollow">Tailscale</a>: <a href="http://tailscale.com/selfhosted" rel="nofollow">Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. </a></li><li><a href="https://getgrist.com/selfhosted" rel="nofollow">Grist</a>: <a href="https://getgrist.com/selfhosted" rel="nofollow">Grist - the open-source alternative to Airtable and Google Sheets. </a></li></ul><p><a href="https://jupitersignal.memberful.com/checkout?plan=53744" rel="payment">Support Self-Hosted</a></p><p>Links:</p><ul><li><a href="https://strike.me/download/" title="⚡ Grab Sats with Strike Around the World" rel="nofollow">⚡ Grab Sats with Strike Around the World</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. </li><li><a href="https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5" title="🎉 Boost with Fountain FM" rel="nofollow">🎉 Boost with Fountain FM</a> &mdash; Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site.</li><li><a href="https://gist.github.com/ironicbadger/9e67e8e917f17636177820e4818ce8fe" title="Mitsubishi heatpump esp config" rel="nofollow">Mitsubishi heatpump esp config</a> &mdash; The ESP Config for Alex's Garage A/C.</li><li><a href="https://github.com/hargata/lubelog" title="LubeLogger" rel="nofollow">LubeLogger</a> &mdash; a web-based vehicle maintenance and fuel mileage tracker</li><li><a href="https://docs.lubelogger.com/Funding" title="Funding" rel="nofollow">Funding</a></li><li><a href="https://docs.lubelogger.com/" title="LubeLogger Wiki" rel="nofollow">LubeLogger Wiki</a></li><li><a href="https://discourse.nixos.org/t/announcing-proxmox-nixos/47579" title="Announcing Proxmox-NixOS" rel="nofollow">Announcing Proxmox-NixOS</a> &mdash; The project is still in early development and might have some rough edges, but we would be very happy to have our first beta testers!</li><li><a href="https://bazzite.gg/" title="Bazzite" rel="nofollow">Bazzite</a> &mdash; The next generation of Linux gaming</li><li><a href="https://paste.docs.lol/code/InactivateElectrotypist" title="SSH 127 Boost Barn" rel="nofollow">SSH 127 Boost Barn</a> &mdash; Thank you Boosters!</li><li><a href="https://www.amazon.com/dp/B0953QG2MQ" title="foot rest" rel="nofollow">foot rest</a></li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/dUlrHQih+uzqALKC_</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/dUlrHQih+uzqALKC_" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/selfhosted/json/episodes/51409d18-42b0-4d47-99f2-45e766bcc57b/chapters" type="application/json"/>
+      <podcast:person email="" href="https://www.jupiterbroadcasting.com/" role="host">Chris Fisher</podcast:person>
+      <podcast:person email="" href="https://alex.ktz.me" role="host">Alex Kretzschmar</podcast:person>
+    </item>
     <item>
       <title>126: Smart But Not Cloudy</title>
       <link>https://selfhosted.show/126</link>
