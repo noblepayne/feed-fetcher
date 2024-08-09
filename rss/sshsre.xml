@@ -2,11 +2,11 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Fri, 09 Aug 2024 08:17:05 -0500</fireside:genDate>
+    <fireside:genDate>Fri, 09 Aug 2024 08:49:09 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Self-Hosted SRE</title>
     <link>https://sshsre.fireside.fm</link>
-    <pubDate>Fri, 09 Aug 2024 11:55:35 -0000</pubDate>
+    <pubDate>Fri, 09 Aug 2024 13:46:26 -0000</pubDate>
     <description>This feed is a thank you to our Self-Hosted Site Reliability Engineers!
 </description>
     <language>en-us</language>
