@@ -2,11 +2,11 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 07 Aug 2024 04:49:27 -0500</fireside:genDate>
+    <fireside:genDate>Wed, 14 Aug 2024 02:59:43 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder QA</title>
     <link>https://coderqa.fireside.fm</link>
-    <pubDate>Wed, 07 Aug 2024 09:45:03 -0000</pubDate>
+    <pubDate>Wed, 14 Aug 2024 07:58:09 -0000</pubDate>
     <description>Thank you for your support, enjoy the ad-free version of Coder Radio as a thank you!
 </description>
     <language>en-us</language>
@@ -16,7 +16,7 @@
     <itunes:author>Jupiter Broadcasting</itunes:author>
     <itunes:summary>Thank you for your support, enjoy the ad-free version of Coder Radio as a thank you!
 </itunes:summary>
-    <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/8/8fba08fb-aa33-4b57-ac76-a388418a583a/cover.jpg"/>
+    <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8fba08fb-aa33-4b57-ac76-a388418a583a/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Jupiter Broadcasting</itunes:name>
@@ -2372,7 +2372,7 @@ Plus one of the worst examples of under-funded open source yet.
       <itunes:subtitle>The shiny userbase flocking to WebAssembly, our thoughts on the "openAI scam", and why they just keep cramming stuff into Docker containers.</itunes:subtitle>
       <itunes:duration>39:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images/podcasts/transcripts/8/8fba08fb-aa33-4b57-ac76-a388418a583a/episodes/e/e765501e-14c8-4048-8be0-26a29ffacd2e/transcript.txt" type="text/plain"/>
+      <podcast:transcript url="https://assets.fireside.fm/file/fireside-images-2024/podcasts/transcripts/8/8fba08fb-aa33-4b57-ac76-a388418a583a/episodes/e/e765501e-14c8-4048-8be0-26a29ffacd2e/transcript.txt" type="text/plain"/>
       <description>The shiny userbase flocking to WebAssembly, our thoughts on the "openAI scam", and why they just keep cramming stuff into Docker containers. 
 </description>
       <itunes:keywords>Coder Radio, Development Podcast, System76, Pop immutable base, David thinks OpenAI scam, The Blocksize War, robes, Ruby 3.2, Web Assembly Support, YJIT, New Data class, Better Error Messages, Rails 7.1, official Dockerfile, 25bps hike, soft landin, openai lawsuit, finding a way to be creative, aggregating data in Rust, UI in TypeScript</itunes:keywords>
