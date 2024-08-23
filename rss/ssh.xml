@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
-    <fireside:genDate>Fri, 23 Aug 2024 03:32:32 -0500</fireside:genDate>
+    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
+    <fireside:genDate>Fri, 23 Aug 2024 05:16:13 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Self-Hosted</title>
     <link>https://selfhosted.show</link>
-    <pubDate>Fri, 23 Aug 2024 08:30:24 -0000</pubDate>
+    <pubDate>Fri, 23 Aug 2024 10:15:04 -0000</pubDate>
     <description>Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you along for the journey as they learn new ones.
  A Jupiter Broadcasting podcast showcasing free and open source technologies you can host yourself.
 </description>
@@ -31,6 +31,62 @@
 <itunes:category text="Leisure">
   <itunes:category text="Hobbies"/>
 </itunes:category>
+    <item>
+      <title>130: Make it or Break it</title>
+      <link>https://selfhosted.show/130</link>
+      <guid isPermaLink="false">678c0ac7-5ebd-4014-9d14-29fdfff6f57a</guid>
+      <pubDate>Fri, 23 Aug 2024 03:00:00 -0700</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7296e34a-2697-479a-adfb-ad32329dd0b0/678c0ac7-5ebd-4014-9d14-29fdfff6f57a.mp3" length="55070220" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>Prusa's Mk4S 3D printer seems to have hit the mark. Alex gets a tour of an awesome new maker space, we take a look at AdventureLog, and much more.</itunes:subtitle>
+      <itunes:duration>1:05:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Prusa's Mk4S 3D printer seems to have hit the mark. Alex gets a tour of an awesome new maker space, we take a look at AdventureLog, and much more. Special Guest: Josh.
+</description>
+      <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Raspberry Pi 5, Redbox, Maker Spaces, Disney, 3D printing, Manyfold, Prusa Mk4S, Unraid, AdventureLog</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Prusa&#39;s Mk4S 3D printer seems to have hit the mark. Alex gets a tour of an awesome new maker space, we take a look at AdventureLog, and much more.</p><p>Special Guest: Josh.</p><p>Sponsored By:</p><ul><li><a href="https://getgrist.com/selfhosted" rel="nofollow">Grist</a>: <a href="https://getgrist.com/selfhosted" rel="nofollow">Grist - the open-source alternative to Airtable and Google Sheets. </a></li><li><a href="https://unraid.net/selfhosted" rel="nofollow">Unraid</a>: <a href="https://unraid.net/selfhosted" rel="nofollow">Unraid: A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.</a></li><li><a href="http://tailscale.com/selfhosted" rel="nofollow">Tailscale</a>: <a href="http://tailscale.com/selfhosted" rel="nofollow">Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. </a></li></ul><p><a href="https://jupitersignal.memberful.com/checkout?plan=53744" rel="payment">Support Self-Hosted</a></p><p>Links:</p><ul><li><a href="https://strike.me/download/" title="⚡ Grab Sats with Strike Around the World" rel="nofollow">⚡ Grab Sats with Strike Around the World</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries.</li><li><a href="https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5" title="🎉 Boost with Fountain FM" rel="nofollow">🎉 Boost with Fountain FM</a> &mdash; Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site.</li><li><a href="https://www.meetup.com/jupiterbroadcasting/events/302700160/?eventOrigin=group_upcoming_events" title="Toronto Meetup, Thu, Aug 29, 2024" rel="nofollow">Toronto Meetup, Thu, Aug 29, 2024</a> &mdash; Chris and Alex are slinging servers in Toronto. Come join us after we get our new box racked.
+
+6PM EST (meetup is in PDT).
+
+</li><li><a href="https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/" title="$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU " rel="nofollow">$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU </a> &mdash; Despite changes, 2GB Pi 5 is "functionally identical" to other iterations.
+</li><li><a href="https://arstechnica.com/gadgets/2024/08/redbox-app-starts-going-away-removing-purchased-content-from-owners/" title="Redbox app axed, dashing people’s hopes of keeping purchased content " rel="nofollow">Redbox app axed, dashing people’s hopes of keeping purchased content </a> &mdash; "Redbox is currently not supporting this app. For questions about the service on your account, please contact Redbox” and recommends other streaming apps, like Apple TV+.
+
+</li><li><a href="https://www.nbcnews.com/news/us-news/disney-backpedals-saying-man-cant-sue-wifes-death-signed-disney-rcna167310" title="Disney backpedals on saying man can't sue over wife's death because he signed up for Disney+" rel="nofollow">Disney backpedals on saying man can't sue over wife's death because he signed up for Disney+</a> &mdash; “We believe this situation warrants a sensitive approach to expedite a resolution for the family who have experienced such a painful loss,” Josh D’Amaro of Disney Experiences said. 
+0 of 3 minutes, 51 secondsVolume 0%
+ 
+</li><li><a href="https://manyfold.app/" title="Manyfold - Organise your 3d print files" rel="nofollow">Manyfold - Organise your 3d print files</a> &mdash; View and enjoy your collection, and easily find the models you need; all in full interactive 3D.</li><li><a href="https://blog.prusa3d.com/the-original-prusa-mk4s-is-here_100605/" title="The Original Prusa MK4S is Here! Powerful 360° Cooling, High-Flow Nozzle, Prusa App, Hackerboard and More!" rel="nofollow">The Original Prusa MK4S is Here! Powerful 360° Cooling, High-Flow Nozzle, Prusa App, Hackerboard and More!</a> &mdash; he MK4S is now available as a “plug and print” assembled printer (take it out of the box, let it finish the 10-minute Selftest, and start printing) and printer assembly kit. </li><li><a href="https://adventurelog.app/" title=" AdventureLog" rel="nofollow"> AdventureLog</a> &mdash; AdventureLog is designed to simplify your journey, providing you with the tools and resources to plan, pack, and navigate your next unforgettable adventure.</li><li><a href="https://github.com/seanmorley15/AdventureLog" title="AdventureLog - GitHub" rel="nofollow">AdventureLog - GitHub</a> &mdash; Self-hostable travel tracker and trip planner.
+</li><li><a href="https://paste.docs.lol/reader/CliptMicrometre" title="Self-Hosted 130 Boost Barn" rel="nofollow">Self-Hosted 130 Boost Barn</a> &mdash; Thank you boosters!</li><li><a href="https://pluralistic.net/2024/08/17/hack-the-planet/#how-about-a-nice-game-of-chess" title="Pluralistic: “Disenshittify or Die”" rel="nofollow">Pluralistic: “Disenshittify or Die”</a></li><li><a href="https://ossem.co/" title="ossem-holon – OSSEM HOLON" rel="nofollow">ossem-holon – OSSEM HOLON</a> &mdash; OSSEM is an acronym
+
+Open Source Security Engineering & Modification Group</li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Prusa&#39;s Mk4S 3D printer seems to have hit the mark. Alex gets a tour of an awesome new maker space, we take a look at AdventureLog, and much more.</p><p>Special Guest: Josh.</p><p>Sponsored By:</p><ul><li><a href="https://getgrist.com/selfhosted" rel="nofollow">Grist</a>: <a href="https://getgrist.com/selfhosted" rel="nofollow">Grist - the open-source alternative to Airtable and Google Sheets. </a></li><li><a href="https://unraid.net/selfhosted" rel="nofollow">Unraid</a>: <a href="https://unraid.net/selfhosted" rel="nofollow">Unraid: A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.</a></li><li><a href="http://tailscale.com/selfhosted" rel="nofollow">Tailscale</a>: <a href="http://tailscale.com/selfhosted" rel="nofollow">Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. </a></li></ul><p><a href="https://jupitersignal.memberful.com/checkout?plan=53744" rel="payment">Support Self-Hosted</a></p><p>Links:</p><ul><li><a href="https://strike.me/download/" title="⚡ Grab Sats with Strike Around the World" rel="nofollow">⚡ Grab Sats with Strike Around the World</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries.</li><li><a href="https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5" title="🎉 Boost with Fountain FM" rel="nofollow">🎉 Boost with Fountain FM</a> &mdash; Fountain 1.0 has a new UI, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site.</li><li><a href="https://www.meetup.com/jupiterbroadcasting/events/302700160/?eventOrigin=group_upcoming_events" title="Toronto Meetup, Thu, Aug 29, 2024" rel="nofollow">Toronto Meetup, Thu, Aug 29, 2024</a> &mdash; Chris and Alex are slinging servers in Toronto. Come join us after we get our new box racked.
+
+6PM EST (meetup is in PDT).
+
+</li><li><a href="https://arstechnica.com/gadgets/2024/08/new-2gb-raspberry-pi-5-option-knocks-the-price-down-to-50/" title="$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU " rel="nofollow">$50 2GB Raspberry Pi 5 comes with a lower price and a tweaked, cheaper CPU </a> &mdash; Despite changes, 2GB Pi 5 is "functionally identical" to other iterations.
+</li><li><a href="https://arstechnica.com/gadgets/2024/08/redbox-app-starts-going-away-removing-purchased-content-from-owners/" title="Redbox app axed, dashing people’s hopes of keeping purchased content " rel="nofollow">Redbox app axed, dashing people’s hopes of keeping purchased content </a> &mdash; "Redbox is currently not supporting this app. For questions about the service on your account, please contact Redbox” and recommends other streaming apps, like Apple TV+.
+
+</li><li><a href="https://www.nbcnews.com/news/us-news/disney-backpedals-saying-man-cant-sue-wifes-death-signed-disney-rcna167310" title="Disney backpedals on saying man can't sue over wife's death because he signed up for Disney+" rel="nofollow">Disney backpedals on saying man can't sue over wife's death because he signed up for Disney+</a> &mdash; “We believe this situation warrants a sensitive approach to expedite a resolution for the family who have experienced such a painful loss,” Josh D’Amaro of Disney Experiences said. 
+0 of 3 minutes, 51 secondsVolume 0%
+ 
+</li><li><a href="https://manyfold.app/" title="Manyfold - Organise your 3d print files" rel="nofollow">Manyfold - Organise your 3d print files</a> &mdash; View and enjoy your collection, and easily find the models you need; all in full interactive 3D.</li><li><a href="https://blog.prusa3d.com/the-original-prusa-mk4s-is-here_100605/" title="The Original Prusa MK4S is Here! Powerful 360° Cooling, High-Flow Nozzle, Prusa App, Hackerboard and More!" rel="nofollow">The Original Prusa MK4S is Here! Powerful 360° Cooling, High-Flow Nozzle, Prusa App, Hackerboard and More!</a> &mdash; he MK4S is now available as a “plug and print” assembled printer (take it out of the box, let it finish the 10-minute Selftest, and start printing) and printer assembly kit. </li><li><a href="https://adventurelog.app/" title=" AdventureLog" rel="nofollow"> AdventureLog</a> &mdash; AdventureLog is designed to simplify your journey, providing you with the tools and resources to plan, pack, and navigate your next unforgettable adventure.</li><li><a href="https://github.com/seanmorley15/AdventureLog" title="AdventureLog - GitHub" rel="nofollow">AdventureLog - GitHub</a> &mdash; Self-hostable travel tracker and trip planner.
+</li><li><a href="https://paste.docs.lol/reader/CliptMicrometre" title="Self-Hosted 130 Boost Barn" rel="nofollow">Self-Hosted 130 Boost Barn</a> &mdash; Thank you boosters!</li><li><a href="https://pluralistic.net/2024/08/17/hack-the-planet/#how-about-a-nice-game-of-chess" title="Pluralistic: “Disenshittify or Die”" rel="nofollow">Pluralistic: “Disenshittify or Die”</a></li><li><a href="https://ossem.co/" title="ossem-holon – OSSEM HOLON" rel="nofollow">ossem-holon – OSSEM HOLON</a> &mdash; OSSEM is an acronym
+
+Open Source Security Engineering & Modification Group</li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/dUlrHQih+xU35kd1i</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/dUlrHQih+xU35kd1i" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/selfhosted/json/episodes/678c0ac7-5ebd-4014-9d14-29fdfff6f57a/chapters" type="application/json"/>
+      <podcast:person email="" href="https://www.jupiterbroadcasting.com/" role="host">Chris Fisher</podcast:person>
+      <podcast:person email="" href="https://alex.ktz.me" role="host">Alex Kretzschmar</podcast:person>
+      <podcast:person email="" href="https://x.com/Gater_Byte" role="guest">Josh</podcast:person>
+    </item>
     <item>
       <title>129: Forged Alliance</title>
       <link>https://selfhosted.show/129</link>
