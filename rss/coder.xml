@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 11 Sep 2024 04:46:11 -0500</fireside:genDate>
+    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
+    <fireside:genDate>Tue, 17 Sep 2024 15:46:33 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder Radio</title>
     <link>https://coder.show</link>
-    <pubDate>Wed, 11 Sep 2024 09:45:04 -0000</pubDate>
+    <pubDate>Tue, 17 Sep 2024 20:45:22 -0000</pubDate>
     <description>A weekly talk show taking a pragmatic look at the art and business of Software Development and the world of technology.
 </description>
     <language>en-us</language>
@@ -63,8 +63,8 @@ Rumors indicate that the image generation functionality, like Genmoji and Image 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+mYX3L3aT" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/7f9564b2-eccf-4500-9377-9f9fd4ce495a/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>586: Mike's Clone Army</title>
@@ -92,8 +92,8 @@ Rumors indicate that the image generation functionality, like Genmoji and Image 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+uJARqIi9" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/2127782e-8bb7-4dbc-a9cf-e2cbf32fa58c/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>585: From Ops to Dev and Back Again</title>
@@ -125,8 +125,8 @@ You can read more at http://procreate.com/ai ✨ </li><li><a href="https://www.a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+GjR7m3KJ" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/511c37cc-6618-4c6c-9f3b-cff15716bee6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>584: Google’s Poisoned Apple</title>
@@ -154,8 +154,8 @@ You can read more at http://procreate.com/ai ✨ </li><li><a href="https://www.a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+VhnZ7oAL" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/86df8002-44a0-4837-9103-a8d51d894c12/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>583: A Shekel for Every Click</title>
@@ -185,8 +185,8 @@ You can read more at http://procreate.com/ai ✨ </li><li><a href="https://www.a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+V_-FPdts" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/605ff62f-dd11-41fc-af6d-ddd2f2f2e30e/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>582: Intel: It Hurts Inside</title>
@@ -214,8 +214,8 @@ You can read more at http://procreate.com/ai ✨ </li><li><a href="https://www.a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+h2z6nrx2" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/72686eb2-5052-4592-a1cc-5600a512164b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>581: Lunacy Lake</title>
@@ -243,8 +243,8 @@ You can read more at http://procreate.com/ai ✨ </li><li><a href="https://www.a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Jv5c0AzY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/aa6cdf66-cd26-47d1-b334-00d07cccf688/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>580: Error Lake</title>
@@ -276,8 +276,8 @@ I believe that AI will develop in a similar way. </li><li><a href="https://www.n
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Ab11n5yD" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/7333f764-66f6-42eb-a345-2cf6c786655c/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>579: The Insufferable Small Business</title>
@@ -307,8 +307,8 @@ I believe that AI will develop in a similar way. </li><li><a href="https://www.n
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+fI2j3roX" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/7963cd3f-0657-4736-9f29-af55c408a976/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>578: Cancel the 100X</title>
@@ -336,8 +336,8 @@ I believe that AI will develop in a similar way. </li><li><a href="https://www.n
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+bnK_VVcp" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/1616df40-51ff-4315-a0ae-efcc81f11b20/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>577: Holy Order of the Admins</title>
@@ -365,8 +365,8 @@ I believe that AI will develop in a similar way. </li><li><a href="https://www.n
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Xppvh2gZ" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/4b2c9f95-2881-450f-b8a2-a6ca1b22e100/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>576: The New 800-pound Gorilla</title>
@@ -396,8 +396,8 @@ I believe that AI will develop in a similar way. </li><li><a href="https://www.n
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+cvPhPWiS" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/f688e7ab-a4fb-4664-859b-7d87124c7c17/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>575: The Omakub Directive</title>
@@ -429,8 +429,8 @@ Not sure, but I'm tired of my operating system treating me like the product.</li
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+3vuu2YbD" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/b8ab74a9-f63a-4518-bf6d-684d4eac76e4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>574: Craig Stans Unite</title>
@@ -458,8 +458,8 @@ Not sure, but I'm tired of my operating system treating me like the product.</li
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Ei-Dnm0X" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/d0f0110e-f0e4-4523-b121-c91e2b66ebea/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>573: The Ultimate Computer</title>
@@ -489,8 +489,8 @@ Compatible with Windows and Android. </li></ul>]]>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+DE_ZZFGD" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/fe2a5e5b-052a-4f7b-9b4c-14c82a47339a/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>572: Foxes In The Henhouse</title>
@@ -524,8 +524,8 @@ And the $1.2 billion iShares ESG MSCI USA Leaders ETF (SUSL) has suffered $2.3 b
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+6_OnprWZ" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/556b527c-0eb1-436f-a98e-a401ca41294b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>571: Old Wine New Bottle </title>
@@ -553,8 +553,8 @@ And the $1.2 billion iShares ESG MSCI USA Leaders ETF (SUSL) has suffered $2.3 b
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+3TZz7oX7" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a5abdc06-11b0-4e86-ae4b-6badaeb509bc/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>570: 4o</title>
@@ -582,8 +582,8 @@ And the $1.2 billion iShares ESG MSCI USA Leaders ETF (SUSL) has suffered $2.3 b
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+q5jT8cMq" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/e66ded70-3b96-419f-a76e-de5f4b3ba543/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>569: Whatever It Takes</title>
@@ -613,8 +613,8 @@ And the $1.2 billion iShares ESG MSCI USA Leaders ETF (SUSL) has suffered $2.3 b
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+xh1JzUU5" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/e014fef3-a427-46f0-8dcd-a09698295ea6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>568: The Junior Jump</title>
@@ -644,8 +644,8 @@ SteerMouse is a utility that lets you freely customize buttons, wheels and curso
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+XHJANL7O" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/1108d688-a717-42b9-a0d7-c693778f2ec5/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>567: The year of Small Models </title>
@@ -675,8 +675,8 @@ Flywheel only continues with big models too when these techniques are applied</l
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+6sjdEuR7" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/b5bb4a9d-3f32-4dfe-97b0-104a131b44a7/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>566: FOSS Feed &amp; Care</title>
@@ -704,8 +704,8 @@ Flywheel only continues with big models too when these techniques are applied</l
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+WtbBqhX_" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/f1924a89-e35f-441b-80c5-bb66c6e37942/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>565: The Great Llama</title>
@@ -740,8 +740,8 @@ Plus, our thoughts on the data showing the trades are starting to see a boom, an
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+ZBcJvsK6" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/7005e872-d668-4b50-9904-550a4b3e9eef/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>564: Re-Re-Rewrite it in Rust</title>
@@ -769,8 +769,8 @@ Plus, our thoughts on the data showing the trades are starting to see a boom, an
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+su_oxgIM" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/f3631694-5203-4c4e-8ca8-407916ddd058/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>563: Mike’s No Good Very Bad Rails Update</title>
@@ -798,8 +798,8 @@ Plus, our thoughts on the data showing the trades are starting to see a boom, an
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+pnDKsBIu" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/c669af7a-33d8-4516-97f8-6998a9def884/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>562: Apple Loses It's Shine</title>
@@ -847,8 +847,8 @@ Plus, our thoughts on the data showing the trades are starting to see a boom, an
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+QyaYDt4m" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/ee4daf26-f0ea-4c48-90e8-06765342e066/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>561: No CUDA for You!</title>
@@ -876,8 +876,8 @@ Plus, our thoughts on the data showing the trades are starting to see a boom, an
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+xcucqUci" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/8391a6df-81e5-465f-abdd-0a0d21990599/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>560: Artificial Information</title>
@@ -909,8 +909,8 @@ Plus, our thoughts on the data showing the trades are starting to see a boom, an
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+GZWsv1Ef" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/c51b8de9-055b-450d-96ff-226743f82caa/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>559: Double Botched</title>
@@ -940,8 +940,8 @@ Plus, our thoughts on the data showing the trades are starting to see a boom, an
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+xIP1o-P-" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/3acb3498-e3e4-4dbb-b407-ee39e691d20b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>558: Big Zuck Energy</title>
@@ -969,8 +969,8 @@ Plus, our thoughts on the data showing the trades are starting to see a boom, an
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+NQf7MnSP" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a9b77adb-be0a-49af-bf4d-1f3aa7c010aa/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>557: Betting it all on Green</title>
@@ -1002,8 +1002,8 @@ Because people use them to pretend like they're working.</li><li><a href="https:
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+vScbXmi_" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/9b461703-b757-4753-8b39-663e8406035c/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>556: Facial Computing</title>
@@ -1031,8 +1031,8 @@ Because people use them to pretend like they're working.</li><li><a href="https:
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+oO6uXb08" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5ff04574-1ec5-446f-a3fb-be7353457611/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>555: It's Good to be the King</title>
@@ -1067,8 +1067,8 @@ And our spicy take on why AI safety is really about stopping a movement.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+kAasnIfY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/577824b6-6a89-43ef-a530-fe7706d693b5/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>554: The App Store Addiction</title>
@@ -1096,8 +1096,8 @@ And our spicy take on why AI safety is really about stopping a movement.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+DkI_qtKs" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/231625e7-c0fa-4420-b541-ef1366715826/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>553: Fake AI Until You Make AI</title>
@@ -1140,8 +1140,8 @@ This means the anti-anti-steering injunction that Epic won under California Unfa
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+TDCrXAeY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/c63611ef-920d-481c-893a-22c8dd7684fa/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>552: iPad Friend Zone</title>
@@ -1177,8 +1177,8 @@ So what’s going to happen? I don’t know, but I do know that we’ll keep fig
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+6UHzMeiy" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/852e274f-9fcb-43ec-b721-a5442ce619ed/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>551: The Workstation Lifestyle</title>
@@ -1206,8 +1206,8 @@ So what’s going to happen? I don’t know, but I do know that we’ll keep fig
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+-kk15bSx" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/1096b371-18bb-430b-a868-cc6b6c06d061/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>550: Buff Uncle Jeff</title>
@@ -1235,8 +1235,8 @@ So what’s going to happen? I don’t know, but I do know that we’ll keep fig
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+JrUCETC6" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/d109b8f0-2f69-4815-8e63-66ef5f0d792b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>549: Hacking The Gathering</title>
@@ -1264,8 +1264,8 @@ So what’s going to happen? I don’t know, but I do know that we’ll keep fig
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+8X3w-8e2" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/68980179-05e1-4750-a34b-257ddc93135f/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>548: Don't Fight the Music</title>
@@ -1295,8 +1295,8 @@ So what’s going to happen? I don’t know, but I do know that we’ll keep fig
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+hgwfV-VY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/de45a8f5-b71b-4ed7-b004-af29b579186e/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>547: The Slow and the Infuriating</title>
@@ -1324,8 +1324,8 @@ So what’s going to happen? I don’t know, but I do know that we’ll keep fig
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+SCej-n0C" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/9f0778a4-be96-4b17-acff-86992cdc80d7/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>546: A Very Tidy Excuse</title>
@@ -1353,8 +1353,8 @@ So what’s going to happen? I don’t know, but I do know that we’ll keep fig
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+gWiNXNmR" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5db5c5c2-b24c-4524-ba2b-1fa9da192ff4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>545: Sam's Busy Weekend</title>
@@ -1389,8 +1389,8 @@ This is inconsistent with all narratives about “cloddish” or self-interested
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+yBQiRNSC" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/b51989d0-d39b-41b8-8e3f-cb950ef8b5c5/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>544: Microsoft Already Did It</title>
@@ -1423,8 +1423,8 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+hqo0g4N2" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a41e293a-4138-45eb-980e-7719a9b78e07/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>543: For Your Safety</title>
@@ -1456,8 +1456,8 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+21iHjXBL" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/f67e5b21-01dc-49d4-8194-0d94b06ec76b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>542: Fresh Cut Fraud</title>
@@ -1485,8 +1485,8 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+B7ArpuY5" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/30d90962-63a2-4e49-bf7d-25b03396a16e/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>541: Better Late than Never</title>
@@ -1514,8 +1514,8 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+rdshNDTY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/656cfab5-e5dd-4243-b1fc-9bc0728438d1/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>540: Sherlockin All Over the Place</title>
@@ -1543,8 +1543,8 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+3ogT4EkW" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/e14dd85b-b43a-4ff8-b686-b8ccf5724006/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>539: Mike Breaks the Build</title>
@@ -1572,8 +1572,8 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+-lnp1UkN" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/0de08d34-b59e-4a2e-93e3-7e5fe01650ca/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>538: You Never Forget Your First</title>
@@ -1603,8 +1603,8 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Dq00NdvM" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/b5665466-cc56-4343-8c72-400cb3fd467f/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>537: Unity Mutiny</title>
@@ -1636,8 +1636,8 @@ A troublesome rollout of new policy changes had left developers frustrated and a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+l2-d3nPv" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5ffa4875-f65e-4ef2-a307-919a97d21c18/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>536: Grindr-in-Chief</title>
@@ -1669,8 +1669,8 @@ A troublesome rollout of new policy changes had left developers frustrated and a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+aZLoLnf2" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/30d89575-77a6-4b41-b36b-bf2d6dc9ad71/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>535: Locally Sourced Carbon Neutral Consumer</title>
@@ -1698,8 +1698,8 @@ A troublesome rollout of new policy changes had left developers frustrated and a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+q-QgHc9-" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/15ee2aa2-f6f1-4ea7-a214-790cf0f85809/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>534: Blame the Automation</title>
@@ -1729,8 +1729,8 @@ Just three people were on duty in Australia when 'power sag' struck and software
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+g1x-FHec" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/37c50590-aeb4-4536-b4e2-29946f357d7a/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>533: Critical Failure in Open Source</title>
@@ -1767,8 +1767,8 @@ Plus, Mike's thoughts after using Cursor AI and a Cornell study take generated c
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+KGQmW_rI" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/ceb94e54-92fd-4951-9855-1874e4a60f42/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>532: Take It to the Limit</title>
@@ -1796,8 +1796,8 @@ Plus, Mike's thoughts after using Cursor AI and a Cornell study take generated c
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+HB4kWGVB" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/53081b28-7923-4b78-85b9-892bfbe9b412/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>531: C# as it Should Have Been</title>
@@ -1833,8 +1833,8 @@ Which means SBF's lawyers would be able to cross-examine Gensler under oath at t
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+iQjJNoS9" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5d7f6341-c132-4ed9-bae3-baf41767ac95/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>530: What the AI Skeptics got Right</title>
@@ -1862,8 +1862,8 @@ Which means SBF's lawyers would be able to cross-examine Gensler under oath at t
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+exBlsKrE" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/e2bbe786-e561-42a9-870d-35b564fc9189/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>529: This API is Not for You</title>
@@ -1891,8 +1891,8 @@ Which means SBF's lawyers would be able to cross-examine Gensler under oath at t
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+vePNn_BG" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/17c8be8f-1eee-44db-bdc7-322cd0610228/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>528: I'm a 1.2x Developer</title>
@@ -1920,8 +1920,8 @@ Which means SBF's lawyers would be able to cross-examine Gensler under oath at t
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+XQdzZeGh" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/e0c290d2-5bcd-4cbe-9cee-3347dd645086/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>527: The Internet is for Stealing JPGs</title>
@@ -1949,8 +1949,8 @@ Which means SBF's lawyers would be able to cross-examine Gensler under oath at t
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+mQhpJgvt" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/bfc37cd8-6670-41ac-8b0e-5545d39d933b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>526: The Closing Moment of Opportunity</title>
@@ -1978,8 +1978,8 @@ Which means SBF's lawyers would be able to cross-examine Gensler under oath at t
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+H7jn9U9w" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/2caba66a-7b65-4a9b-bd5e-77340d8e3cbb/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>525: Mike Gets Unreal</title>
@@ -2007,8 +2007,8 @@ Which means SBF's lawyers would be able to cross-examine Gensler under oath at t
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+fiLdr_R4" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a7938610-41ba-49d6-9665-74b3a2059dd8/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>524: Apple's Blurry Vision</title>
@@ -2044,8 +2044,8 @@ I would like to see Mastodon thrive. But the platform’s ideological zealotry i
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+-qwU1loa" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a618609c-5def-4671-a202-cebb29b4b751/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>523: Scooby-Doo of Code Hiding</title>
@@ -2073,8 +2073,8 @@ I would like to see Mastodon thrive. But the platform’s ideological zealotry i
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+K0MFTkOb" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/62cea496-fb86-4cd3-bac7-996958c3fa1b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>522: Reddit Goes Dark</title>
@@ -2108,8 +2108,8 @@ Before this, Huffman had no public interactions with the community or website fo
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+K9rigYvb" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/4557e0e1-c778-4ad9-9486-61648f26dc39/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>521: More Pro, More Problems</title>
@@ -2140,8 +2140,8 @@ With Game Mode enabled in macOS 14, the Mac prioritizes CPU and GPU power for th
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+p-68QZzm" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/691ea057-d65d-429d-ac04-7d9fa6b4c0e3/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>520: Microsoft Goes All-In</title>
@@ -2169,8 +2169,8 @@ With Game Mode enabled in macOS 14, the Mac prioritizes CPU and GPU power for th
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+b7dpB_Fw" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5353aa90-c034-4ed3-8474-bedfc86cb999/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>519: Not So OpenAI</title>
@@ -2210,8 +2210,8 @@ This is just the beginning 🫣</li><li><a href="https://www.macrumors.com/2023/
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+NUZb1b0l" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/ab648877-1f21-4559-9b4c-5c563261c09a/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>518: Driving Mr. Dominick</title>
@@ -2253,8 +2253,8 @@ Strap in.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+rQCGGuGw" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/bd667c8f-4a53-4edd-9991-844edbe94ade/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>517: Savage Serverless Shutdown</title>
@@ -2292,8 +2292,8 @@ So there will be no M3 Macs and no M3 iPads this year.</li><li><a href="https://
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+N2Iwi0EJ" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/bca7d297-5610-4549-b565-97db2cc1487e/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>516: There is No Moat</title>
@@ -2321,8 +2321,8 @@ So there will be no M3 Macs and no M3 iPads this year.</li><li><a href="https://
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+EFzXJiKp" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/6917d19d-fe7c-497a-90f0-08ebb4ff7aca/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>515: Codeium Comes for Copilot</title>
@@ -2354,8 +2354,8 @@ A classic location, with a covered deck on the water with a snack shack, and eas
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+jq-x1ERf" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/defe4ec1-e275-4abf-a484-406602d4c736/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>514: Designing a Villain</title>
@@ -2383,8 +2383,8 @@ A classic location, with a covered deck on the water with a snack shack, and eas
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+nfQER0wU" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5856f364-95c2-489e-b86e-71c634fdb242/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>513: Apple's Golden Hour</title>
@@ -2417,8 +2417,8 @@ Plus, the tool we found uses ChatGPT to help you debug errors.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+87mcZXaA" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/930a217b-adfc-4a89-8888-58a40f0467b8/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>512: The Hysterics Chronicles</title>
@@ -2446,8 +2446,8 @@ Plus, the tool we found uses ChatGPT to help you debug errors.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+8GA6xFUu" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/ab02a08e-d414-4a0e-82f3-c64efad9ca62/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>511: Robot Chat Shack</title>
@@ -2475,8 +2475,8 @@ Plus, the tool we found uses ChatGPT to help you debug errors.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+URyhBYz1" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/82c2022a-6751-4883-bc59-d40bd895a021/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>510: Edge of Disaster</title>
@@ -2504,8 +2504,8 @@ Plus, the tool we found uses ChatGPT to help you debug errors.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+naY8BW3s" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/c88785c7-d7ef-4432-8845-8eadb8deeb56/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>509: The Great Cloud Exodus</title>
@@ -2533,8 +2533,8 @@ Plus, the tool we found uses ChatGPT to help you debug errors.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+gVGlitvm" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/599447f3-8a13-485c-9a60-720ddccfa0a3/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>508: Hybrid Hangover</title>
@@ -2562,8 +2562,8 @@ Plus, the tool we found uses ChatGPT to help you debug errors.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+LzDR6-jb" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/4a3878a8-1fe3-4d3a-b061-49597c19ea7f/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>507: Tough Little Liver</title>
@@ -2595,8 +2595,8 @@ Plus, the tool we found uses ChatGPT to help you debug errors.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+gLDcU77c" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/8058f24c-58c1-4cfe-b73e-1d3c1d610c53/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>506: Hay Tay</title>
@@ -2629,8 +2629,8 @@ Plus one of the worst examples of under-funded open source yet.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+zgsA9-0_" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/197ac2a0-1df5-454d-9a5b-0289711f0f99/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>505: Panic at the GPTdisco</title>
@@ -2658,8 +2658,8 @@ Plus one of the worst examples of under-funded open source yet.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+x4CoRP2d" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/82ef3f7a-c5f7-46f4-9c81-ad1bcb20836e/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>504: Gateway Timeout Error</title>
@@ -2689,8 +2689,8 @@ Plus one of the worst examples of under-funded open source yet.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+6DRNA4g2" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/abecb04b-46c5-4eeb-b22c-b2b865e0112e/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>503: Ruby in the WebAssembly</title>
@@ -2718,8 +2718,8 @@ Plus one of the worst examples of under-funded open source yet.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+HP6dP6Yh" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/83ffc184-96f6-4b5c-ad90-6a44c9ad046c/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>502: Too Big to Care</title>
@@ -2749,8 +2749,8 @@ Plus one of the worst examples of under-funded open source yet.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+gv4QMNca" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/28579279-5c6c-41eb-bf50-9365a96fd952/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>501: The AWS of AI</title>
@@ -2778,8 +2778,8 @@ Plus one of the worst examples of under-funded open source yet.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+teDMGzJ3" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/bc10953e-b406-4de2-ab87-cbc5d67af5d5/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>500: Internal Server Error</title>
@@ -2807,8 +2807,8 @@ Plus one of the worst examples of under-funded open source yet.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+DY_Ynbbz" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/fc5d51cb-7ce9-4edb-99c1-0a02bd2eea93/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>499: The Copy Paste Wars</title>
@@ -2836,8 +2836,8 @@ Plus one of the worst examples of under-funded open source yet.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+owXnM-Ix" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/1d367b17-d9d9-4a59-8438-935cadaf201c/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>498: The Birds and the Elephants</title>
@@ -2869,8 +2869,8 @@ Overture aims to incorporate map data from multiple sources including Overture M
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+RuNhmPsf" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/67c32647-f6b7-406f-a7ff-5411fb82e107/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>Gamer Radio 0: Gaming with Perspective - Test Show</title>
@@ -2898,8 +2898,8 @@ Overture aims to incorporate map data from multiple sources including Overture M
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+PUB63yNn" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>497: Shots Across the Pond</title>
@@ -2927,8 +2927,8 @@ Overture aims to incorporate map data from multiple sources including Overture M
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+4lPUfVs5" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/42d74c47-fa35-47b1-b1eb-4d5ff9e798f4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>496: Sweeney's Final Swing</title>
@@ -2956,8 +2956,8 @@ Overture aims to incorporate map data from multiple sources including Overture M
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+aZ8oGeaD" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/7ca88017-331d-405e-8808-69811b6a511d/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>495: .Not Funded</title>
@@ -2992,8 +2992,8 @@ Plus, why Pydantic is giving Mike a headache.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+80-yq65_" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/700bf1ab-51f3-49e0-9844-5ebc311d7826/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>494: Python Paradigms</title>
@@ -3021,8 +3021,8 @@ Plus, why Pydantic is giving Mike a headache.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+gs0MGEIn" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/7f705af8-cf50-48e6-83d6-922f4377a092/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>493: Super Spellcheck</title>
@@ -3057,8 +3057,8 @@ that works on top of your local folder of plain text files. </li></ul>]]>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+JmvJOG_2" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/d7103aed-e745-4961-a8b3-718b36482dc6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>492: The Troll Wizard</title>
@@ -3088,8 +3088,8 @@ that works on top of your local folder of plain text files. </li></ul>]]>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+oABiC4Fl" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/6ef3e7a8-fe7d-4047-bbc9-cc42f5794900/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>491: Voltron Based Development</title>
@@ -3117,8 +3117,8 @@ that works on top of your local folder of plain text files. </li></ul>]]>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+8vNr_Tge" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/96daf25a-ab33-435b-9b59-a2b8b453ce42/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>490: Final Boss Battle</title>
@@ -3158,8 +3158,8 @@ that works on top of your local folder of plain text files. </li></ul>]]>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Au3Wn4ph" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/54ebbf55-fd58-4881-b397-4eefe0e2f5b6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>489: Luther Curious</title>
@@ -3187,8 +3187,8 @@ that works on top of your local folder of plain text files. </li></ul>]]>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+zhIoocu3" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/51c79922-1355-4e27-bc8a-57da8cff53b4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>488: Code Laundering</title>
@@ -3224,8 +3224,8 @@ Nobody is entitled to support from volunteer FOSS projects, but they absolutely 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+sn8mIGXv" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/b67aa661-b99d-4d2f-a8dd-4f17f48defbf/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>487: Casual Coders</title>
@@ -3257,8 +3257,8 @@ Nobody is entitled to support from volunteer FOSS projects, but they absolutely 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Wn0WYMmZ" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a86db702-c529-413c-ad75-ee7993cbf199/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>486: The Fight for the Next Knight Rider</title>
@@ -3286,8 +3286,8 @@ Nobody is entitled to support from volunteer FOSS projects, but they absolutely 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Gy2bKX7c" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/212084ca-b0c8-43b2-925e-59e423479fe4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>485: Going All In on Linux</title>
@@ -3315,8 +3315,8 @@ Nobody is entitled to support from volunteer FOSS projects, but they absolutely 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+kSBQZB6H" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/3156af2e-f13f-4b74-9389-69613405dff7/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>484: I Wanted to be a Hipster</title>
@@ -3354,8 +3354,8 @@ Nobody is entitled to support from volunteer FOSS projects, but they absolutely 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+J_E68N3V" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/8dd3c695-5cd9-48a4-b87e-39d41cbf9d4a/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>483: Objective D</title>
@@ -3391,8 +3391,8 @@ Nobody is entitled to support from volunteer FOSS projects, but they absolutely 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+F_GHPhXH" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/0dd30a44-823c-413c-88b9-0d29b53a87cc/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>482: Building Your Light Saber</title>
@@ -3426,8 +3426,8 @@ Nobody is entitled to support from volunteer FOSS projects, but they absolutely 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+bAkxfhws" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/4c70acd0-db52-450e-b5dd-0624d5f1e25f/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>481: Apple's Metal Tax</title>
@@ -3459,8 +3459,8 @@ Nobody is entitled to support from volunteer FOSS projects, but they absolutely 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+8-P_zpbk" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/08e62d6e-ba75-42db-b980-ecdcc8d7c954/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>480: Google's 1984 Moment</title>
@@ -3503,8 +3503,8 @@ These photos were unique. There was no hash in any law enforcement database for 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+aETnjoKI" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/049fb194-eeb6-4313-884f-f1d0246b19ab/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>479: Apple's Mob Move</title>
@@ -3537,8 +3537,8 @@ Plus, why we've never seen an App blow it as severely as Telegram is right now, 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+JIjh6rB0" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/b86110a0-1042-4911-8914-212808f6ea3a/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>478: Strange New Workflows</title>
@@ -3570,8 +3570,8 @@ Plus, why we've never seen an App blow it as severely as Telegram is right now, 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+fMAb4Q_Z" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5a7d75fa-569d-483d-adaf-3862d4ddfb5d/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>477: Sweet Little Lies</title>
@@ -3603,8 +3603,8 @@ Plus, why we've never seen an App blow it as severely as Telegram is right now, 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+1rgiUv8E" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/d0fc7ab5-4fcd-495f-97a8-06d9e0e2ee99/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>476: Tapping the Breaks</title>
@@ -3638,8 +3638,8 @@ Apple is joining other tech big-hitters that have frozen hiring across parts of 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+9wOLAyX8" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/7e465ce1-ac73-4194-acf3-b55147a2b91e/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>475: I Do Declare</title>
@@ -3671,8 +3671,8 @@ Apple is joining other tech big-hitters that have frozen hiring across parts of 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+W2inYkh5" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/e27c3bf8-55cd-47fa-9a14-4eb93d6dc632/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>474: Horton Hears a Linux User</title>
@@ -3706,8 +3706,8 @@ Apple is joining other tech big-hitters that have frozen hiring across parts of 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+ByqYfDIY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/cd9243ae-9041-49bf-b748-9faa7484395f/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>473: Laptop Coasters</title>
@@ -3739,8 +3739,8 @@ Apple is joining other tech big-hitters that have frozen hiring across parts of 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+cAfr0Dvs" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/57891174-d1ec-4b03-a5e0-2f89dca246d4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>472: Drunken Copilot</title>
@@ -3772,8 +3772,8 @@ Apple is joining other tech big-hitters that have frozen hiring across parts of 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+yGki71KD" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/4433a5fc-0713-4df8-beb1-ee8de62b3c06/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>471: Technical Guardians of the Galaxy</title>
@@ -3807,8 +3807,8 @@ Despite their more limited resources, he adds, small businesses can be more flex
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+8s4Hl36c" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/38a7a17b-1d0e-4407-82a2-f2cd2631f9d6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>470: Make it so, Dev One!</title>
@@ -3836,8 +3836,8 @@ Despite their more limited resources, he adds, small businesses can be more flex
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+kyuTO7Xv" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/e22c0d78-4453-4ae4-a7c1-774353422121/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>469: The Problem with WWDC</title>
@@ -3869,8 +3869,8 @@ Despite their more limited resources, he adds, small businesses can be more flex
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+tJgSxIij" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/291cd566-1305-466e-8e99-f3971808ccd5/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>468: Coding to Make It</title>
@@ -3898,8 +3898,8 @@ Despite their more limited resources, he adds, small businesses can be more flex
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+CNRknfxY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/01d24c91-db34-4342-8cd7-c066e57cb7c6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>467: No More Snake Mustaches</title>
@@ -3935,8 +3935,8 @@ Despite their more limited resources, he adds, small businesses can be more flex
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+zhuiX0A_" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/f30da914-2371-498b-a097-ec8f225ba944/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>466: Luxury Emotional Manipulation</title>
@@ -3970,8 +3970,8 @@ What happened to eating your own dog food?</li><li><a href="https://www.amazon.c
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+FMCCv_WR" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/ce20fd28-6e4a-4db1-b109-5354fc3bc024/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>465: Mike's Magic Mom</title>
@@ -4003,8 +4003,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+U1LcOt9S" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a74bdeb8-2f86-460f-90d8-31df94ce5a74/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>464: Our Cuban Car Moment</title>
@@ -4032,8 +4032,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+uI8eTytY" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/4d99f6bc-2eb4-4f44-aebc-6cecbc167c8d/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>463: You Git What You Pay For</title>
@@ -4071,8 +4071,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+b3avqws7" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/1b7c6f0e-ca34-4172-be25-5db503254f64/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>462: Account Suspenders</title>
@@ -4104,8 +4104,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+AkWPO1xW" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/fdd0b16f-a7f6-4356-9e90-8ca995e4a855/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>461: Easy for Schmidt to Say</title>
@@ -4133,9 +4133,9 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+d1Qb8OsU" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/55888be3-e3c5-4d14-a9d2-ee03fa862421/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
-      <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
       <podcast:person email="" href="https://www.jupiterbroadcasting.com/" role="host">Wes Payne</podcast:person>
+      <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>460: Request Out of Time</title>
@@ -4163,8 +4163,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+va_azXsV" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/be012bce-d179-4f57-8416-00b61121402a/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>459: Revolution in Review</title>
@@ -4198,8 +4198,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+BsUz0Y5G" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/3d17461d-df88-4750-a127-b14f1174fc47/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>458: No Sideloading in this House</title>
@@ -4226,8 +4226,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
       <fireside:playerEmbedCode>
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+KdJN4q0Q" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>457: Rich Clownshow Services</title>
@@ -4261,8 +4261,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+aq8xFyFk" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/88643edc-b292-4e90-a7b5-63fae98c33b7/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>456: Linux CEO</title>
@@ -4290,8 +4290,8 @@ The RSS 2.0 spec was last updated in 2009 and there had been little to no activi
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+mYy8-HI8" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/6348b8e5-c893-41e4-ad52-a213960614df/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>455: One Revision Away</title>
@@ -4324,8 +4324,8 @@ Plus, new details about Microsoft's acquisition of Activision Blizzard are just 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+_LzeQKMq" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/01573772-ea15-426c-9d03-0c2ae4b2599b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>454: No Quest for the Wicked</title>
@@ -4353,8 +4353,8 @@ Plus, new details about Microsoft's acquisition of Activision Blizzard are just 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+RIWYE7Ra" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/f048d94c-658c-4978-9b0a-7eecceafaf60/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>453: International Boomer Marooners</title>
@@ -4388,8 +4388,8 @@ Plus, new details about Microsoft's acquisition of Activision Blizzard are just 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+OPbXbXjS" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/b8aa1d56-1341-468f-9810-e0b645678000/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>452: Shockingly Pragmatic</title>
@@ -4419,8 +4419,8 @@ Plus, new details about Microsoft's acquisition of Activision Blizzard are just 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+2gWbFzES" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a2222a7f-688c-497c-bca3-7d6923a509c4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>451: The Trouble with Tablets</title>
@@ -4448,8 +4448,8 @@ Plus, new details about Microsoft's acquisition of Activision Blizzard are just 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+_VO-JhQn" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/2dfdad95-9daa-4410-b211-6d80c82663e9/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>450: MetaWave</title>
@@ -4477,8 +4477,8 @@ Plus, new details about Microsoft's acquisition of Activision Blizzard are just 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+k85gGg98" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/8ca0bf2e-c687-40eb-8881-000a4cb1571d/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>449: Monetized Misery</title>
@@ -4514,8 +4514,8 @@ This is a diabolical way to meet the letter but not the spirit of laws. World cl
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+aCePa8dq" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/8653da96-11b8-4166-a0f7-e8fd63ae91d6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>448: Fakers and Takers</title>
@@ -4548,8 +4548,8 @@ Plus how Google blew a once-in-a-lifetime opportunity to control mobile messagin
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+rlxsqiQo" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a4fc91f2-524e-4f18-843d-042e01dbf0f6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>447: All Roads Lead to Clippy</title>
@@ -4585,8 +4585,8 @@ Plus how Google blew a once-in-a-lifetime opportunity to control mobile messagin
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+5aKkyEyx" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5d05a9f4-9dbe-4b0d-a774-256d558f1fac/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>446: Blizzard Battery Battle</title>
@@ -4614,8 +4614,8 @@ Plus how Google blew a once-in-a-lifetime opportunity to control mobile messagin
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+7JCzMDhk" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/03d55dab-6d6c-4ec8-9f49-eae6bccb4669/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>445: Say No to Node</title>
@@ -4645,8 +4645,8 @@ Plus how Google blew a once-in-a-lifetime opportunity to control mobile messagin
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+ILQuD8D4" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/e7eb1dc9-0d66-42c7-9e99-f79b7d3a0e59/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>444: Mining the Logs</title>
@@ -4674,8 +4674,8 @@ Plus how Google blew a once-in-a-lifetime opportunity to control mobile messagin
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+iGvo1j7n" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/8c5f3501-f4ea-408c-b053-d5e7e9b1e373/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>443: Reptilian Power Play</title>
@@ -4709,8 +4709,8 @@ The South Florida city is the first municipality to accept cryptocurrency contri
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+sk8a0F6W" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/2aaca453-b140-4391-a3e0-9eff2e983ad4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>442: Touched by the Bar</title>
@@ -4746,8 +4746,8 @@ The South Florida city is the first municipality to accept cryptocurrency contri
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+BCV29yj1" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/47820d42-0a2a-4d60-bdc6-e8eb0a86f735/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>441: Dependency Derby</title>
@@ -4777,8 +4777,8 @@ Every one of these package managers is designed for a reckless world in which pr
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+L2VlGSSD" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/3c48d287-c623-4426-820f-0f216364b1f7/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>440: Just Say No to M1</title>
@@ -4813,8 +4813,8 @@ Plus, how we met, and why the future is probably not so bright for Apple users l
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+KiiuVvcj" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/02a64ce4-2c79-45d0-ab89-35d6ea928dbb/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>439: Github NoPilot</title>
@@ -4850,8 +4850,8 @@ Plus, how we met, and why the future is probably not so bright for Apple users l
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+LGAfbddR" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/33df84f0-a5c1-4ed8-9af6-86bb678577a5/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>438: The Oppenheimer Problem</title>
@@ -4879,8 +4879,8 @@ Plus, how we met, and why the future is probably not so bright for Apple users l
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+kffVipYk" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/fd27152e-633d-4a3b-8bc6-2053eb067368/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>437: Microsoft War Stories</title>
@@ -4917,8 +4917,8 @@ Plus, which MacBooks we did or did not buy.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+cQJVHlGO" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/386317ef-c039-4079-b820-531da7a23374/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>436: The Diablo is in the Details</title>
@@ -4946,8 +4946,8 @@ Plus, which MacBooks we did or did not buy.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+1N-Z65YT" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/a8362021-f62b-4f1d-a648-077409a1081d/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>435: Ask Alice</title>
@@ -4986,8 +4986,8 @@ And Chris has a surprise for the end of the show.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+6xh5qljz" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/11ecd333-a75b-4a5f-9c6d-477cc4378ccf/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>434: Coding Gungan Style</title>
@@ -5020,8 +5020,8 @@ Plus, why the hermit developer is alive and well, some important feedback, and a
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+IohBNUne" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/320a372e-e742-4c4b-8604-9ec45e0a3f5a/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>433: Falling for FastAPI</title>
@@ -5064,8 +5064,8 @@ Activist employees told the publication that Cook answered only two of a number 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+oy_nhrra" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/8c4088a3-3c38-4355-91ac-d0a1188b0c0b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>432: That Time We Stepped In It</title>
@@ -5101,8 +5101,8 @@ Activist employees told the publication that Cook answered only two of a number 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+m8421_g6" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/6a362c50-75c1-4d5d-adaa-4d1bfadec36b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>431: Success is not Illegal</title>
@@ -5143,8 +5143,8 @@ Build 35 is therefore now the GA build, ready for production use.</li><li><a hre
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+_es0e0Mz" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/ef84c24c-feb2-4613-9e87-3f10b3b0faae/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>430: Steamy PostgreSQL Shower</title>
@@ -5174,8 +5174,8 @@ Build 35 is therefore now the GA build, ready for production use.</li><li><a hre
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+Ct6aXsU-" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/bd5bac51-d863-4374-bec1-d0b97ea1b393/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>429: Apple Fools Everyone</title>
@@ -5208,8 +5208,8 @@ Plus, some thoughts on environmental PCs and the question we hate the most.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+ZoB9EKbj" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/874df0a3-5051-4a85-90c3-8934776178eb/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>428: Epic's Receipts</title>
@@ -5244,8 +5244,8 @@ Plus, Chris levels up his Mac skillz and gets his MacBook Pro under control.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+1Qqe4Y38" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/3e1287d5-3ada-460b-b839-9b659a7d49b4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>427: Second-Class Desktop</title>
@@ -5278,8 +5278,8 @@ But it's really all just a ruse to get you to email the show.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+NP743tuj" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/311a3c86-3abb-4b25-94eb-21989ca44f90/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>426: The Thoughtful Triangle</title>
@@ -5318,8 +5318,8 @@ They turned a trillion dollars of devices into iNarcs—*without asking.*</li><l
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+uMfRT6z7" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5e9d4ca0-d9e1-403c-9f21-16f454ef31aa/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>425: Ruby in the Rough</title>
@@ -5352,8 +5352,8 @@ We also discuss Google's Time Crystals. They have the power to fundamentally cha
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+5meB8Gdl" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/eff394fc-81d5-40d3-81f9-922c41c9b8b4/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>424: Denial of DOS</title>
@@ -5387,8 +5387,8 @@ We also discuss Google's Time Crystals. They have the power to fundamentally cha
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+mAD_WJ1q" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/c26df7da-e153-4432-80de-b763f233da2e/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>423: Dead Desktop Disco</title>
@@ -5425,8 +5425,8 @@ Plus, the Gnome project says the traditional desktop is dead, and extensions are
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+wJAdYsvL" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/dfd43f75-c014-4998-b906-f323cb7c18ce/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>422: Don't Code in Bed</title>
@@ -5459,8 +5459,8 @@ Plus the almost impossible story of how Mike defeated another laptop.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+1ijwwhWe" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/05af11ef-f7c7-4818-ad41-539986f70941/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>421: Misdirected Request</title>
@@ -5493,8 +5493,8 @@ Plus the trouble with Co-Pilot, and a lot more.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+67dUYOPL" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/3c43ec33-efff-40cb-9453-5cce21459aef/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>420: You Can't Sideload Happiness</title>
@@ -5526,8 +5526,8 @@ Plus the trouble with Co-Pilot, and a lot more.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+ykvfH0c7" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/74a7c96d-2120-4109-8300-9bedac501b87/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>419: Authentication Timeout</title>
@@ -5562,8 +5562,8 @@ Plus Mike's recent tech woes and Chris' special surprise waiting for him in the 
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+ZhLp7pj9" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/2b7cf18b-75e7-443f-8eb1-02a4725bb1b6/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>418: I'm a Teapot</title>
@@ -5598,8 +5598,8 @@ Plus, a tool we're calling "game-changing" that probably makes anyone a master d
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+GeFRD3Q5" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/8f47973c-df15-4814-b669-32850b76fa05/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>417: Why Would Developers Care?</title>
@@ -5636,8 +5636,8 @@ None of the fluff, just the stuff the mattered.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+PUZ2-5f1" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/83e9ff9b-9a41-47ae-9935-5c3d0ec19d48/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>416: Strange Voltron of Hell</title>
@@ -5670,8 +5670,8 @@ Plus a batch of your emails, a little proxy war, and more!
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+AWb7McVd" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/1d7b3f28-319f-4d5b-81f0-3058d44246ae/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>415: Keyboard Kurious</title>
@@ -5703,8 +5703,8 @@ Plus a batch of your emails, a little proxy war, and more!
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+JDDl5nXi" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/7b1318fd-294e-4c57-90b8-0e2e518b9a24/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>414: Google I/NO</title>
@@ -5739,8 +5739,8 @@ Plus our reaction to the creation of a Linux Subsystem for Mac.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+-gssWAMJ" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/9b7dfb9f-16b5-4062-8342-545818c2cc0b/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>413: Painpoints to Profits</title>
@@ -5779,8 +5779,8 @@ Then we react, strongly, to Docker charging to skip updates.
         <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+__B1HkDX" width="740" height="200" frameborder="0" scrolling="no">]]>
       </fireside:playerEmbedCode>
       <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/0eadab68-8cf6-4628-917e-540c50c9334c/chapters" type="application/json"/>
-      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
       <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
     </item>
     <item>
       <title>412: Context in Comprehension</title>
