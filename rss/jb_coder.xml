@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:admin="http://webns.net/mvcb/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:fireside="http://fireside.fm/modules/rss/fireside" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:jb="https://jupiterbroadcasing/jank" version="2.0" encoding="UTF-8">
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:jb="https://jupiterbroadcasing/jank" xmlns:admin="http://webns.net/mvcb/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:fireside="http://fireside.fm/modules/rss/fireside" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <channel>
-    <podcast:liveItem status="pending" start="2024-10-01T12:00:00-07:00">
+    <podcast:liveItem status="ended" start="2024-10-01T12:00:00-07:00">
       <title>Coder Radio DOUBLE</title>
       <itunes:subtitle>Coder Radio DOUBLE</itunes:subtitle>
       <description content="&lt;div&gt;&lt;p&gt;Join us for a totally unhinged double recording of Coder Radio, live!&lt;/p&gt;&lt;/div&gt;"/>
@@ -20,7 +20,7 @@
         <podcast:valueRecipient name="Fountain Bot" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="1" fee="false" customKey="906608" customValue="01IMQkt4BFzAiSynxcQQqd"/>
       </podcast:value>
       <podcast:chat protocol="nostr" server="relay.fountain.fm" accountId="npub1ddngs6e6m4evw7wjqkl9wnkz6l8vvxgxrtp7w4ch8zdjv3ze38jqcg3uu5" space="30311:6b66886b3add72c779d205be574ec2d7cec619061ac3e75717389b26445989e4:cf9be210-f6fc-4e03-a90b-a3dbbbb290d4"/>
-      <pubDate>Tue, 24 Sep 2024 13:03:53 -0700</pubDate>
+      <pubDate>Tue, 24 Sep 2024 13:19:51 -0700</pubDate>
       <itunes:explicit>No</itunes:explicit>
       <author>Jupiter Broadcasting</author>
       <itunes:author>Jupiter Broadcasting</itunes:author>
