@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:jb="https://jupiterbroadcasing/jank" xmlns:admin="http://webns.net/mvcb/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:fireside="http://fireside.fm/modules/rss/fireside" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" encoding="UTF-8">
   <channel>
-    <podcast:liveItem status="ended" start="2024-10-02T12:00:00-07:00">
-      <title>test lit entry 2</title>
-      <itunes:subtitle>test lit entry 2</itunes:subtitle>
-      <description content="&lt;div&gt;&lt;p&gt;test description&lt;/p&gt;&lt;/div&gt;"/>
-      <itunes:summary content="&lt;div&gt;&lt;p&gt;test description&lt;/p&gt;&lt;/div&gt;"/>
-      <jb:rawDescription content="test description"/>
+    <podcast:liveItem status="ended" start="2024-11-11T23:00:00-08:00">
+      <title>test lit entry 6</title>
+      <itunes:subtitle>test lit entry 6</itunes:subtitle>
       <enclosure length="33" type="audio/mpeg" url="https://jblive.fm"/>
-      <guid isPermaLink="false">ade6aa42-7815-4bc3-abe7-7e400b9eabdd</guid>
+      <guid isPermaLink="false">19528df5-00a1-4e1d-ab10-5569a9cd5d69</guid>
       <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/cover.jpg"/>
       <podcast:images srcset="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/cover.jpg"/>
       <link>http://jblive.fm</link>
@@ -19,8 +16,8 @@
         <podcast:valueRecipient name="Chris" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4" split="89"/>
         <podcast:valueRecipient name="Fountain Bot" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" split="1" fee="false" customKey="906608" customValue="01IMQkt4BFzAiSynxcQQqd"/>
       </podcast:value>
-      <podcast:chat protocol="nostr" server="relay.fountain.fm" accountId="npub1ddngs6e6m4evw7wjqkl9wnkz6l8vvxgxrtp7w4ch8zdjv3ze38jqcg3uu5" space="30311:6b66886b3add72c779d205be574ec2d7cec619061ac3e75717389b26445989e4:ade6aa42-7815-4bc3-abe7-7e400b9eabdd"/>
-      <pubDate>Tue, 24 Sep 2024 18:06:30 -0700</pubDate>
+      <podcast:chat protocol="nostr" server="relay.fountain.fm" accountId="npub1ddngs6e6m4evw7wjqkl9wnkz6l8vvxgxrtp7w4ch8zdjv3ze38jqcg3uu5" space="30311:6b66886b3add72c779d205be574ec2d7cec619061ac3e75717389b26445989e4:19528df5-00a1-4e1d-ab10-5569a9cd5d69"/>
+      <pubDate>Tue, 24 Sep 2024 21:23:28 -0700</pubDate>
       <itunes:explicit>No</itunes:explicit>
       <author>Jupiter Broadcasting</author>
       <itunes:author>Jupiter Broadcasting</itunes:author>
