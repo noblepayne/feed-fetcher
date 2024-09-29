@@ -21,7 +21,7 @@
           text = ''
             export SSL_CERT_FILE="${pkgs.cacert}/etc/ssl/certs/ca-bundle.crt"
             mkdir -p rss
-            curl -vL "https://coder.fireside.fm/rss" > rss/coder.xml
+            curl -vL "https://feeds.fireside.fm/coder/rss" > rss/coder.xml
             curl -vL "https://feeds.jupiterbroadcasting.com/coder" > rss/jb_coder.xml
             curl -vL "https://coderqa.fireside.fm/rss" > rss/coderqa.xml
             curl -vL "https://selfhosted.fireside.fm/rss" > rss/ssh.xml
