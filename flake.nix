@@ -28,7 +28,7 @@
             curl -vL "https://sshsre.fireside.fm/rss" > rss/sshsre.xml 
 	    # TODO: less hacky method that can support LUP and other shows
 	    # don't overwrite coder if it has a pending or live liveItem
-	    if grep liveItem rss/jb_coder.xml | grep -e 'status="pending"' -e 'status="pending"'; then
+	    if grep liveItem rss/jb_coder.xml | grep -e 'status="pending"' -e 'status="live"'; then
               echo 'coderqa ssh sshsre' | tr ' ' '\n' | xargs -I {} s5cmd cp rss/{}.xml s3://feeds/rss/{}.xml
 	    else
               echo 'coder coderqa ssh sshsre' | tr ' ' '\n' | xargs -I {} s5cmd cp rss/{}.xml s3://feeds/rss/{}.xml
