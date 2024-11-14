@@ -2,7 +2,7 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 13 Nov 2024 20:22:17 -0600</fireside:genDate>
+    <fireside:genDate>Thu, 14 Nov 2024 16:45:34 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Self-Hosted</title>
     <link>https://selfhosted.show</link>
@@ -18,7 +18,7 @@
     <itunes:summary>Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you along for the journey as they learn new ones.
  A Jupiter Broadcasting podcast showcasing free and open source technologies you can host yourself.
 </itunes:summary>
-    <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+    <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>Self-Hosting, DIY, Linux, open source, encryption, privacy, on premise, hybrid cloud, Reverse Proxy, Dynamic DNS, HomeAssistant, hass.io, Raspberry Pi,  Let’s Encrypt, Free Software, Jupiter Broadcasting, NextCloud, ngnix, Wyze, Alexa, HomeKit, remote control, ssh</itunes:keywords>
     <itunes:owner>
@@ -43,7 +43,7 @@
       <itunes:subtitle>From Nextcloud Breakup to Blissful Reunion: Chris's journey back to a smarter setup. Plus, Jellyfin's game-changing features and a beloved self-hosted app get the upgrade we've all been waiting for.</itunes:subtitle>
       <itunes:duration>57:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>From Nextcloud Breakup to Blissful Reunion: Chris's journey back to a smarter setup. Plus, Jellyfin's game-changing features and a beloved self-hosted app get the upgrade we've all been waiting for. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Jellyfin, Nextcloud, Android TV, ADB Bridge, TrueNAS, Mealie, transcoding, HDR10, FFmpeg, self-hosting, automation, CalDav, CardDav, Docker, ZFS, GPU, RTX 4060, Etebase, iCloud, Redis, SSL, systemd, NixOS, SearXNG, VPN, Gluetun, YouTube, Tube Archivist, Pinchflat, auto-sync</itunes:keywords>
@@ -77,7 +77,7 @@
       <itunes:subtitle>"The" self-hosted app to archive your favorite YouTube channels and easily integrate into Jellyfin/Plex. Plus, our favorite WordPress alternatives and an update on No Google October.</itunes:subtitle>
       <itunes:duration>55:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>"The" self-hosted app to archive your favorite YouTube channels and easily integrate into Jellyfin/Plex. Plus, our favorite WordPress alternatives and an update on No Google October. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, GPU, CUDA, BentoBox, Ice, AT&amp;T Fiber modem bypass, WordPress drama, Advanced Custom Fields, WP Engine, Matt Mullenweg, static site generators, Ghost, Hugo, Zola,  SearXNG, Pinchflat, YouTube media manager, self-hosted applications, Jellyfin, Kodi, Plex, No Google October, photo syncing, self-hosting tips, All Things Open conference</itunes:keywords>
@@ -137,7 +137,7 @@
       <itunes:subtitle>Ditching Google Search for an entire month!  We reveal the tool that's helping us break free. Plus, a special guest shares his home lab to data center journey. And, Chris raves about the ultimate Jellyfin client (and confesses to an accidental network camera purchase).</itunes:subtitle>
       <itunes:duration>55:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Ditching Google Search for an entire month!  We reveal the tool that's helping us break free. Plus, a special guest shares his home lab to data center journey. And, Chris raves about the ultimate Jellyfin client (and confesses to an accidental network camera purchase). 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, SearXNG, Google Search alternative, self-hosting, Jellyfin, streamyfin, Expo, React Native, live TV, Wyze Cam v4, docker-wyze-bridge, No Goog-tober, home lab, data center, Ente, Google Photos alternative, FUTO keyboard, Linux, NFS, VM, partition, qcow2, raw file</itunes:keywords>
@@ -167,7 +167,7 @@
       <itunes:subtitle>Alex has been playing around at the speed of light while solving Proxmox problems, and Chris has solved a Jellyfin issue. Plus, our thoughts on the new Plex features.</itunes:subtitle>
       <itunes:duration>1:03:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex has been playing around at the speed of light while solving Proxmox problems, and Chris has solved a Jellyfin issue. Plus, our thoughts on the new Plex features. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Proxmox, 4k native disks, Jellyfin, Plex, Plex Photos Beta, Plexamp, HEVC encoding, Home Assistant, iOS 18, Apple Watch, bubble cards, Linux, Docker, ZFS, System76, self-hosted solutions, decentralized money, decentralized communications, Proxmox, NixOS, Immich, AutoPi, ODB2 dongle, MQTT</itunes:keywords>
@@ -197,7 +197,7 @@
       <itunes:subtitle>We celebrate five years of the show, chat about self-hosted Lightning, and why Alex loves his NanoKVM. Plus, it is a self-hosted replacement for Amazon Wishlists and more.</itunes:subtitle>
       <itunes:duration>1:02:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We celebrate five years of the show, chat about self-hosted Lightning, and why Alex loves his NanoKVM. Plus, it is a self-hosted replacement for Amazon Wishlists and more. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Bitcoin energy use, Lightning Network, decentralization, privacy, Immich, Google Photos alternative, banking, infrastructure, sustainability, PayPal deplatforming, Patreon policy changes, Zeus, Start9, Umbrel, Alby Hub, liquidity, NanoKVM, RISC-V, PiKVM, wishthis, Microsoft, Windows security, CrowdStrike, Rust, Lenovo Tiny PC, homelab, Toronto meetup, Matrix, AdventureLog, autopi.io, OBD2, Home Assistant, Meshtastic, mesh networks, Mac Mini trash can, Docker, networking</itunes:keywords>
@@ -235,7 +235,7 @@
       <itunes:subtitle>Prusa's Mk4S 3D printer seems to have hit the mark. Alex gets a tour of an awesome new maker space, we take a look at AdventureLog, and much more.</itunes:subtitle>
       <itunes:duration>1:05:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Prusa's Mk4S 3D printer seems to have hit the mark. Alex gets a tour of an awesome new maker space, we take a look at AdventureLog, and much more. Special Guest: Jscar_Hawk.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Raspberry Pi 5, Redbox, Maker Spaces, Disney, 3D printing, Manyfold, Prusa Mk4S, Unraid, AdventureLog</itunes:keywords>
@@ -292,7 +292,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>The battle for code forges is heating up. We chat about HexOS' big promises and get excited about Meshtastic.</itunes:subtitle>
       <itunes:duration>1:00:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>The battle for code forges is heating up. We chat about HexOS' big promises and get excited about Meshtastic. 
 </description>
       <itunes:keywords>Google, Chromecast, updates, Google TV, streamer, Apple TV 4K, Home Assistant, badges, self-hosting, HexOS, funding, open source, home lab, JB hardware, boot disks, IPMI, Tailscale, Forgejo, ForgeFed, ActivityPub, Mastodon, PeerTube, Pixelfed, Gitea,  Rallly, scheduling, collaboration, Docker, Toronto Meetup, lxd, incus, Proxmox, NixOS</itunes:keywords>
@@ -322,7 +322,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>ESPHome dev dishes on device updates, Immich license drama heats up, Alex's DIY server fix, and Chris reports on mobile tech trip test.</itunes:subtitle>
       <itunes:duration>1:05:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>ESPHome dev dishes on device updates, Immich license drama heats up, Alex's DIY server fix, and Chris reports on mobile tech trip test. Special Guest: Keith Burzinski.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, automated updates, crowdstrike, canary deployments, dns record, tailscale, pihole, plex server, offline messaging, magnetic dust filter, server, esphome, immich licensing, server naming, colo, canada, nixos, vps, nixos-anywhere, nix-infect, esphome devices, firmware bugs, nixos-mailserver, prometheus, metrics, zabbix, grafana, nextcloud, graphene os, sandboxed google play services, notifications, blue bubbles, docker-osx, toyota tundra, android head unit, garmin epix pro sapphire gen 2, email alerts, amazon ses, smtp server, ntfy, uptimekuma, unified push, moshidon, element, schildichat, game servers, amp, lan game streaming, sunshine, moonlight, smtp relay, sendgrid, protonmail</itunes:keywords>
@@ -355,7 +355,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>Chris gets serious about tracking maintenance and alerts, why Alex is impressed by the RISC-V-powered NanoKVM, how we might end up using Docmost, and a follow-up review of LubeLogger.</itunes:subtitle>
       <itunes:duration>58:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris gets serious about tracking maintenance and alerts, why Alex is impressed by the RISC-V-powered NanoKVM, how we might end up using Docmost, and a follow-up review of LubeLogger. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Mitsubishi heatpump, esp config, UK server maintenance, HDHomerun, football, travel internet, glInet travel router, Pixel 8, tethering, NanoKVM, RISC-V, KVM over IP, open source, Docmost, wiki, documentation software, LubeLogger, vehicle maintenance, fuel mileage tracker, self-hosted, open-source, Docker, maintenance records, fuel economy, global search, vehicle report, picture attachment, Obsidian, NixOS, Proxmox-NixOS, email alerts, game server, streaming recommendations, Bazzite, Linux gaming, HTPC, keyboard, mouse, hibernate, wake, controller, display flickering, anti-cheat</itunes:keywords>
@@ -385,7 +385,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>Chris reviews the Aqara G4 Video Doorbell, Brent frees his Garmin from the cloud, and we discuss getting iMessages on Android.</itunes:subtitle>
       <itunes:duration>1:19:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris reviews the Aqara G4 Video Doorbell, Brent frees his Garmin from the cloud, and we discuss getting iMessages on Android. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Aqara, G4, Smart, Wireless, Video, Doorbell, No Subscription, Local storage, microSD, 1080p video, HomeKit, Ring, Go2rtc, Matter, reolink, battery powered, Garmin Forerunner 255, Gadgetbridge, Garmin, home-assistant-garmin-connect, iMessage on Android, BlueBubbles</itunes:keywords>
@@ -415,7 +415,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>Alex's mini-PC surprise, why we're trying Tube Archivist, Alex's Nextcloud update, and how Chris stacks automations with Bitfocus Companion.</itunes:subtitle>
       <itunes:duration>51:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex's mini-PC surprise, why we're trying Tube Archivist, Alex's Nextcloud update, and how Chris stacks automations with Bitfocus Companion. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting,  Lenovo, M720q, SFP+, ServeTheHome, thread, STH, review, pcie, bracket, Dual port, m.2, nvme, SSDs, PiKVM, cloudfree.shop, SFF, Dell, 3070, deal, alerts, Tube Archivist, YouTube, media, server, docker, yt-dlp, TubeSync, Nextcloud, perf, DB, postgres, mysql, redis, Bitfocus, Companion, Elgato, Streamdeck, shotbox, GitHub, Companion Pi</itunes:keywords>
@@ -445,7 +445,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>The "you'll own nothing" trend got worse this week, our thoughts about the Raspberry Pi IPO, poor Nextcloud performance, and Alex's new high-fiber obsession.</itunes:subtitle>
       <itunes:duration>1:04:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>The "you'll own nothing" trend got worse this week, our thoughts about the Raspberry Pi IPO, poor Nextcloud performance, and Alex's new high-fiber obsession. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Raspberry Pi IPO, Spotify Car Thing, Apple CarPlay, Android Auto, fiber internet, Nextcloud performance, Immich, , FUTO, Nextcloud Nix module</itunes:keywords>
@@ -475,7 +475,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>Alex benchmarks Intel CPUs (and an Arc GPU) to find the ideal balance of age, power, and speed for your home media server. Plus, our thoughts on Immich going full-time.</itunes:subtitle>
       <itunes:duration>57:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex benchmarks Intel CPUs (and an Arc GPU) to find the ideal balance of age, power, and speed for your home media server. Plus, our thoughts on Immich going full-time. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, FacilMap, Docker, GpxPod, GpxEdit, immich, FUTO, quicksync, Intel Benchmark, mafl</itunes:keywords>
@@ -505,7 +505,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>How Chris created live TV streaming from his local media collection, Alex breaks down the new Open Home Foundation and what it means for self-hosters. Brent's been trying out an open-source AirDrop replacement for all systems, and much more!</itunes:subtitle>
       <itunes:duration>55:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>How Chris created live TV streaming from his local media collection, Alex breaks down the new Open Home Foundation and what it means for self-hosters. Brent's been trying out an open-source AirDrop replacement for all systems, and much more! Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Open Home Foundation, Home Assistant, Zigbee2mqtt, Immich, Tailscale, Traefik, ErsatzTV, Jellyfin, Plex, LocalSend, Unraid, Grist, SSH, VPS, Linux, MythTV, HD-Homerun, Nextcloud</itunes:keywords>
@@ -546,7 +546,7 @@ Open Source Security Engineering & Modification Group</li></ul>]]>
       <itunes:subtitle>Special guest Casey Liss from the Accidental Tech Podcast joins the show to discuss his homelab, how he uses HomeBridge, and his delightfully complex garage door sensor system.</itunes:subtitle>
       <itunes:duration>50:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Special guest Casey Liss from the Accidental Tech Podcast joins the show to discuss his homelab, how he uses HomeBridge, and his delightfully complex garage door sensor system. 
 Then Alex and Casey do their "best" to convince Chris the Apple Vision Pro is an excellent remote admin tool. Special Guest: Casey Liss.
 </description>
@@ -582,7 +582,7 @@ Then Alex and Casey do their "best" to convince Chris the Apple Vision Pro is an
       <itunes:subtitle>Alex goes head-to-head with budget VPS providers, which gets us into a classic debate, and Adam Morales from Unraid joins us!</itunes:subtitle>
       <itunes:duration>45:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex goes head-to-head with budget VPS providers, which gets us into a classic debate. 
 Plus we sit down with Adam Morales from Unraid to get the inside scoop on recent changes and exciting upcoming features. 
 </description>
@@ -617,7 +617,7 @@ Plus we sit down with Adam Morales from Unraid to get the inside scoop on recent
       <itunes:subtitle>Alex rolls back a major server upgrade, and we have fun playing with local large language models.</itunes:subtitle>
       <itunes:duration>47:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex rolls back a major server upgrade, and we have fun playing with local large language models. Special Guest: Wes Payne.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting,  Training AI, Reinforcement Learning, Open WebUI, LLM runners, Ollama, Boosts, Home Assistant</itunes:keywords>
@@ -660,7 +660,7 @@ Plus we sit down with Adam Morales from Unraid to get the inside scoop on recent
       <itunes:subtitle>Alex's new Epyc server build, and Jon Seager from Canonical joins us to chat about Nix in the homelab, packaging Scrutiny, and how Nix fits with existing infrastructure management tools.</itunes:subtitle>
       <itunes:duration>54:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex's new Epyc server build, and Jon Seager from Canonical joins us to chat about Nix in the homelab, packaging Scrutiny, and how Nix fits with existing infrastructure management tools. Special Guest: Jon Seager .
 </description>
       <itunes:keywords>Scrutiny, NixOS, NixOS module, web application, collector service, InfluxDB database, S.M.A.R.T. data, hard drives, smartd, Selenium, Jon Seager, Juju, Canonical, Epyc server build, docker-compose, ansible role docker compose generator</itunes:keywords>
@@ -691,7 +691,7 @@ Plus we sit down with Adam Morales from Unraid to get the inside scoop on recent
       <itunes:subtitle>We chat about VMware's rug pull with Bret, aka Raid Owl, and then get into Unraid's big changes and more.</itunes:subtitle>
       <itunes:duration>58:52</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We chat about VMware's rug pull with Bret, aka Raid Owl, and then get into Unraid's big changes and more. Special Guest: Raid Owl.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, nginx drama, Raid Owl, networking, pc builds, tech, Broadcom, VMware, ESXi, hypervisor storage, unraid, pricing changes, Core NGINX Developer, Freenginx, Maxim Dounin, Nginx, F5, audiobooks, Plappa, iOS app, Jellyfin server, Wyze, camera issue, Unifi, ZigBee network, podman, adiobookshelf, Docker containers</itunes:keywords>
@@ -724,7 +724,7 @@ CitraVR is a GPL-licensed, engineless OpenXR application with all source code pu
       <itunes:subtitle>Alex has been deep-diving into container networking, and Chris is trying to steelman Plex's new rental service.</itunes:subtitle>
       <itunes:duration>55:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex has been deep-diving into container networking, and Chris is trying to steelman Plex's new rental service.
 Plus, why are we building our containers with Tailscale networking now, and the latest from the Home Assistant project? 
 </description>
@@ -759,7 +759,7 @@ Plus, why are we building our containers with Tailscale networking now, and the 
       <itunes:subtitle>Brian Moses joins us and shares his most recent NAS build and love for 3D printers. Then Alex gets into the hardware he's deploying around the house, and why we don't see eye-to-eye on ZigBee.</itunes:subtitle>
       <itunes:duration>48:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Brian Moses joins us and shares his most recent NAS build and love for 3D printers. Then Alex gets into the hardware he's deploying around the house, and why we don't see eye-to-eye on ZigBee. Special Guest: Brian Moses.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Brian Moses, NAS build, 3D printers, ZigBee, Bambu A1 Mini, 3D Printer, Downsides, Build plate, Sovol SV06, Proprietary firmware, Custom hardware, Repairs, Modifications, Tindie, DIY NAS, Off-site backup, Inovelli Blue Switches, HASS trigger IDs, NixCon NA 2024, SCaLE 21x, Pasadena Convention Center, Using Tailscale with Docker, nix-anywhere, nixinate, Pihole, SteveBlack hosts list, Immich, Cloud provider, Backblaze B2, rclone, Object storage,Gitea, Obsidian vaults, Obsidian Git plugin, Android, Sync issues, Diagnose failed drives, RAID array, Hard drive</itunes:keywords>
@@ -792,7 +792,7 @@ rule. When any of the automation’s triggers becomes true (trigger fires), Home
       <itunes:subtitle>We kick off the new year with new apps in our home lab you’ll want to try and a new way to do networking.</itunes:subtitle>
       <itunes:duration>1:01:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We kick off the new year with new apps in our home lab you’ll want to try and a new way to do networking. 
 </description>
       <itunes:keywords>Nextcloud Upgrade, Android Tablet Experiment, Jellystat, OpenSSH 9.5, Audiobookshelf, StirlingPDF, Lubelog, Audiobookshelf, Tailscale Integration, Apple Notes Killer, Memos, Reverse Proxy, Zigbee Plugs Recommendation</itunes:keywords>
@@ -824,7 +824,7 @@ ssh(1) with user or hostnames containing invalid characters.</li><li><a href="ht
       <itunes:subtitle>We look back at what has changed, what's failed us, and what's sticking around in our homelabs.</itunes:subtitle>
       <itunes:duration>1:27:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We look back at what has changed, what's failed us, and what's sticking around in our homelabs. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, grafana, prometheus, influx, monitoring, healthchecks.io, smokeping, BorgBackup, Relationship, Docker, ansible, Proxmox, Ubu 22.04, Nextcloud, InvoiceNinja, paperless-ngx, opnsense, Unifi, 10gig, Blue Iris, PoE cams, Pihole, dnsmasq, Ansible, VPN, Tailscale, Jellyfin, Plexamp, Traefik, Caddy, ZFS, XFS, mergerfs, Snapraid, Home Assistant, Zigbee, TubesZB, 3d printer, Octoprint, Todoist, Proxmox, Ubu 22.04, Nix, MacOS, framework, traefik, caddy, Docker, Jellyfin, Plex, Jellyfin, Obsidian, FreshRSS, Wallabag, Todoist, Duplicati, Storj, Google Drive, NextCloud, NixOS, Plex, Jellyfin, OMBI, Obsidian, ESP32s, PlexJelly-watched, Music assistant, Emby</itunes:keywords>
@@ -857,7 +857,7 @@ ssh(1) with user or hostnames containing invalid characters.</li><li><a href="ht
 Then, one last big update on the Year of Voice and our thoughts on self-hosting push notifications.</itunes:subtitle>
       <itunes:duration>58:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex shares a new build integrating WLED, and Chirs reviews hardware that can get you started with WLED in 45 seconds. 
 Then, one last big update on the Year of Voice and our thoughts on self-hosting push notifications. 
 </description>
@@ -892,7 +892,7 @@ Then, one last big update on the Year of Voice and our thoughts on self-hosting 
       <itunes:subtitle>We break down the state of the pfSense changes and the red flags we see. Plus, we're joined by Wolfgang from Wolfgang's channel to dig into his homelab and much more.</itunes:subtitle>
       <itunes:duration>1:09:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We break down the state of the pfSense changes and the red flags we see. Plus, we're joined by Wolfgang from Wolfgang's channel to dig into his homelab and much more. Special Guest: Wolfgang.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, esp8266, servo motors, control, esphome, interlock, YouTube, tech, Linux, computers, low power servers, hardware transcoding, intel arc, media server, budget, disks, Asrockrack, BMC, IPMI, Netgate, OPNsense, BSD, Wireguard, Scott Long, AES-NI, licensing, pfSense, Plex, Jellyfin, ESP32, wESP32, PoE, ESP32-S3-BOX-3, AI, voice-assistant, touch screen, guest network, IoT devices, Chromecast, VLANs, Immich, git-annex, Jovian-NixOS</itunes:keywords>
@@ -923,7 +923,7 @@ Then, one last big update on the Year of Voice and our thoughts on self-hosting 
       <itunes:subtitle>That man behind the Google Photos killer joins us to chat about the latest release of Immich. Plus, Alex's first impressions of 45Homelab's HL15.</itunes:subtitle>
       <itunes:duration>1:11:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>That man behind the Google Photos killer joins us to chat about the latest release of Immich. Plus, Alex's first impressions of 45Homelab's HL15. Special Guests: Alex Tran and Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Google Photos killer, Immich, 45Homelab's HL15, Photo and video backup, Multi-user, Auto Backup, HEIC/HEIF Backup, EXIF info, Real-time render, Image Tagging, Object detection, Breaking Changes, Docker compose, Backblaze cloud, Restic, S3 encrypted object storage</itunes:keywords>
@@ -955,7 +955,7 @@ Then, one last big update on the Year of Voice and our thoughts on self-hosting 
       <itunes:subtitle>How we almost lost valuable data this week, and a Chat with Doug and Mitch about their new home lab server.</itunes:subtitle>
       <itunes:duration>1:10:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>How we almost lost valuable data this week, and a Chat with Doug and Mitch about their new home lab server. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Alex's Backups disaster, Synology upgrade disaster, Old UK backup server, Alex's remedy, Best Buy 18tb drives, rsync.net, Self-Hosting hits the big time, Local-first software, Obsidian, 45homelab interview, HL15, Home Assistant Devs, safe mode, ZHA</itunes:keywords>
@@ -991,7 +991,7 @@ Then, one last big update on the Year of Voice and our thoughts on self-hosting 
       <itunes:subtitle>Home Assistant's founder, Paulus Schoutsen, shares details about the Year of Voice, recent legal actions from Mazda, and the results of a recent third-party audit.</itunes:subtitle>
       <itunes:duration>1:04:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Home Assistant's founder, Paulus Schoutsen, shares details about the Year of Voice, recent legal actions from Mazda, and the results of a recent third-party audit.
 Plus, our recommended Nextcloud setup, converting dumb devices into smart ones with ESPHome, and more. Special Guests: Brent Gervais, Listener Jeff, and Paulus Schoutsen.
 </description>
@@ -1030,7 +1030,7 @@ Plus, our recommended Nextcloud setup, converting dumb devices into smart ones w
       <itunes:subtitle>With a dose of pragmatism and optimism, we chat about making the best out of old hardware and where we draw the line and buy new.</itunes:subtitle>
       <itunes:duration>1:10:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>With a dose of pragmatism and optimism, we chat about making the best out of old hardware and where we draw the line and buy new. 
 Plus, getting practical about your home media setup, bringing Spook into Home Assistant, and more. Special Guest: Brent Gervais.
 </description>
@@ -1066,7 +1066,7 @@ Plus, getting practical about your home media setup, bringing Spook into Home As
       <itunes:subtitle>Our thoughts on two recent Plex crackdowns, why the Apple TV just got a lot better, how home Assistant could improve 10 years in, and much more.</itunes:subtitle>
       <itunes:duration>57:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Our thoughts on two recent Plex crackdowns, why the Apple TV just got a lot better, how home Assistant could improve 10 years in, and much more. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, iPad OS 17, USB-c, Plex, Pirated Content, Account banned, VPS, Synology NAS, Quicksync Benchmarking, Apple TV, Tailscale, Home Assistant, Home Assistant Cloud, Home Assistant Green, Home Assistant Yellow, Google Nest, Legal challenge, Google Home, ZigBee, Z-Wave Buttons, Garage door controller, Sonoff, Rotary phones, Obsidian, NextCloud, WebDAV</itunes:keywords>
@@ -1096,7 +1096,7 @@ Plus, getting practical about your home media setup, bringing Spook into Home As
       <itunes:subtitle>Alex sits down with the lead developer of mergerfs to get an update on the project, Chris has a button-pushing breakthrough and more.</itunes:subtitle>
       <itunes:duration>1:11:47</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex sits down with the lead developer of mergerfs to get an update on the project, Chris has a button-pushing breakthrough and more. Special Guest: Antonio Musumeci.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, ESPClicker, Digiblur, Switch-Manager, HIMOJO Wireless Scene Switch, Zigbee Smart Light Switch, Remote Control Switch, Zigbee, Tuya, Smart Wall Switch, Wireless Button for Smart Home Devices, Zooz 700 Series, Z-Wave Scene Controller, mergerfs, mergerfs Developer, Antonio Musumeci, trapexit, llama-gpt, Nous Hermes Llama 2 7B Chat, GGML q4_0, Gnucash</itunes:keywords>
@@ -1127,7 +1127,7 @@ Plus, getting practical about your home media setup, bringing Spook into Home As
       <itunes:subtitle>Alex does a significant overhaul of his website and unpacks a new GitHub action workflow. Chris finally achieves complete local voice control of his network, we complain about the state of domain name sellers, and more.</itunes:subtitle>
       <itunes:duration>56:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex does a significant overhaul of his website and unpacks a new GitHub action workflow. Chris finally achieves complete local voice control of his network, we complain about the state of domain name sellers, and more. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Chicago meetup recap, LFNW, LinuxFest Northwest, .COM domain renewals, Namecheap, Verisign, .COM domains, ICANN, ATOM Echo Smart Speaker Development Kit, $13 voice remote for Home Assistant, Home Assistant, Tutorial ATOM Echo, Home Assistant Cloud, M5Stack, USB-C, perfectmediaserver.com update</itunes:keywords>
@@ -1157,7 +1157,7 @@ Plus, getting practical about your home media setup, bringing Spook into Home As
       <itunes:subtitle>A few tools to build your own Way Back Machine, we check in with the "Year of Voice" and more.</itunes:subtitle>
       <itunes:duration>59:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>A few tools to build your own Way Back Machine, we check in with the "Year of Voice" and more. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, github, Home Assistant, Android, Assist, YAML, Piper, Nabu Casa, Raspberry Pi 4, Home Assistant Companion app, ESPHome, wake word detection, iOS home screen, Linkwarden, self-hostable, bookmark manager, webpages, tags, folders, collections, screenshot, PDF, collaborative, docker image, Linkding, Floccus, Nix, imdb-terminal, flakes, multi-arch deployments, Plex, Jellyfin, tvOS client, Swiftfin app, cross-Plex server watch syncing, SELinux, AppArmor, NixOS, Flakes</itunes:keywords>
@@ -1187,7 +1187,7 @@ Plus, getting practical about your home media setup, bringing Spook into Home As
       <itunes:subtitle>Alex shares a suite of self-hosted apps that replace Reddit. Chris is struggling with Jellyfin, and we discuss where NixOS is killing it and where we think it falls down.</itunes:subtitle>
       <itunes:duration>1:03:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex shares a suite of self-hosted apps that replace Reddit. Chris is struggling with Jellyfin, and we discuss where NixOS is killing it and where we think it falls down. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Home Assistant, Replace, Swap, Failed Device, Wallabag, Comfortable Reading, Import, API Support, Access Everywhere, Hosted Version, Android App, iOS App, Browser Extension, GNOME, MIT License, FreshRSS, RSS Feed Aggregator, Syndication, Reader, Search, Web scraping, Feeds generation, OPML, WebSub, Configurable, Fast &amp; efficient, Themes &amp; extensions, International, Nixhub.io, Devbox Package Index, Nix Packages Repo, Notion-like note apps, AnyType, Self-hosting, Dust, du alternative, duf, Disk Usage Analyzer, dua-cli, NixOS, Baby monitor solution, Nanit Pro, Eufy SpaceView, Backup solution, LUKS encryption, Unifi Controller, Unifi Cloud Key gen 2</itunes:keywords>
@@ -1217,7 +1217,7 @@ Plus, getting practical about your home media setup, bringing Spook into Home As
       <itunes:subtitle>The advantages of Federating a local and remote Nextcloud, Chris replaces Google Home Hub's photo powers and the new docker-compose feature that will change Alex's entire setup.</itunes:subtitle>
       <itunes:duration>1:03:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>The advantages of Federating a local and remote Nextcloud, Chris replaces Google Home Hub's photo powers and the new docker-compose feature that will change Alex's entire setup. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Berlin with Brent, Meetup, Berlin Buds on Matrix, MicroBin, Docker, Fully Kiosk Browser, Fotoo, tablet Photo Frame, Samba, Splenssy, Tuya, Smart USB WiFi Adaptor, tablet battery sensor, Federation, XMPP, Matrix, decentralized chat, Nextcloud, PeerTube, Pixelfed, Mastodon, Email, docker-compose 2.20, include keyword, Plex Dupefinder, Obsidian Evernote Import, Intel GVT-G on Proxmox, Alper's project, Linux host monitoring, Dmitry's storage setup, 45Drives</itunes:keywords>
@@ -1248,7 +1248,7 @@ Plus, getting practical about your home media setup, bringing Spook into Home As
       <itunes:subtitle>We cover our must-have self-hosted apps, reflect on the state of Self-Hosting now, and discuss what's new in Proxmox 8.</itunes:subtitle>
       <itunes:duration>49:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We cover our must-have self-hosted apps, reflect on the state of Self-Hosting now, and discuss what's new in Proxmox 8. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Proxmox 8, Proxmox Virtual Environment 8.0, Linux kernel 6.2, QEMU 8.0.2, LXC 5.0.2, ZFS 2.1.12, Ceph Quincy 17.2.6, Debian 12 Bookworm, new text-based installer, ncurses style, automatic user sync, faster CPU type, PCI devices, USB devices, abstract PCI devices, Immich, iPhone version, background support, optimized photo storage, iCloud photos, bulk upload,  iVentoy, PXE server, tech garden, Perfect Media Server, redundancy, Lemmy, Kbin, Pairdrop, SnapDrop, boosts, Raspberry Pi 7, Ansible, NixOS, DNS, web hosting, Leaky Canoe, homelab storage, smb, truenas, data migration</itunes:keywords>
@@ -1278,7 +1278,7 @@ Plus, getting practical about your home media setup, bringing Spook into Home As
       <itunes:subtitle>We dive into Lemmy, a self-hosted Reddit alternative. Plus, a couple of easy-to-deploy tools that make life better.</itunes:subtitle>
       <itunes:duration>47:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We dive into Lemmy, a self-hosted Reddit alternative. Plus, a couple of easy-to-deploy tools that make life better. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, ChatGPT, Reddark, Lemmy for Self-Hosters, Lemmy, Reddit alternative, federated, funding, Rust, Actix, Diesel, Inferno, Typescript, open source, self-hostable, Docker, Ansible, clean interface, cross-posting support, moderation abilities, high performance, Ansible install, Docker install, iOS Mobile client, native android app, Self-Hosting Communities, finding communities, Chatpad AI, web app, desktop app, snapdrop, Progressive Web App,Golf Sale, self-hosting NVR/DVR, license plate detection, OCR, DNS server, reverse proxy, router</itunes:keywords>
@@ -1312,7 +1312,7 @@ Lemmy is similar to sites like Reddit, Lobste.rs, or Hacker News: you subscribe 
       <itunes:subtitle>We chat with 45Drives about their ambitions to build a home-lab server that bridges the gap between enterprise-level servers and consumer-grade NAS products. And more.</itunes:subtitle>
       <itunes:duration>46:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We chat with 45Drives about their ambitions to build a home-lab server that bridges the gap between enterprise-level servers and consumer-grade NAS products. And more. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Amazon, Alexa, celebrity voices, discontinuation, Samuel L. Jackson, Shaquille O'Neal, Melissa McCarthy, purchase, refund, June 7th, September 30th, financial performance, rework, 45Drives, home lab server, enterprise-level, NAS products, affordability, design, connectivity, form factors, performance models, community guidance, TAILSCALE, network storage, purging, photos, documents, vlog source files, raw drone footage, CLI tooling, Linux, sorting, dua-cli, disk space usage, delete data, fast, Obsidian, Joplin, VS Code Dev Containers, Podverse, fasten, insurance, electronic health records, notes, document management, Microsoft, OneNote, SharePoint, NextCloud, document scanner, paperless-ngx</itunes:keywords>
@@ -1342,7 +1342,7 @@ Lemmy is similar to sites like Reddit, Lobste.rs, or Hacker News: you subscribe 
       <itunes:subtitle>Alex tempts Chris with his Obsidian ways, our thoughts on Drobo going bankrupt, and Photoprism adding paid tiers. Plus, the slick suite of tools you'll want to run on your LAN.</itunes:subtitle>
       <itunes:duration>1:00:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex tempts Chris with his Obsidian ways, our thoughts on Drobo going bankrupt, and Photoprism adding paid tiers. Plus, the slick suite of tools you'll want to run on your LAN. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Worst Self-hosting mistake, Alex PSU, Joplin, Chris' Notes, search, PDF manual, invoice, sharing, collaboration, Wife Approval Factor, offline access, Markdown support, Joplin, laggy UI, vscode extension, sync, Webdav, Nextcloud, Drobo, Photoprism paid tiers, IT Tools, Split DNS, Garden Gnomes, Garden Sensors</itunes:keywords>
@@ -1372,7 +1372,7 @@ Lemmy is similar to sites like Reddit, Lobste.rs, or Hacker News: you subscribe 
       <itunes:subtitle>Why Chris needs ANOTHER Home Assistant instance and a major breakthrough for self-hosters.</itunes:subtitle>
       <itunes:duration>53:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Why Chris needs ANOTHER Home Assistant instance and a major breakthrough for self-hosters. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, DATA Recovery, Home Assistant, voice, exposed entities, webhook trigger options, piper, Raspberry Pi 4, garden operation, automation, budget-friendly, Garden data, trigger watering, Industrial Linux Mini PC, Step-Down DC-DC Converter, qBoxMini DIY IOT Enclosure, TICONN Waterproof Electrical Junction Box, IP67, esphome automation, xiaomi flora, Capacitive Soil Moisture Sensors, Plex Prometheus Exporter, Prometheus format, dashboards, Joplin, Joplin server, Lazygit, Lazydocker, obsidian LiveSync</itunes:keywords>
@@ -1407,7 +1407,7 @@ Lemmy is similar to sites like Reddit, Lobste.rs, or Hacker News: you subscribe 
       <itunes:subtitle>We debate if users learned their lesson from the Docker Hub drama, the silent self-hosting winner going from strength to strength.</itunes:subtitle>
       <itunes:duration>46:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We debate if users learned their lesson from the Docker Hub drama, and the silent self-hosting winner going from strength to strength. Proxmox gets some big updates.
 Plus, our thoughts on the state of self-hostable AI tools. 
 </description>
@@ -1442,7 +1442,7 @@ Plus, our thoughts on the state of self-hostable AI tools.
       <itunes:subtitle>Chris integrates full home power monitoring into Home Assistant, while Alex tames the AI and rushes to replace Dark Sky.</itunes:subtitle>
       <itunes:duration>56:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris integrates full home power monitoring into Home Assistant, while Alex tames the AI and rushes to replace Dark Sky. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, WAAS, web-whisper, chatgpt-ui, Victron Home Assistant Integration, Energy Management in Home Assistant, cpp, ansible, NextDNS, Stacking Ws, Jellyfin, Plex Credits Skip, ModBus, VPN, Jellyseer, Obsidian</itunes:keywords>
@@ -1473,7 +1473,7 @@ Plus, our thoughts on the state of self-hostable AI tools.
       <itunes:subtitle>Alex goes all in on Rootless Podman, Chris is saving his Nextcloud install from disaster, and a special guest joins us.</itunes:subtitle>
       <itunes:duration>59:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex goes all in on Rootless Podman, Chris is saving his Nextcloud install from disaster, and a special guest joins us. Special Guest: Alex Ellis.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Alex YouTube, Secret Management with Ansible Vault, docker-compose, Gite, Gitea Actions, Green Light Beta Program, Alex Ellis, Podman, Rootless, Nextcloud, sqlite</itunes:keywords>
@@ -1508,7 +1508,7 @@ Somehow it works when you have a clean install, then all migrations pass, but wh
       <itunes:subtitle>Find out why Alex ripped out everything installed last episode and is starting fresh with new gear, wires, and a new goal.</itunes:subtitle>
       <itunes:duration>58:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Find out why Alex ripped out everything installed last episode and is starting fresh with new gear, wires, and a new goal. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, LinuxFest Northwest 2023, server relocation, 10GB network upgrade, Tailscale, SFF homelab PCs, multi-site DNS tricks, Home Assistant CVE, CVE-2023-27482, Bellingham Technical College, attic time, fiber strands, PiKVM, OPNsense, Lenovo m720q, split DNS setup, remotely exploitable vulnerability, lightning node, cable analyzer</itunes:keywords>
@@ -1539,7 +1539,7 @@ Somehow it works when you have a clean install, then all migrations pass, but wh
       <itunes:subtitle>Alex has been swapping hardware and standing-up services. It's a network rebuild episode and more!</itunes:subtitle>
       <itunes:duration>57:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex has been swapping hardware and standing-up services. It's a network rebuild episode and more! 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Self-Hosted, Smokeping, network latency, Wireshark, Blue Iris box, CPU upgrade, AsRock IPMI, pikvm v4, kickstarter, Audiobookshelf, iGPU benchmarking, Intel iGPUs, Unifi switches PoE, Flex Mini, VLAN</itunes:keywords>
@@ -1569,7 +1569,7 @@ Somehow it works when you have a clean install, then all migrations pass, but wh
       <itunes:subtitle>Alex has major Proxmox problems. What happened, and the fix for now. Plus, the real downside to Wifi cameras and the batch of network gear on the way.</itunes:subtitle>
       <itunes:duration>47:35</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex has major Proxmox problems. What happened, and the fix for now. Plus, the real downside to Wifi cameras and the batch of network gear on the way. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Ubiquiti, new network gear, TailsCale, DHCP/DNS server, swapping Adguard Home for Pi-hole, Reolink POE Doorbell, smart wired doorbell with chime, Jellyfin, address conflict error, MAC address conflict</itunes:keywords>
@@ -1603,7 +1603,7 @@ This post will detail how I solved a few interesting problems as I fully automat
       <itunes:subtitle>Join us for the surprising conclusion to our month-long challenge.</itunes:subtitle>
       <itunes:duration>58:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Join us for the surprising conclusion to our month-long challenge. Special Guests: Brent Gervais and Catherine Kretzschmar.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Jellyfin, Audio Books, YouTube with Jellyfin, streaming, metadata plugin, ytdl-sub, hard drive Giveaway, Plex, tailscale reverse tunnel, live tv, storage</itunes:keywords>
@@ -1639,7 +1639,7 @@ This post will detail how I solved a few interesting problems as I fully automat
       <itunes:subtitle>Alex dives deep to find out if Kubernetes is overkill for the home and finds solutions to simplify things. And Chris has a new firmware that turns his favorite network cameras up to 11.</itunes:subtitle>
       <itunes:duration>57:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex dives deep to find out if Kubernetes is overkill for the home and finds solutions to simplify things. And Chris has a new firmware that turns his favorite network cameras up to 11.
 Plus an update on Jellyfin January. 
 </description>
@@ -1674,7 +1674,7 @@ Plus an update on Jellyfin January.
       <itunes:subtitle>We kick off our Jellyfin January challenge and invite you to join us. Plus, Chris has some new hardware and our thoughts on the trouble at the Matrix foundation.</itunes:subtitle>
       <itunes:duration>1:03:58</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We kick off our Jellyfin January challenge and invite you to join us. Plus, Chris has some new hardware and our thoughts on the trouble at the Matrix foundation. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, TP-Link EAP245, Home Assistant SkyConnect, Matter, OpenWrt, Jellyfin, Plex, Jellyfin challenge, Jellyfin January, intro skipping, Swiftfin, Matrix Holiday Update, Matrix funding, HDHomeRun, ntfy, UnifiedPush</itunes:keywords>
@@ -1705,7 +1705,7 @@ Plus an update on Jellyfin January.
       <itunes:subtitle>What disgusted Alex about Disqus, and how he replaced it with a Self-Hosted solution, a hot HDHomeRun tip, and an update on Chris' hunt for the perfect notes app.</itunes:subtitle>
       <itunes:duration>48:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>What disgusted Alex about Disqus, and how he replaced it with a Self-Hosted solution, a hot HDHomeRun tip, and an update on Chris' hunt for the perfect notes app. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Infinity, Home Automation, Drive home Auotmation, giscus, Apprise, HDMI over IP, HDHomerun, Plex Live TV, Alby, Joplin, NewPipe, Obsidian, MkDocs, GitHub Actions</itunes:keywords>
@@ -1737,7 +1737,7 @@ Watch and record free TV all around your home. Love your TV more.</li><li><a hre
       <itunes:subtitle>Wendell from Level One Techs joins us to catch up on low-power hardware, his home automation setup, and thoughts on so much more.</itunes:subtitle>
       <itunes:duration>52:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Wendell from Level One Techs joins us to catch up on low-power hardware, his home automation setup, and thoughts on so much more. Special Guest: Wendell Wilson.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Level1Techs, Level One Techs, Wendell, Ryzen, Power Efficient, x86 vs Arm, QuickSync, NAS, Zigbee, Z-Wave, water leak, O2 sensor, Petabyte, ODROID, Home Assistant, Reliable Automation</itunes:keywords>
@@ -1768,7 +1768,7 @@ Watch and record free TV all around your home. Love your TV more.</li><li><a hre
       <itunes:subtitle>We're chatting about workstation builds for a home NAS with Joe Ressington this week. Chris chews on the news of the Evernote buyout and his challenges with Zigbee.</itunes:subtitle>
       <itunes:duration>34:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We're chatting about workstation builds for a home NAS with Joe Ressington this week. Chris chews on the news of the Evernote buyout and his challenges with Zigbee. Special Guest: Joe Resington.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, NAS, QuickSync, Workstation as a NAS, Z-Wave vs Zigbee, Bending Spoons, Evernote buyout, OCR, Uptime Monitor, UptimeRobot, Obsidian, Notes, Kodi, Plex, Hardware Decoding, Wifi speed test</itunes:keywords>
@@ -1802,7 +1802,7 @@ Before optimizing your channels, it’s best to reduce the amount of traffic on 
       <itunes:subtitle>Sometimes your best upgrades are unplanned;  Chris just got his Home Assistant Yellow fully deployed.</itunes:subtitle>
       <itunes:duration>1:03:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Sometimes your best upgrades are unplanned;  Chris just got his Home Assistant Yellow fully deployed. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, WSL2, All Things Open, jay the linux guy, LaCroix, Home Assistant Yellow, CM4, compute module 4, z-wave, NextCloud Backup, Scheduler card, custom component, Generic Thermostat, Shelly, Flash ESPHome Over The Air, Jellyfin, NixOS, nix, Mycroft, ZFS, ZimaBoard, Ubuntu, OpenSSL</itunes:keywords>
@@ -1834,7 +1834,7 @@ Starting at $119.9</li><li><a href="https://podcastindex.org/apps?appTypes=app&e
       <itunes:subtitle>Alex gives Roon Labs whole home audio a try but discovers a critical design flaw while Chris checks out his new ODROID-H3+ and plans his next epic build.</itunes:subtitle>
       <itunes:duration>56:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex gives Roon Labs whole home audio a try but discovers a critical design flaw while Chris checks out his new ODROID-H3+ and plans his next epic build. 
 </description>
       <itunes:keywords>Roon, whole home audio, audiophile, Tidal, FLAC, Roon Core, Docker, Metadata, Roon Arc, Docker vs LXC, VM vs Docker, Zigbee2MQTT, Zigbee Binding, Matter, Apple ships matter, funkwhale, Rclone</itunes:keywords>
@@ -1872,7 +1872,7 @@ Starting at $119.9</li><li><a href="https://podcastindex.org/apps?appTypes=app&e
       <itunes:subtitle>Chris' Raspberry Pi server is dead, and Alex has a few ideas for his next build.</itunes:subtitle>
       <itunes:duration>1:05:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris' Raspberry Pi server is dead, and Alex has a few ideas for his next build. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Rapberry Pi Home Server, Can't buy Pi, Invoice Ninja, Matter, Home Assitant, ZigBee, Z-Wave, Yubico, Reddit automatic archiver, expanse, Bitwarden, Fastmail, netbird, WireGuard, Tailscale, Pulseaudio, RuneAudio, Volumio, snapcast, ConBee, Slaesh, ProxMox, Calyx</itunes:keywords>
@@ -1903,7 +1903,7 @@ Starting at $119.9</li><li><a href="https://podcastindex.org/apps?appTypes=app&e
       <itunes:subtitle>Alex is replacing his Chromecast and Google Nest Mini with an open-source solution, and why we’re all getting a little hyped about Matter.</itunes:subtitle>
       <itunes:duration>52:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex is replacing his Chromecast and Google Nest Mini with an open-source solution, and why we’re all getting a little hyped about Matter. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Google Home, piCorePlayer, Logitech Media Server, Spotify Connect, Broadlink RM4, rpi-audio-receiver, A2DP, Home Assistant, automations, Rosewill LSV4500, Matter, Paulus, ESPhome, iPod, Zooz, Z-wave, Light switches, unRAID, Podverse, Thunderbolt Dock, fwupd</itunes:keywords>
@@ -1938,7 +1938,7 @@ Starting at $119.9</li><li><a href="https://podcastindex.org/apps?appTypes=app&e
       <itunes:subtitle>We've made some changes since the last episode, and share why we have doubled down on Self-Hosting as much as possible.</itunes:subtitle>
       <itunes:duration>1:01:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We've made some changes since the last episode, and share why we have doubled down on Self-Hosting as much as possible. 
 Plus, Chris tries out Immich, a high-performance Google Photos alternative. 
 </description>
@@ -1973,7 +1973,7 @@ Plus, Chris tries out Immich, a high-performance Google Photos alternative.
       <itunes:subtitle>We learned some really hard lessons this week, and reflect. Then Chris finds the perfect temperature sensor, and Alex finds a beautiful media discovery app.</itunes:subtitle>
       <itunes:duration>48:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We learned some really hard lessons this week, and reflect. Then Chris finds the perfect temperature sensor, and Alex finds a beautiful media discovery app. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Plex leak, Compromised, Jellyfin, Overseerr, Google Photos, CSAM scanning, Google Account Access, Gmail backups, GYB, Got Your Back, gmail backup script, Aqara Temperature Humidity Sensor, Zigbee, battery life, Hubitat, immich</itunes:keywords>
@@ -2015,7 +2015,7 @@ Plus, Chris tries out Immich, a high-performance Google Photos alternative.
       <itunes:subtitle>What is it like to live with another man's automations? Brent spills all.</itunes:subtitle>
       <itunes:duration>58:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>What is it like to live with another man's automations? Brent spills all.
 Plus, Chris tries out a few more Shelly devices and reports back. Special Guest: Brent Gervais.
 </description>
@@ -2055,7 +2055,7 @@ Plus, Chris tries out a few more Shelly devices and reports back. Special Guest:
       <itunes:subtitle>Alex runs us through his new and improved off-site backup setup, and Chris is trying out some Shelly devices.</itunes:subtitle>
       <itunes:duration>1:11:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex runs us through his new and improved off-site backup setup, and Chris is trying out some Shelly devices. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Disk Airflow, ethernet pass-through, OPNsense plugins, tailscale, documenting, off-site backup, Backblaze drive stats, flood sensor, Wifi sensor, Z-Wave, Shelly Flood, Leviton, Home Assistant, Push Notification</itunes:keywords>
@@ -2091,7 +2091,7 @@ Plus, Chris tries out a few more Shelly devices and reports back. Special Guest:
       <itunes:subtitle>Our thoughts on the new Works with Home Assistant program, some changes to Alex's off-site backup server, and a million bits of great feedback.</itunes:subtitle>
       <itunes:duration>59:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Our thoughts on the new Works with Home Assistant program, some changes to Alex's off-site backup server, and a million bits of great feedback. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Works with Home Assistant program, z-wave, zigbee, FlightAware, Zigbee Device Compatibility, Self-Hosted Todo, Vikunja, remote backup, ZFS, HomePod, Siri, MyCroft, LinuxCard, Aeotec, leak detector, smart home</itunes:keywords>
@@ -2127,7 +2127,7 @@ Plus, Chris tries out a few more Shelly devices and reports back. Special Guest:
       <itunes:subtitle>Our guest this week has more Raspberry Pis than anyone we've ever met. We get insights into all the projects he used them for, what's worked great, and what's not worked at all.</itunes:subtitle>
       <itunes:duration>59:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Our guest this week has more Raspberry Pis than anyone we've ever met. We get insights into all the projects he used them for, what's worked great, and what's not worked at all. Special Guest: Jscar_Hawk.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Disk Shucking, Nanoleaf, Home Assistant, Red Hat, OpenSense, Docker, Kubernetes, Privacy, Security, Raspberry Pi server, Authentik, Matrix</itunes:keywords>
@@ -2162,7 +2162,7 @@ August 5th at 6pm GMT</li><li><a href="https://bit.ly/meetupmatrix" title="Matri
       <itunes:subtitle>A special episode today as TechnoTim joins Alex to discuss everything Kubernetes and HomeLab. The #100DaysOfHomeLab initiative from Tim is just getting started, find out what it’s all about in today's episode.</itunes:subtitle>
       <itunes:duration>49:01</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>A special episode today as TechnoTim joins Alex to discuss everything Kubernetes and HomeLab. The #100DaysOfHomeLab initiative from Tim is just getting started, find out what it’s all about in today's episode. Special Guest: Techno Tim.
 </description>
       <itunes:keywords>homelab, Kubernetes, k8s, k8s-at-home, Linux, docker, containers, self-hosting, youtube, technotim, e-ink, wifi, gitops, storage, ceph, rook, longhorn, NFS, awesome-home-kubernetes, flux, argocd, cicd, raspberry pi, pi, orange pi, cybersecurity, security</itunes:keywords>
@@ -2208,7 +2208,7 @@ The twelve-factor methodology can be applied to apps written in any programming 
       <itunes:subtitle>A quick-fire round of projects this week, your feedback, and a discussion about the future of Self-Hosting.</itunes:subtitle>
       <itunes:duration>48:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>A quick-fire round of projects this week, your feedback, and a discussion about the future of Self-Hosting. 
 </description>
       <itunes:keywords>scrutiny, SMART, drive staticis, disk failure, backblaze drive stats, Servas,  self-hosted bookmark management, dogsheep, Gitea, Web Hook, Rocket.Chat, Matrix, Federation, G Suite Legacy, OliveTin, web based shell commands, Killed by Google, Jellyfin</itunes:keywords>
@@ -2246,7 +2246,7 @@ The twelve-factor methodology can be applied to apps written in any programming 
       <itunes:subtitle>Alex has found the perfect tool to bring your recipe management into the future. Plus, a convenient trick for scripts with passwords, dying hard drives, and the killer new Proxmox feature.</itunes:subtitle>
       <itunes:duration>54:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex has found the perfect tool to bring your recipe management into the future. Plus, a convenient trick for scripts with passwords, dying hard drives, and the killer new Proxmox feature. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Best Buy e-ink,  UK Meetup, Self-Hosted recipe manager, Tandoor, Proxmox 7.2, VirtGL, Virtual Machine, Hard Drive failure, bcachefs, Ansible, Bitwarden, configure DNS with Ansible, Alexa, HomePod, Siri, ZFS, MergerFS</itunes:keywords>
@@ -2278,7 +2278,7 @@ The twelve-factor methodology can be applied to apps written in any programming 
       <itunes:subtitle>Alex replaces another Google service; we point the community spotlight at FuzzyMistborn plus your feedback!</itunes:subtitle>
       <itunes:duration>53:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex replaces another Google service; we point the community spotlight at FuzzyMistborn plus your feedback! Special Guests: Brent Gervais and FuzzyMistborn.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, FuzzyMistborn, Plausible, Google Anayltics, containers, security cameras, Home Assistant, Wyze Hacks, storage leaderboard, Umami, Google Analytics alternative, community spotlight</itunes:keywords>
@@ -2318,7 +2318,7 @@ The twelve-factor methodology can be applied to apps written in any programming 
       <itunes:subtitle>Alex shares some handy tools, and some old friends join us for a special edition of the show.</itunes:subtitle>
       <itunes:duration>47:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex shares some handy tools, and some old friends join us for a special edition of the show. Special Guests: Brent Gervais and chzbacon.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Raleigh, OpenMower, Insteon, 900 MHz, Home Assistant, PlexTraktSync, Trakt, Jellyfin Trakt Sync, Audiobookshelf, Audbile, Self-hosted audiobook server, docker stats, Wyze RTSP, 10gig, networking</itunes:keywords>
@@ -2360,7 +2360,7 @@ The twelve-factor methodology can be applied to apps written in any programming 
       <itunes:subtitle>We chat about Wyze's recent real bad, no-good security news, why Plex Discover has potential but hasn't impressed us yet, and a brief tour of Alex's home network setup.</itunes:subtitle>
       <itunes:duration>54:21</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We chat about Wyze's recent real bad, no-good security news, why Plex Discover has potential but hasn't impressed us yet, and a brief tour of Alex's home network setup. Special Guest: Wes Payne.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Self-Hosted, Wyze, Bitdefender,  CVE-2019-12266, CVE-2019-9564, V1 Camera, jellyfin, universal watchlist, Plex discovery, Lovelace, Dashboards, Home Assistant, Groups, Hide entities, Z-Wave, lego, Let's Encrypt, certificates, Ansible</itunes:keywords>
@@ -2391,7 +2391,7 @@ The twelve-factor methodology can be applied to apps written in any programming 
       <itunes:subtitle>Why Chris is moving away from using Containers, Alex's new project, and some great follow-up.</itunes:subtitle>
       <itunes:duration>48:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Why Chris is moving away from using Containers, Alex's new project, and some great follow-up. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Self-Hosted, Docker Desktop, fsync, Asahi Linux, M1, Paperless-NGX, docker, F_FULLSYNC, Ansible, Matter delayed, Node-RED, MQTT, NixOS, nix home assistant, ZwaveJS2Mqtt, ESPHome, BeardedTek, fEVR, frigate</itunes:keywords>
@@ -2433,7 +2433,7 @@ If you do, they drop down to HDD performance. Thread.</li><li><a href="https://j
       <itunes:subtitle>We look back at our favorite moments from the last ten years of the Raspberry Pi, why you might want to start considering one, and where we want to see the platform evolve.</itunes:subtitle>
       <itunes:duration>47:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We look back at our favorite moments from the last ten years of the Raspberry Pi, why you might want to start considering one, and where we want to see the platform evolve. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Self-Hosted, Raspberry Pi, Energy use, RaspBMC, Transcoding, performance, Argon EON NAS, heimdall, z-wave, matter, zigbee</itunes:keywords>
@@ -2469,7 +2469,7 @@ Is anyone else re-thinking their home servers given the current cost situation?<
       <itunes:subtitle>Alex gives the new TrueNAS SCALE a go and hits a snag.</itunes:subtitle>
       <itunes:duration>44:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex gives the new TrueNAS SCALE a go and hits a snag. 
 Plus the future Home Assistant update that has Chris so concerned he might stop updating forever. 
 </description>
@@ -2510,7 +2510,7 @@ Plus the future Home Assistant update that has Chris so concerned he might stop 
       <itunes:subtitle>Sometimes we get a bit carried away; we dial it back and share some self-hosting long-timer insights.</itunes:subtitle>
       <itunes:duration>46:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Sometimes we get a bit carried away; we dial it back and share some self-hosting long-timer insights.
 Plus the networked way to Retro game, and more. 
 </description>
@@ -2545,7 +2545,7 @@ Plus the networked way to Retro game, and more.
       <itunes:subtitle>Alex has a new high-quality self-hosted music setup, and Chris solves complicated Internet problems.</itunes:subtitle>
       <itunes:duration>42:51</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex has a new high-quality self-hosted music setup, and Chris solves complicated Internet problems. 
 </description>
       <itunes:keywords>Z-Wave outdoor, Spotify, Neil Young, Lidarr, Plexamp, Jellyfin, Google, free G Suite account, Tailscale, Modem, high-speed LTE, self-hosted lossless music, Let's Encrypt</itunes:keywords>
@@ -2585,7 +2585,7 @@ Join us at the studio up in Arlington for a hang and chow. Attendees are encoura
       <itunes:subtitle>Alex got some new devices for Christmas, and we set off figuring out how to integrate them into his network.</itunes:subtitle>
       <itunes:duration>49:15</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex got some new devices for Christmas, and we set off to figure out how to integrate them into his network.
 And Brent's tale of giving the gift of Jellyfin. Special Guest: Brent Gervais.
 </description>
@@ -2625,7 +2625,7 @@ And Brent's tale of giving the gift of Jellyfin. Special Guest: Brent Gervais.
       <itunes:subtitle>Some old friends of JB join Alex to discuss 3D printing.</itunes:subtitle>
       <itunes:duration>59:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Some old friends of JB join Alex to discuss 3D printing. Special Guests: chzbacon and Drew DeVore.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, 3d printing, prusa, creality, ender, ender3, filament, spool, plastic, maker</itunes:keywords>
@@ -2656,7 +2656,7 @@ And Brent's tale of giving the gift of Jellyfin. Special Guest: Brent Gervais.
       <itunes:subtitle>Recent AWS outages sent Alex on a hunt to find more self-hosted alternatives, and Chris digs into the latest Home Assistant release.</itunes:subtitle>
       <itunes:duration>55:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Recent AWS outages sent Alex on a hunt to find more self-hosted alternatives, and Chris digs into the latest Home Assistant release.
 Plus a frenzy of your excellent feedback and questions. 
 </description>
@@ -2707,7 +2707,7 @@ Incredibly expandable and flexible.</li><li><a href="https://info.linuxserver.io
       <itunes:subtitle>We try out a couple of very popular Docker GUI's and report back, and discuss our biggest Self-Hosted regrets.</itunes:subtitle>
       <itunes:duration>48:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We try out a couple of very popular Docker GUI's and report back, and discuss our biggest Self-Hosted regrets. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Martix Self-Hosting problems, Synapse, HedgeDoc, Portainer, lazydocker, docker compose, dozzle, docker stats, docker-compose profiles, yaml, Ansible, Docker GUI, Portainer Review, Stacks, Google</itunes:keywords>
@@ -2741,7 +2741,7 @@ Listen. No KVM is perfect BUT our customers tell us -- The Level1Techs KVMs are 
       <itunes:subtitle>This week we unlock the "Pi"tential of the Compute Module 4 and turn it into a dual gigabit router and Jellyfin server.</itunes:subtitle>
       <itunes:duration>56:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>This week we unlock the "Pi"tential of the Compute Module 4 and turn it into a dual gigabit router and Jellyfin server. 
 How far can we push it?
 Plus, Alex shares his thoughts on the state of mobile operating systems and the challenges they are imposing on DIYers. 
@@ -2781,7 +2781,7 @@ Plus, Alex shares his thoughts on the state of mobile operating systems and the 
       <itunes:subtitle>Troubleshooting goes very wrong for Alex, and he puts his backups to the ultimate test.</itunes:subtitle>
       <itunes:duration>47:54</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Troubleshooting goes very wrong for Alex, and he puts his backups to the ultimate test.
 Plus, monitoring your freezer in Home Assistant, building a self-hosted Notion alternative, and more. 
 </description>
@@ -2816,7 +2816,7 @@ Plus, monitoring your freezer in Home Assistant, building a self-hosted Notion a
       <itunes:subtitle>Local self-hosted video capture with AI object detection just got easy. Morgan joins us to detail his Frigate setup and its optional tight integration with Home Assistant.</itunes:subtitle>
       <itunes:duration>39:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Local self-hosted video capture with AI object detection just got easy. Morgan joins us to detail his Frigate setup and its optional tight integration with Home Assistant. 
 Plus, our new favorite up time monitoring tool and an easy way to add Tailscale and other apps to OPNsense with community plugins. Special Guest: Morgan Peterman.
 </description>
@@ -2852,7 +2852,7 @@ Plus, our new favorite up time monitoring tool and an easy way to add Tailscale 
       <itunes:subtitle>A lot is changing in Home Assistant land, and it's almost all for the better; we break down the essential items.</itunes:subtitle>
       <itunes:duration>47:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>A lot is changing in Home Assistant land, and it's almost all for the better; we break down the essential items. Chris gets wired about energy monitoring and shares his journey to get incorrectly formatted power stats working in Home Assistant's new Energy dashboard.
 Plus, off-line YouTube backup, backing up iCloud photos, Tailscale feedback, and more. 
 </description>
@@ -2891,7 +2891,7 @@ Plus, off-line YouTube backup, backing up iCloud photos, Tailscale feedback, and
       <itunes:subtitle>Alex is abroad and uses the opportunity to build out not one but two ultimate self-hosted off-site servers. We share the hardware, software, and networking details.</itunes:subtitle>
       <itunes:duration>47:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex is abroad and uses the opportunity to build out not one but two ultimate self-hosted off-site servers. We share the hardware, software, and networking details.
 Plus, how Chris built a Nest-type thermostat using parts he already had. 
 </description>
@@ -2926,7 +2926,7 @@ Plus, how Chris built a Nest-type thermostat using parts he already had.
       <itunes:subtitle>We chat with Matt from Adventurous Way about the home automations that have improved his quality of life, the clever way he manages their off-grid rig, and the new smart home project he's just kicking off.</itunes:subtitle>
       <itunes:duration>37:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We chat with Matt from Adventurous Way about the home automations that have improved his quality of life, the clever way he manages their off-grid rig, and the new smart home project he's just kicking off. Special Guest: Matt from Adventurous Way.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Node-Red, Smart Home, Home Automation, Victron, Adventurous Way, SONOFF, CARP, Color Control GX, MQTT, Pi-KVM</itunes:keywords>
@@ -2959,7 +2959,7 @@ Plus, how Chris built a Nest-type thermostat using parts he already had.
       <itunes:subtitle>We report back on our DeGoogle challenge and read your top Google Alternative apps and services.</itunes:subtitle>
       <itunes:duration>41:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We report back on our DeGoogle challenge and read your top Google Alternative apps and services.
 Plus, a new way to locally capture network cameras, our reaction to Kobol pulling the plug, and more. Special Guest: Brent Gervais.
 </description>
@@ -3003,7 +3003,7 @@ Plus, a new way to locally capture network cameras, our reaction to Kobol pullin
       <itunes:subtitle>We discuss the ramifications of Apple's local photo scanning announcement on your privacy, why everything seems to be a subscription these days, and a new challenge for the show.</itunes:subtitle>
       <itunes:duration>53:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We discuss the ramifications of Apple's local photo scanning announcement on your privacy, why everything seems to be a subscription these days, and a new challenge for the show. Special Guest: Brent Gervais.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, apple, icloud, csam, road tripping, mobile internet, rv, off-grid, brent gervais, degoogle, self-host, pihole, raspberry pi, adblock, 1pasword, bitwarden, vaultwarden, wallpanel, fully kiosk browser, self-build</itunes:keywords>
@@ -3034,7 +3034,7 @@ Plus, a new way to locally capture network cameras, our reaction to Kobol pullin
       <itunes:subtitle>We discuss Chris's latest wall-mounted tablet solution for Home Assistant and several scripts to pimp your Plex setup.</itunes:subtitle>
       <itunes:duration>47:28</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We discuss Chris's latest wall-mounted tablet solution for Home Assistant and several scripts to pimp your Plex setup.
 Join us for a very special birthday episode as we celebrate our 50th. 
 </description>
@@ -3069,7 +3069,7 @@ Join us for a very special birthday episode as we celebrate our 50th.
       <itunes:subtitle>Updates gone wrong, surprise hardware failures, and flooding out all our electronics in a single go. We've got a lot to catch you up on.</itunes:subtitle>
       <itunes:duration>51:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Updates gone wrong, surprise hardware failures, and flooding out all our electronics in a single go. We've got a lot to catch you up on. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Authelia, Owntrack, MQTT, Valetudo, BTRFS, ZFS, Proxmox, Self-Hosted Single sign-on, Solar, Home Assistant</itunes:keywords>
@@ -3099,7 +3099,7 @@ Join us for a very special birthday episode as we celebrate our 50th.
       <itunes:subtitle>Tuya shocks us by announcing native Home Assistant support, we have an update on a smart doorbell Ring alternative, and we tell all about how PiKVM just leveled up in awesome.</itunes:subtitle>
       <itunes:duration>36:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Tuya shocks us by announcing native Home Assistant support, we have an update on a smart doorbell Ring alternative, and we tell all about how PiKVM just leveled up in awesome. Special Guest: Morgan Peterman.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, mergerfs, tuya, home assistant, mergerfs-tools, docker, ezviz, smart doorbell, pikvm, raspberry pi</itunes:keywords>
@@ -3129,7 +3129,7 @@ Join us for a very special birthday episode as we celebrate our 50th.
       <itunes:subtitle>We take a look at a self-hosted TeamViewer alternative, give you our take on some Home Assistant drama and discuss the effects of a new crypto coin on hard drive prices.</itunes:subtitle>
       <itunes:duration>42:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We take a look at a self-hosted TeamViewer alternative, give you our take on some Home Assistant drama and discuss the effects of a new crypto coin on hard drive prices. 
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, shucks.top, Drive Failure, mergerfs, NixOS, Frenck, reproducible builds, Home Assistant, Ambee, Chia Coin, ESPHome, Improv Wi-Fi, Tasmota, ESP Web Tools, Static Homepage, tinyhome, rustdesk, Self-Hosted TeamViewer Alternative, NAT traversal</itunes:keywords>
@@ -3159,7 +3159,7 @@ Join us for a very special birthday episode as we celebrate our 50th.
       <itunes:subtitle>We'll share how we deployed a painless, Self-Hosted Pastebin replacement, and what we like the most about it.</itunes:subtitle>
       <itunes:duration>42:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We'll share how we deployed a painless, Self-Hosted Pastebin replacement, and what we like the most about it.
 Plus Chris enters the "No Change Zone" with a Project Off-Grid Update. 
 </description>
@@ -3204,7 +3204,7 @@ Syntax highlighted view.
       <itunes:subtitle>Join us for a chat with Paulus, the founder of Home Assistant, as we look to the project's future, hardware devices, new standards, and more.</itunes:subtitle>
       <itunes:duration>38:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Join us for a chat with Paulus, the founder of Home Assistant, as we look to the project's future, hardware devices, new standards, and more. Special Guest: Paulus Schoutsen.
 </description>
       <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Paulus Schoutsen, Home Assistant Founder Interview, Home Assistant Blue, ESPHome, Nabu Casa</itunes:keywords>
@@ -3235,7 +3235,7 @@ Syntax highlighted view.
       <itunes:subtitle>Plex announces some big plans that make us a little nervous, Alex solves Chris's tablet performance woes, and we chat about Prometheus.</itunes:subtitle>
       <itunes:duration>39:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Plex announces some big plans that make us a little nervous, Alex solves Chris's tablet performance woes, and we chat about Prometheus.
 Plus, our thoughts on Duplicati alternatives and more. 
 </description>
@@ -3280,7 +3280,7 @@ open-source monitoring solution.</li><li><a href="https://healthchecks.io/" titl
       <itunes:subtitle>Alex has a new trick for local and remote backups, and shares his thoughts on Synology's DS series NAS.</itunes:subtitle>
       <itunes:duration>47:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex has a new trick for local and remote backups, and shares his thoughts on Synology's DS series NAS.
 Plus Chris' master plan to save everyone's batteries. 
 </description>
@@ -3315,7 +3315,7 @@ Plus Chris' master plan to save everyone's batteries.
       <itunes:subtitle>A record is broken, a life goal is achieved, and why we are going long on Linksys.</itunes:subtitle>
       <itunes:duration>38:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>A record is broken, a life goal is achieved, and why we are going long on Linksys. Special Guest: Jake Howard 🍊.
 </description>
       <itunes:keywords>Self-Hosted Podcast, Jupiter Broadcasting, Nvidia, GPU passthrough, Homelab Upgrades, Corsair Fan control, Plausible Analytics, TheOrangeOne, Ubiquiti, whistleblower, backdoor account, tt-rss</itunes:keywords>
@@ -3350,7 +3350,7 @@ Plus Chris' master plan to save everyone's batteries.
       <itunes:subtitle>Special guest Jeff Geerling tells us how he got 16 drives connected to one Pi.</itunes:subtitle>
       <itunes:duration>33:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Special guest Jeff Geerling tells us how he got 16 drives connected to one Pi. 
 Plus his thoughts on automation, self-hosting, and more. Special Guest: Jeff Geerling.
 </description>
@@ -3386,7 +3386,7 @@ Plus his thoughts on automation, self-hosting, and more. Special Guest: Jeff Gee
       <itunes:subtitle>We react to Home Assistant password shaming us and then reflect on the OVH fire while attempting to solve a "growing" cloud problem.</itunes:subtitle>
       <itunes:duration>40:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We react to Home Assistant password shaming us and then reflect on the OVH fire while attempting to solve a "growing" cloud problem. 
 </description>
       <itunes:keywords>Self-Hosted Podcast, Jupiter Broadcasting, Wyze Cam 3, OVHcloud, ovh data center, OVH Fire, Strasbourg, Cloud backup, Backing up Cloud Servers, Troy Hunt, Have I Been Pwned, Home Assistant, k-Anonymity, Web File Browser, Shelly, power consumption, Solar, Nextcloud, Plex, Babybuddy, tasmota, Cookbook, Tandoor Recipes</itunes:keywords>
@@ -3420,7 +3420,7 @@ Plus his thoughts on automation, self-hosting, and more. Special Guest: Jeff Gee
       <itunes:subtitle>Our favorite LastPass alternative, why more boxes might be better than one, and we confess to an undying love.</itunes:subtitle>
       <itunes:duration>40:33</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Our favorite LastPass alternative, why more boxes might be better than one, and we confess to an undying love. 
 </description>
       <itunes:keywords>bitwarden_rs, bitwardenrs, LastPass, Plex DDoS, Secure Remote Plex, ldap, wireguard, opensense, Arch Linux Server, gvt-g performance, Ghost, systemd-homed, Self-Hosted Podcast, Jupiter Broadcasting</itunes:keywords>
@@ -3450,7 +3450,7 @@ Plus his thoughts on automation, self-hosting, and more. Special Guest: Jeff Gee
       <itunes:subtitle>Alex shocks Chris with his latest project, then lays down some quick-fire picks.</itunes:subtitle>
       <itunes:duration>41:08</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex shocks Chris with his latest project, then lays down some quick-fire picks.
 Plus what's wrong with OPNsense's Wireguard setup? 
 </description>
@@ -3489,7 +3489,7 @@ Plus what's wrong with OPNsense's Wireguard setup?
       <itunes:subtitle>We discuss recent Home Assistant security news, and how we think the project could improve.</itunes:subtitle>
       <itunes:duration>46:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We discuss recent Home Assistant security news, and how we think the project could improve. 
 Plus a bunch of follow up, emails, and more!
 Note: This episode was recorded before the recent second Home Assistant vulnerability 
@@ -3533,7 +3533,7 @@ Note: This episode was recorded before the recent second Home Assistant vulnerab
       <itunes:subtitle>Our favorite Google Docs killer with markdown support has a big update. We explain how we host it and why we love it.</itunes:subtitle>
       <itunes:duration>34:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Our favorite Google Docs killer with markdown support has a big update. We explain how we host it and why we love it.
 Plus Chris reviews the Home Assistant Blue. 
 </description>
@@ -3568,7 +3568,7 @@ Plus Chris reviews the Home Assistant Blue.
       <itunes:subtitle>Alex reveals the culmination of five years of work into the Perfect Media Server.</itunes:subtitle>
       <itunes:duration>44:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex reveals the culmination of five years of work into the Perfect Media Server.
 And we respond to a ton of feedback. 
 </description>
@@ -3603,7 +3603,7 @@ And we respond to a ton of feedback.
       <itunes:subtitle>Chris discovers a networking miracle, Alex has been playing with electrics, and we review the Wyze Cam 3.</itunes:subtitle>
       <itunes:duration>53:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris discovers a networking miracle, Alex has been playing with electrics, and we review the Wyze Cam 3. 
 </description>
       <itunes:keywords>Self-Hosting podcast, Self-Hosted, Aeotec Multisensor, TP-Link AV1000, Powerline Networking, Home Assistant Conference, Home Assistant Blue, ODROID-N2+, QuickSync, Intel vs ARM, automation blueprints, Nabu Casa, Wyze 3 Cam Review, RTSP</itunes:keywords>
@@ -3635,7 +3635,7 @@ HomePlug AV2 Standard - high-speed data transfer rates of up to 1000 Mbps, suppo
       <itunes:subtitle>Alex puts the fantastic-looking, ARM-powered NAS known as the Helios64 to the test.</itunes:subtitle>
       <itunes:duration>43:57</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Alex puts the fantastic-looking, ARM-powered NAS known as the Helios64 to the test.
 Plus feedback, and more. 
 </description>
@@ -3670,7 +3670,7 @@ Plus feedback, and more.
       <itunes:subtitle>With rage in our hearts, we proclaim a Self-Hosted Google Photos replacement, and the only way to self-host your email.</itunes:subtitle>
       <itunes:duration>46:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>With rage in our hearts, we proclaim a Self-Hosted Google Photos replacement, and the only way to self-host your email.
 Plus our tips to manage and stream audiobooks. 
 </description>
@@ -3705,7 +3705,7 @@ Plus our tips to manage and stream audiobooks.
       <itunes:subtitle>We have a philosophical debate on cloud vs local and Alex experiences full-blown Americana this Halloween.</itunes:subtitle>
       <itunes:duration>51:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We have a philosophical debate on cloud vs local and Alex experiences full-blown Americana this Halloween.
 Plus how Chris built the most reliable and high-performance mobile internet setup possible in his RV. 
 </description>
@@ -3740,7 +3740,7 @@ Plus how Chris built the most reliable and high-performance mobile internet setu
       <itunes:subtitle>Chris gets left out in the cold after a Home Assistant glitch, and Alex puts a big batch of USB hard drives to the test.</itunes:subtitle>
       <itunes:duration>46:37</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris gets left out in the cold after a Home Assistant glitch, and Alex puts a big batch of USB hard drives to the test
 Plus a great pick for you pack rats, feedback, and more. 
 </description>
@@ -3777,7 +3777,7 @@ Plus a great pick for you pack rats, feedback, and more.
       <itunes:subtitle>We speak to Kevin and Patricia from Traefik, discuss Alex's recent ZFS snafu and we wonder if the new Chromecasts can match up to the Nvidia Shield.</itunes:subtitle>
       <itunes:duration>44:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We speak to Kevin and Patricia from Traefik, discuss Alex's recent ZFS snafu and we wonder if the new Chromecasts can match up to the Nvidia Shield. 
 </description>
       <itunes:keywords>ZFS data loss, New Chromecast Review, Traefik, Traefik Pilot, microservices, Docker, Diun, Homelab monitoring, Halcyon app, Home Assistant, Self-Hosting podcast, Self-Hosted, Jupiter Broadcasting</itunes:keywords>
@@ -3807,7 +3807,7 @@ Plus a great pick for you pack rats, feedback, and more.
       <itunes:subtitle>We get fancy with Traefik labels, and gush over some new Home Assistant features while saving our data from inevitable future failure.</itunes:subtitle>
       <itunes:duration>35:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We get fancy with Traefik labels, and gush over some new Home Assistant features while saving our data from inevitable future failure. 
 </description>
       <itunes:keywords>Reverse Proxy, Traefik, Ansible, Terraform, Home Assistant, Automation, Scripts, Scrutiny, smartd, NFC tag, Self-Hosted podcast, Jupiter Broadcasting, SWAG, Let's Encrypt</itunes:keywords>
@@ -3847,7 +3847,7 @@ It's a celebration! 🎉</li><li><a href="https://www.home-assistant.io/blog/202
       <itunes:subtitle>Some big news for Jupiter Broadcasting and a picture-perfect app-pick with Lychee. Chris politely suggests Alex reconsider his Syncthing doubts.</itunes:subtitle>
       <itunes:duration>41:39</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Some big news for Jupiter Broadcasting and a picture perfect app-pick with Lychee. Chris politely suggests Alex reconsider his Syncthing doubts.
 Plus some power monitoring updates, and more from the community. 
 </description>
@@ -3882,7 +3882,7 @@ Plus some power monitoring updates, and more from the community.
       <itunes:subtitle>Mike and Wes join us to discuss the recent Docker news, freeing your Robovac from the cloud and why Alex really loves Terraforms.</itunes:subtitle>
       <itunes:duration>28:56</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Mike and Wes join us to discuss the recent Docker news, freeing your Robovac from the cloud, and why Alex really loves Terraform. Special Guests: Michael Dominick and Wes Payne.
 </description>
       <itunes:keywords>Docker, TOS, Docker Hub, Small Business hosting, Terraform, Helios 64, Self-Hosted docker hub, GitLab, Ansible, Self-Hosting Podcast</itunes:keywords>
@@ -3914,7 +3914,7 @@ Plus some power monitoring updates, and more from the community.
       <itunes:subtitle>Jon shares the story of how Docker came to Unraid, hints at future subscription plans, performance features coming, and much more.</itunes:subtitle>
       <itunes:duration>37:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Jonathan Panozzo, aka Johnp join us to talk all things Unraid. He hints at future subscription plans, details performance features coming soon, shares the story of how Docker came to Unraid, and much more. Special Guest: Jonathan Panozzo.
 </description>
       <itunes:keywords>btrfs, cache pool, docker, jupiter broadcasting, Unraid my servers, nas, Multiple Pools, pci pass through, performance tips, plex, self-hosted file storage, self-hosting podcast, subscription plan, unraid, unraid 7, unraid cost, zfs</itunes:keywords>
@@ -3945,7 +3945,7 @@ Plus some power monitoring updates, and more from the community.
       <itunes:subtitle>Chris figures out how hot is too hot, Alex performs an extreme remote firewall install, and we share some of our favorite SSH tricks.</itunes:subtitle>
       <itunes:duration>37:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris figures out how hot is too hot, Alex performs an extreme remote firewall install, and we share some of our favorite SSH tricks. 
 </description>
       <itunes:keywords>opnsense, linux, self-hosting, self-hosted, self hosted, ssh, proxyjump, raspberry pi, whole home power monitoring, power monitoring, wireguard, vpn, pull request, github, open source, open-source, nextcloud, pfsense, zwave, plex, kodi, shinobi, texas</itunes:keywords>
@@ -3975,7 +3975,7 @@ Plus some power monitoring updates, and more from the community.
       <itunes:subtitle>We've spent thousands of dollars and over a decade refining the perfect home media setup. We get nostalgic and share what worked and what REALLY didn't.</itunes:subtitle>
       <itunes:duration>42:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We've spent thousands of dollars and over a decade refining the perfect home media setup. We get nostalgic and share what worked and what REALLY didn't. 
 </description>
       <itunes:keywords>Self-Hosted Podcast, Windows Media Center Extenders, Boxee, Boxee Box, XBMC, Roku, Kodi, automatic organization, Popcorn Hour, A-100, IPlayer, OTA, Plex, PCI passthrough, Roku, Nvidia Shield, Ultimate Media Setup</itunes:keywords>
@@ -4005,7 +4005,7 @@ Plus some power monitoring updates, and more from the community.
       <itunes:subtitle>Chris is slow cooking some servers, Alex has self-hosted AI with a nasty gotcha and a damp basement.</itunes:subtitle>
       <itunes:duration>36:48</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris is slow cooking some servers, Alex has self-hosted AI with a nasty gotcha and a damp basement. 
 </description>
       <itunes:keywords>CCTV, camera, object recognition, Blue Iris, AI, Motion Detection, Nelly Doorbell, EZVIZ, Victron, overheating, Solar, Raspberry Pi, safe temperature, Shinobi, data backup, ZFS Send, ZFS, Self Hosting Podcast, Self-Hosted, MotionEye, ZoneMinder, Aeotec, Sensor, moisture, Github, Gitea</itunes:keywords>
@@ -4035,7 +4035,7 @@ Plus some power monitoring updates, and more from the community.
       <itunes:subtitle>Serverbuilds.net’s founder JDM joins us to discuss the perfect sever for low or high-end needs, and Alex stages a Pi intervention.</itunes:subtitle>
       <itunes:duration>42:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Serverbuilds.net’s founder JDM joins us to discuss the perfect sever for low or high-end needs, and Alex stages a Pi intervention. Special Guest: JDM_WAAAT.
 </description>
       <itunes:keywords>Self Hosted Podcast, server builds, serverbuilds.net, JDM_WAAAT, JDM interview, Raspberry Pi, Xeon Low power, kubernetes lab build, Anniversary build, CPU comparison, low power x86</itunes:keywords>
@@ -4066,7 +4066,7 @@ Plus some power monitoring updates, and more from the community.
       <itunes:subtitle>You're not a true self-hoster until you've lost your entire configuration at least once. Alex does a deep dive into cloud backup, plus we need your help to find the right Wifi solution for a listener.</itunes:subtitle>
       <itunes:duration>36:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>You're not a true self-hoster until you've lost your entire configuration at least once. Alex does a deep dive into cloud backup, plus we need your help to find the right Wifi solution for a listener. 
 </description>
       <itunes:keywords>BTRFS add volume, mergerfs, Amazon S3 Glacier, Cloud backup, duplicati, restic, Backblaze B2 with Duplicity, Backblaze, Backblaze for Linux, duplicity, AWS Glacier, Tarsnap, rsync.net, Tiddlywiki, Unifi, outdoor wifi, Home Assistant rename, Google drive, Self-Hosted Podcast</itunes:keywords>
@@ -4096,7 +4096,7 @@ Plus some power monitoring updates, and more from the community.
       <itunes:subtitle>We react to recently proposed Home Assistant changes, Alex attempts an extreme remote install, and we take a look at HomelabOS.</itunes:subtitle>
       <itunes:duration>38:38</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We react to recently proposed Home Assistant changes, Alex attempts an extreme remote install, and we take a look at HomelabOS.
 Plus why Chris continues to collect Raspberry Pi's at an alarming rate. 
 </description>
@@ -4131,7 +4131,7 @@ Plus why Chris continues to collect Raspberry Pi's at an alarming rate.
       <itunes:subtitle>We were almost outsmarted by a not so smart doorbell, Jellyfin makes Alex's prediction dreams come true and Chris tries QOwnNotes again.</itunes:subtitle>
       <itunes:duration>35:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We were almost outsmarted by a not so smart doorbell, Jellyfin makes Alex's prediction dreams come true and Chris tries QOwnNotes again.
 Links
 HeaterMeter, the open-source barbecue controller - Raspberry Pi (https://www.raspberrypi.org/blog/heatermeter-open-source-barbecue-controller/)
@@ -4194,7 +4194,7 @@ QOwnNotes - cross-platform open source plain-text file notepad (https://www.qown
       <itunes:subtitle>We share some of our top tips for getting started with Self-Hosting and cover some more network basics.</itunes:subtitle>
       <itunes:duration>40:46</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Knowing which hardware to buy or which apps to run on that shiny new hardware can be hard. Chris and Alex discuss networking gear and where to find some of the best getting started documentation on the net.
 Plex have been busy and launched two new apps, we cover that and more in this episode of Self-Hosted. 
 </description>
@@ -4229,7 +4229,7 @@ Plex have been busy and launched two new apps, we cover that and more in this ep
       <itunes:subtitle>We share some WiFi tips and essential network ideas.</itunes:subtitle>
       <itunes:duration>37:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We share some WiFi tips and essential network ideas.
 And discuss one of our most significant compromises in the show so far. 
 </description>
@@ -4264,7 +4264,7 @@ And discuss one of our most significant compromises in the show so far.
       <itunes:subtitle>We have a neat self-hosted home inventory management system for preppers of any type, plus Chris' simple Home Assistant trick and Alex's valiant battle with the WebSockets daemon of the reverse proxies.</itunes:subtitle>
       <itunes:duration>30:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We have a neat self-hosted home inventory management system for preppers of any type, plus Chris' simple Home Assistant trick and Alex's valiant battle with the WebSockets daemon of the reverse proxies.
 Also -  we answer listener questions, and share updates. 
 </description>
@@ -4303,7 +4303,7 @@ Also -  we answer listener questions, and share updates.
       <itunes:subtitle>Wendell Wilson is back, and he and Chris are struggling with their automation setups. Also, we chat about ideal home server hardware for a server or a pfSense box.</itunes:subtitle>
       <itunes:duration>43:14</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Wendell Wilson is back, and he and Chris are struggling with their automation setups. Also, we chat about ideal home server hardware for a server or a pfSense box. 
 Plus Wendell's home-rolled presence detection rig, some 3D printing chat, and more. Special Guest: Wendell Wilson.
 </description>
@@ -4339,7 +4339,7 @@ Plus Wendell's home-rolled presence detection rig, some 3D printing chat, and mo
       <itunes:subtitle>Self-Hosted IRC solutions are better than ever. Alan Pope joins us to make a case for the classic way to communicate online and tells us about a modern client for the web, mobile, and desktop you run on your server.</itunes:subtitle>
       <itunes:duration>38:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Self-Hosted IRC solutions are better than ever. Alan Pope joins us to make a case for the classic way to communicate online and tells us about a modern client for the web, mobile, and desktop you run on your server. 
 Plus, follow up on the new Self-Hosted wiki, and more. Special Guest: Alan Pope.
 </description>
@@ -4375,7 +4375,7 @@ Plus, follow up on the new Self-Hosted wiki, and more. Special Guest: Alan Pope.
       <itunes:subtitle>We try out the top self-hosted Wikis and tell you which we like best, and Chris has a major project off-grid update.</itunes:subtitle>
       <itunes:duration>34:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We try out the top self-hosted Wikis and tell you which we like best, and Chris has a major project off-grid update. 
 Plus Alex tells us about his robot vacuum that runs Ubuntu. 
 </description>
@@ -4410,7 +4410,7 @@ Plus Alex tells us about his robot vacuum that runs Ubuntu.
       <itunes:subtitle>We each like different blogging platforms, and share why. Then our tips for keeping your server secure.</itunes:subtitle>
       <itunes:duration>35:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We each like different blogging platforms, and share why. Then our tips for keeping your server secure. 
 Plus a great way to score cheap drives, a Project Off-Grid update, making your household light switches smart, and Alex's review of the HDHomeRun. 
 </description>
@@ -4445,7 +4445,7 @@ Plus a great way to score cheap drives, a Project Off-Grid update, making your h
       <itunes:subtitle>Wyze and Xiaomi suffer major cloud hosted blunders, so Alex tells us about his new fully offline camera security system, tied into Shinobi.</itunes:subtitle>
       <itunes:duration>33:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Wyze and Xiaomi suffer major cloud hosted blunders, so Alex tells us about his new fully offline camera security system, tied into Shinobi.
 Plus Chris gets ready for  Project Off-Grid's solar upgrade, our new favorite self-hosted speed test app, and a Ring alternative. 
 </description>
@@ -4480,7 +4480,7 @@ Plus Chris gets ready for  Project Off-Grid's solar upgrade, our new favorite se
       <itunes:subtitle>Master of details, open source advocate and YouTuber, Quindor from Intermittent.Tech joins us for a chat about tuya-convert to avoid planned hardware obsolescence, his new 100TB server build, highly available home setups, and his DIY LED project.</itunes:subtitle>
       <itunes:duration>34:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Master of details, open source advocate and YouTuber, Quindor from Intermittent.Tech (https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) joins us for a chat about tuya-convert (https://github.com/ct-Open-Source/tuya-convert) to avoid planned hardware obsolescence, his new 100TB server build, highly available home setups, and his DIY LED project. Special Guest: Andries Faassen.
 </description>
       <itunes:keywords>Cheap multi-room Temperature Sensors, Home Assistant,  Intermit.Tech, LED dimmer, QuinLED, Highly Avaible, Teckin Smart strip, Quindor, Andries Faassen, tuya-convert, Tuya IoT devices, Self-Hosting, Planned Obsolescence, Services, Jupiter Broadcasting, Linux Academy</itunes:keywords>
@@ -4511,7 +4511,7 @@ Plus Chris gets ready for  Project Off-Grid's solar upgrade, our new favorite se
       <itunes:subtitle>Sometimes one project can lead to a hundred more. We celebrate Home Assistant's new release, the inclusion of the WLED integration and fall down the DIY project rabbit hole.</itunes:subtitle>
       <itunes:duration>34:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Sometimes one project can lead to a hundred more. We celebrate Home Assistant's new release, the inclusion of the WLED integration and fall down the DIY project rabbit hole.
 Plus some clever power solutions, cheap LED light strips, and a test drive of Project Off-Grid.
 We recorded our first ever live stream to accompany this where we flash an ESP8266 board in seconds using WLED and esptool. This can be found on YouTube (https://youtu.be/aQyigSkcjMQ). 
@@ -4552,7 +4552,7 @@ We recorded our first ever live stream to accompany this where we flash an ESP82
       <itunes:subtitle>Home Assistant has changed our families' lives for the better. We share tips for getting started, implementing automation, devices we use, and our favorite integrations.</itunes:subtitle>
       <itunes:duration>36:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Home Assistant has changed our families' lives for the better. We share tips for getting started, implementing automation, devices we use, and our favorite integrations. 
 Plus Alex's thoughts on automating his new LG TV and be sure to check the links! 
 </description>
@@ -4591,7 +4591,7 @@ All data is fully encrypted between your device and your Home Assistant instance
       <itunes:subtitle>Chris follows up on his Shinobi troubles and extols the virtues of $25 Wyze Cams to Alex, who has some exciting house news to share.</itunes:subtitle>
       <itunes:duration>35:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Chris follows up on his Shinobi troubles and extols the virtues of $25 Wyze Cams to Alex, who has some exciting house news to share. 
 </description>
       <itunes:keywords>Shinobi, Raspberry Pi 4, GPU Acceleration, Wyze RTSP, home monitoring, CCTV, low cost home cameras, Wyze Cam with Shinobi, Raspbian, Unfi, Self Hosted security camera, Self-Hosting Podcast, Jupiter Broadcasting, Linux Academy </itunes:keywords>
@@ -4621,7 +4621,7 @@ All data is fully encrypted between your device and your Home Assistant instance
       <itunes:subtitle>Getting your storage setup just right often takes making painful mistakes first. We share ours, our current storage setups, when ZFS is not the tool for the job, and what you should consider when protecting your data.</itunes:subtitle>
       <itunes:duration>44:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Getting your storage setup just right often takes making painful mistakes first. We share ours, our current storage setups, when ZFS is not the tool for the job, and what you should consider when protecting your data. 
 Plus, we share a few recent project mishaps. 
 </description>
@@ -4656,7 +4656,7 @@ Plus, we share a few recent project mishaps.
       <itunes:subtitle>Plex Co-Founder and CTO Elan Feingold shares why he started Plex, its future direction, his home setup, his love for electric cars and the beach.</itunes:subtitle>
       <itunes:duration>34:36</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>Plex Co-Founder and CTO Elan Feingold shares why he started Plex, its future direction, his home setup, his love for electric cars and the beach.
 Also Alex convinces Chris to give Ghost (the blogging platform) a try. Special Guest: Elan Feingold.
 </description>
@@ -4692,7 +4692,7 @@ Also Alex convinces Chris to give Ghost (the blogging platform) a try. Special G
       <itunes:subtitle>How far can you get with a Raspberry Pi 4? We go all in and find out.</itunes:subtitle>
       <itunes:duration>36:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>How far can you get with a Raspberry Pi 4? We go all in and find out.
 Plus our favorite travel router with WireGuard built in, and Chris kicks off Project Off-Grid. Meanwhile, Alex adopts proprietary software. 
 </description>
@@ -4727,7 +4727,7 @@ Plus our favorite travel router with WireGuard built in, and Chris kicks off Pro
       <itunes:subtitle>We visit Wendell Wilson of [Level1Techs](https://level1techs.com/) and get a tour of his self-hosted setup.</itunes:subtitle>
       <itunes:duration>44:09</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>We visit Wendell Wilson of Level1Techs (https://level1techs.com/) and get a tour of his self-hosted setup, what he does and does not trust in the cloud, and we reminisce about the early days of computing and the internet.
 Plus we discuss craftsmanship in the Linux Kernel, and address the fundamental question of "why self-host." Special Guest: Wendell Wilson.
 </description>
@@ -4763,7 +4763,7 @@ Plus we discuss craftsmanship in the Linux Kernel, and address the fundamental q
       <itunes:subtitle>You've been wanting to host a Nextcloud instance (or anything else) for your family for a while now. Where on Earth do you start? We share some hard learned lessons about self-hosting, discuss the most important things to consider when building a home server and Chris gives Alex a hard time about Arch as a Server OS.</itunes:subtitle>
       <itunes:duration>24:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>You've been wanting to host a Nextcloud instance (or anything else) for your family for a while now. Where on Earth do you start? We share some hard learned lessons about self-hosting, discuss the most important things to consider when building a home server, and Chris gives Alex a hard time about Arch as a Server OS. 
 </description>
       <itunes:keywords>Plex, Linux, Windows Server, Home server, self hosted, docker, containers, storage, nextcloud, ZFS, Unraid, FreeNAS, Synology, Qnap, SSH, NAS, Debian, Arch, CentOS, EufyCam, CCTV</itunes:keywords>
@@ -4801,7 +4801,7 @@ At this point I'm planning on staying with a Linux OS and with Docker as the way
       <itunes:subtitle>A new show that is your gateway to self hosting all the things, owning your data and talking about local and cloud hosting that you control.</itunes:subtitle>
       <itunes:duration>2:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
       <description>A new show that is your gateway to self hosting all the things. 
 Discover new software, regain control of cloud services and own your data. Learn how you can take steps to free yourself from the agenda of large corporations and business models designed to sell your information. 
 Join Alex and Chris on their Self Hosting journey on this new podcast from Jupiter Broadcasting.  
