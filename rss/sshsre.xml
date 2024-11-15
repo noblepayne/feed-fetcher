@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Thu, 14 Nov 2024 19:30:12 -0600</fireside:genDate>
+    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
+    <fireside:genDate>Fri, 15 Nov 2024 04:17:04 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Self-Hosted SRE</title>
     <link>https://sshsre.fireside.fm</link>
-    <pubDate>Fri, 15 Nov 2024 01:29:42 -0000</pubDate>
+    <pubDate>Fri, 15 Nov 2024 10:15:05 -0000</pubDate>
     <description>This feed is a thank you to our Self-Hosted Site Reliability Engineers!
 </description>
     <language>en-us</language>
@@ -26,6 +26,34 @@
 <itunes:category text="Arts">
   <itunes:category text="Performing Arts"/>
 </itunes:category>
+    <item>
+      <title>Episode 136: Google is Done</title>
+      <link>https://sshsre.fireside.fm/136</link>
+      <guid isPermaLink="false">86ac1d35-3529-4419-8568-045537065d78</guid>
+      <pubDate>Fri, 15 Nov 2024 02:00:00 -0800</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/ddc5a0e1-66f0-4096-962b-ccaac6e0c3ff/86ac1d35-3529-4419-8568-045537065d78.mp3" length="60416962" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>Breaking free from Google's grip: Our surprising journey and the tools that made it possible. Plus, Brent's NAS feature stirring up debate, s clever tool for distributed video encoding, and more.</itunes:subtitle>
+      <itunes:duration>1:11:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/d/ddc5a0e1-66f0-4096-962b-ccaac6e0c3ff/cover.jpg?v=1"/>
+      <description>Breaking free from Google's grip: Our surprising journey and the tools that made it possible. Plus, Brent's NAS feature stirring up debate, s clever tool for distributed video encoding, and more. 
+</description>
+      <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Google, Claude, Perplexity, Copilot, Gippity, SearXNG, UNRAID, BentoBox, Macbook, Snippety, HandBrake Web, distributed transcoding, Nextcloud, NixOS, NAS, ZFS, Btrfs, Brent NAS, Ubuntu, NVIDIA, Ruffle, Flash emulator, Vaultwarden, CVE, security update</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Breaking free from Google&#39;s grip: Our surprising journey and the tools that made it possible. Plus, Brent&#39;s NAS feature stirring up debate, s clever tool for distributed video encoding, and more.</p><p>Links:</p><ul><li><a href="https://strike.me/download/" title="⚡ Grab Sats with Strike Around the World" rel="nofollow">⚡ Grab Sats with Strike Around the World</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries.</li><li><a href="https://bitcoinwell.com/" title="🇨🇦  Bitcoin Well" rel="nofollow">🇨🇦  Bitcoin Well</a> &mdash; Empowering sovereign ownership with free automatic self-custody 🔒</li><li><a href="https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5" title="🎉 Boost with Fountain FM" rel="nofollow">🎉 Boost with Fountain FM</a> &mdash; Fountain 1.1 with Nostr support, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site.</li><li><a href="https://github.com/ItzCrazyKns/Perplexica" title="Perplexica" rel="nofollow">Perplexica</a> &mdash; Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions.</li><li><a href="https://blog.ktz.me/replacing-google-with-searxng-as-the-default-in-chrome/" title="Replacing Google with SearXNG as the default in Chrome" rel="nofollow">Replacing Google with SearXNG as the default in Chrome</a> &mdash; No tracking. No ads. Search as it was. Now when you enter a search query in the Chrome address bar it will route through your SearXNG instance automatically.</li><li><a href="https://perfectmediaserver.com/02-tech-stack/nixos/configuration.nix/" title="An Example configuration.nix file for PMS - Perfect Media Server" rel="nofollow">An Example configuration.nix file for PMS - Perfect Media Server</a></li><li><a href="https://github.com/TheNickOfTime/handbrake-web" title="handbrake-web" rel="nofollow">handbrake-web</a> &mdash; HandBrake Web is a program for interfacing with handbrake across multiple machines via a web browser. It consists of two components: the server and one or more worker(s).</li><li><a href="https://paste.docs.lol/code/UnwrinklesRelics" title="SSH 136 Boost Barn" rel="nofollow">SSH 136 Boost Barn</a> &mdash; Thank you, Boosters and Members! 🚀🚀🚀🚀🚀</li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Breaking free from Google&#39;s grip: Our surprising journey and the tools that made it possible. Plus, Brent&#39;s NAS feature stirring up debate, s clever tool for distributed video encoding, and more.</p><p>Links:</p><ul><li><a href="https://strike.me/download/" title="⚡ Grab Sats with Strike Around the World" rel="nofollow">⚡ Grab Sats with Strike Around the World</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries.</li><li><a href="https://bitcoinwell.com/" title="🇨🇦  Bitcoin Well" rel="nofollow">🇨🇦  Bitcoin Well</a> &mdash; Empowering sovereign ownership with free automatic self-custody 🔒</li><li><a href="https://fountain.fm/show/LxGQPEpBqTDLxF4d6qC5" title="🎉 Boost with Fountain FM" rel="nofollow">🎉 Boost with Fountain FM</a> &mdash; Fountain 1.1 with Nostr support, upgrades, and super simple Strike integration for easy Boosts. You can also Boost from the Web via their site.</li><li><a href="https://github.com/ItzCrazyKns/Perplexica" title="Perplexica" rel="nofollow">Perplexica</a> &mdash; Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions.</li><li><a href="https://blog.ktz.me/replacing-google-with-searxng-as-the-default-in-chrome/" title="Replacing Google with SearXNG as the default in Chrome" rel="nofollow">Replacing Google with SearXNG as the default in Chrome</a> &mdash; No tracking. No ads. Search as it was. Now when you enter a search query in the Chrome address bar it will route through your SearXNG instance automatically.</li><li><a href="https://perfectmediaserver.com/02-tech-stack/nixos/configuration.nix/" title="An Example configuration.nix file for PMS - Perfect Media Server" rel="nofollow">An Example configuration.nix file for PMS - Perfect Media Server</a></li><li><a href="https://github.com/TheNickOfTime/handbrake-web" title="handbrake-web" rel="nofollow">handbrake-web</a> &mdash; HandBrake Web is a program for interfacing with handbrake across multiple machines via a web browser. It consists of two components: the server and one or more worker(s).</li><li><a href="https://paste.docs.lol/code/UnwrinklesRelics" title="SSH 136 Boost Barn" rel="nofollow">SSH 136 Boost Barn</a> &mdash; Thank you, Boosters and Members! 🚀🚀🚀🚀🚀</li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/JF9eVMjQ+JNxRCHYq</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/JF9eVMjQ+JNxRCHYq" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/sshsre/json/episodes/86ac1d35-3529-4419-8568-045537065d78/chapters" type="application/json"/>
+    </item>
     <item>
       <title>Episode 135: Rebuilding For the Last Time</title>
       <link>https://sshsre.fireside.fm/135</link>
