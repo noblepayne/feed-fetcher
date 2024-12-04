@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 04 Dec 2024 01:34:19 -0600</fireside:genDate>
+    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
+    <fireside:genDate>Wed, 04 Dec 2024 04:31:11 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder QA</title>
     <link>https://coderqa.fireside.fm</link>
-    <pubDate>Wed, 04 Dec 2024 07:33:29 -0000</pubDate>
+    <pubDate>Wed, 04 Dec 2024 10:30:04 -0000</pubDate>
     <description>Thank you for your support, enjoy the ad-free version of Coder Radio as a thank you!
 </description>
     <language>en-us</language>
@@ -26,6 +26,38 @@
 <itunes:category text="Arts">
   <itunes:category text="Performing Arts"/>
 </itunes:category>
+    <item>
+      <title>Episode 598: No Code is just Other People's Code</title>
+      <link>https://coderqa.fireside.fm/598</link>
+      <guid isPermaLink="false">2b3864bc-2749-4568-a002-a122e2cc0b70</guid>
+      <pubDate>Wed, 04 Dec 2024 02:00:00 -0800</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/8fba08fb-aa33-4b57-ac76-a388418a583a/2b3864bc-2749-4568-a002-a122e2cc0b70.mp3" length="29362700" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code.</itunes:subtitle>
+      <itunes:duration>34:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8fba08fb-aa33-4b57-ac76-a388418a583a/cover.jpg?v=1"/>
+      <description>GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust. 
+</description>
+      <itunes:keywords>Coder Radio, Development Podcast, developers, Advent Code, GitHub Developer Experience Report, Rails Efficiency, Ruby, Rust Query, Intel Retirement, AI Security, Low-code Debate</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust.</p><p>Links:</p><ul><li><a href="https://strike.me/" title="💥 Gets Sats with Strike" rel="nofollow">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a href="https://bitcoinwell.com/" title="🇨🇦 Bitcoin Well" rel="nofollow">🇨🇦 Bitcoin Well</a> &mdash; Enable your independence with the fastest and safest way to buy Bitcoin in Canada and the USA. Focused on Bitcoin excellence, enabling true financial independence 🥇</li><li><a href="https://fountain.fm/" title="📻 Boost with Fountain.FM" rel="nofollow">📻 Boost with Fountain.FM</a> &mdash; Boost from Fountain.FM's website and keep your current Podcast app. Or kick the tires on the Podcasting 2.0 revolution and try out Fountain.FM the app! 🚀</li><li><a href="https://adventofcode.com/" title="Advent of Code 2024" rel="nofollow">Advent of Code 2024</a> &mdash; Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like.</li><li><a href="https://jupiter.party" title="Jupiter.Party Network Membership" rel="nofollow">Jupiter.Party Network Membership</a> &mdash; Use Promo code: blackfriday
+
+Stack 30% off ontop of one-month free!</li><li><a href="https://github.blog/engineering/engineering-principles/the-ultimate-guide-to-developer-happiness/" title="The ultimate guide to developer happiness" rel="nofollow">The ultimate guide to developer happiness</a> &mdash; Five actionable tips and strategies to supercharge developer happiness—and a more innovative workplace.</li><li><a href="https://radanskoric.com/articles/rails-is-better-low-code-than-low-code" title="Rails is better low code than low code" rel="nofollow">Rails is better low code than low code</a> &mdash; Both arcs unfold before me in parallel …</li><li><a href="https://github.com/LHolten/rust-query" title="rust-query: Type safe query builder for rust" rel="nofollow">rust-query: Type safe query builder for rust</a> &mdash; The goal of this library is to allow writing relational database queries using familiar Rust syntax. The library should guarantee that a query can not fail if it compiles.</li><li><a href="https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/?guccounter=1" title="Intel CEO Pat Gelsinger retires" rel="nofollow">Intel CEO Pat Gelsinger retires</a> &mdash; Intel has announced that CEO Pat Gelsinger has retired, effective December 1, and stepped down from the company’s board of directors.</li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust.</p><p>Links:</p><ul><li><a href="https://strike.me/" title="💥 Gets Sats with Strike" rel="nofollow">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a href="https://bitcoinwell.com/" title="🇨🇦 Bitcoin Well" rel="nofollow">🇨🇦 Bitcoin Well</a> &mdash; Enable your independence with the fastest and safest way to buy Bitcoin in Canada and the USA. Focused on Bitcoin excellence, enabling true financial independence 🥇</li><li><a href="https://fountain.fm/" title="📻 Boost with Fountain.FM" rel="nofollow">📻 Boost with Fountain.FM</a> &mdash; Boost from Fountain.FM's website and keep your current Podcast app. Or kick the tires on the Podcasting 2.0 revolution and try out Fountain.FM the app! 🚀</li><li><a href="https://adventofcode.com/" title="Advent of Code 2024" rel="nofollow">Advent of Code 2024</a> &mdash; Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like.</li><li><a href="https://jupiter.party" title="Jupiter.Party Network Membership" rel="nofollow">Jupiter.Party Network Membership</a> &mdash; Use Promo code: blackfriday
+
+Stack 30% off ontop of one-month free!</li><li><a href="https://github.blog/engineering/engineering-principles/the-ultimate-guide-to-developer-happiness/" title="The ultimate guide to developer happiness" rel="nofollow">The ultimate guide to developer happiness</a> &mdash; Five actionable tips and strategies to supercharge developer happiness—and a more innovative workplace.</li><li><a href="https://radanskoric.com/articles/rails-is-better-low-code-than-low-code" title="Rails is better low code than low code" rel="nofollow">Rails is better low code than low code</a> &mdash; Both arcs unfold before me in parallel …</li><li><a href="https://github.com/LHolten/rust-query" title="rust-query: Type safe query builder for rust" rel="nofollow">rust-query: Type safe query builder for rust</a> &mdash; The goal of this library is to allow writing relational database queries using familiar Rust syntax. The library should guarantee that a query can not fail if it compiles.</li><li><a href="https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/?guccounter=1" title="Intel CEO Pat Gelsinger retires" rel="nofollow">Intel CEO Pat Gelsinger retires</a> &mdash; Intel has announced that CEO Pat Gelsinger has retired, effective December 1, and stepped down from the company’s board of directors.</li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/GELrkoc1+5ytDyRXc</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/GELrkoc1+5ytDyRXc" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/coderqa/json/episodes/2b3864bc-2749-4568-a002-a122e2cc0b70/chapters" type="application/json"/>
+    </item>
     <item>
       <title>Episode 597: Make Google Great Again</title>
       <link>https://coderqa.fireside.fm/597</link>
