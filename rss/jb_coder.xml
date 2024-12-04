@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 04 Dec 2024 01:33:44 -0600</fireside:genDate>
+    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
+    <fireside:genDate>Wed, 04 Dec 2024 04:31:15 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder Radio</title>
     <link>https://coder.show</link>
-    <pubDate>Wed, 04 Dec 2024 07:33:33 -0000</pubDate>
+    <pubDate>Wed, 04 Dec 2024 10:30:04 -0000</pubDate>
     <description>A weekly talk show taking a pragmatic look at the art and business of Software Development and the world of technology.
 </description>
     <language>en-us</language>
@@ -29,6 +29,40 @@
   <itunes:category text="How To"/>
 </itunes:category>
 <itunes:category text="Business"/>
+    <item>
+      <title>598: No Code is just Other People's Code</title>
+      <link>https://coder.show/598</link>
+      <guid isPermaLink="false">1e6cfee6-871d-4eff-ba4c-d4be994753d5</guid>
+      <pubDate>Wed, 04 Dec 2024 02:00:00 -0800</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/1e6cfee6-871d-4eff-ba4c-d4be994753d5.mp3" length="30523842" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code.</itunes:subtitle>
+      <itunes:duration>36:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/cover.jpg?v=5"/>
+      <description>GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust. 
+</description>
+      <itunes:keywords>Coder Radio, Development Podcast, developers, Advent Code, GitHub Developer Experience Report, Rails Efficiency, Ruby, Rust Query, Intel Retirement, AI Security, Low-code Debate</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust.</p><p>Sponsored By:</p><ul><li><a href="https://jupitersignal.memberful.com/checkout?plan=53334&coupon=blackfriday" rel="nofollow">Coder QA</a>: <a href="https://jupitersignal.memberful.com/checkout?plan=53334&coupon=blackfriday" rel="nofollow">30% off the lifetime of your membership!</a> Promo Code: blackfriday</li></ul><p><a href="https://jupitersignal.memberful.com/checkout?plan=53334" rel="payment">Support Coder Radio</a></p><p>Links:</p><ul><li><a href="https://strike.me/" title="💥 Gets Sats with Strike" rel="nofollow">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a href="https://bitcoinwell.com/" title="🇨🇦 Bitcoin Well" rel="nofollow">🇨🇦 Bitcoin Well</a> &mdash; Enable your independence with the fastest and safest way to buy Bitcoin in Canada and the USA. Focused on Bitcoin excellence, enabling true financial independence 🥇</li><li><a href="https://fountain.fm/" title="📻 Boost with Fountain.FM" rel="nofollow">📻 Boost with Fountain.FM</a> &mdash; Boost from Fountain.FM's website and keep your current Podcast app. Or kick the tires on the Podcasting 2.0 revolution and try out Fountain.FM the app! 🚀</li><li><a href="https://adventofcode.com/" title="Advent of Code 2024" rel="nofollow">Advent of Code 2024</a> &mdash; Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like.</li><li><a href="https://jupiter.party" title="Jupiter.Party Network Membership " rel="nofollow">Jupiter.Party Network Membership </a> &mdash; Use Promo code: blackfriday
+
+Stack 30% off ontop of one-month free!</li><li><a href="https://github.blog/engineering/engineering-principles/the-ultimate-guide-to-developer-happiness/" title="The ultimate guide to developer happiness" rel="nofollow">The ultimate guide to developer happiness</a> &mdash; Five actionable tips and strategies to supercharge developer happiness—and a more innovative workplace. </li><li><a href="https://radanskoric.com/articles/rails-is-better-low-code-than-low-code" title="Rails is better low code than low code " rel="nofollow">Rails is better low code than low code </a> &mdash; Both arcs unfold before me in parallel …</li><li><a href="https://github.com/LHolten/rust-query" title="rust-query: Type safe query builder for rust" rel="nofollow">rust-query: Type safe query builder for rust</a> &mdash; The goal of this library is to allow writing relational database queries using familiar Rust syntax. The library should guarantee that a query can not fail if it compiles.</li><li><a href="https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/?guccounter=1" title="Intel CEO Pat Gelsinger retires" rel="nofollow">Intel CEO Pat Gelsinger retires</a> &mdash; Intel has announced that CEO Pat Gelsinger has retired, effective December 1, and stepped down from the company’s board of directors.</li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust.</p><p>Sponsored By:</p><ul><li><a href="https://jupitersignal.memberful.com/checkout?plan=53334&coupon=blackfriday" rel="nofollow">Coder QA</a>: <a href="https://jupitersignal.memberful.com/checkout?plan=53334&coupon=blackfriday" rel="nofollow">30% off the lifetime of your membership!</a> Promo Code: blackfriday</li></ul><p><a href="https://jupitersignal.memberful.com/checkout?plan=53334" rel="payment">Support Coder Radio</a></p><p>Links:</p><ul><li><a href="https://strike.me/" title="💥 Gets Sats with Strike" rel="nofollow">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a href="https://bitcoinwell.com/" title="🇨🇦 Bitcoin Well" rel="nofollow">🇨🇦 Bitcoin Well</a> &mdash; Enable your independence with the fastest and safest way to buy Bitcoin in Canada and the USA. Focused on Bitcoin excellence, enabling true financial independence 🥇</li><li><a href="https://fountain.fm/" title="📻 Boost with Fountain.FM" rel="nofollow">📻 Boost with Fountain.FM</a> &mdash; Boost from Fountain.FM's website and keep your current Podcast app. Or kick the tires on the Podcasting 2.0 revolution and try out Fountain.FM the app! 🚀</li><li><a href="https://adventofcode.com/" title="Advent of Code 2024" rel="nofollow">Advent of Code 2024</a> &mdash; Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language you like.</li><li><a href="https://jupiter.party" title="Jupiter.Party Network Membership " rel="nofollow">Jupiter.Party Network Membership </a> &mdash; Use Promo code: blackfriday
+
+Stack 30% off ontop of one-month free!</li><li><a href="https://github.blog/engineering/engineering-principles/the-ultimate-guide-to-developer-happiness/" title="The ultimate guide to developer happiness" rel="nofollow">The ultimate guide to developer happiness</a> &mdash; Five actionable tips and strategies to supercharge developer happiness—and a more innovative workplace. </li><li><a href="https://radanskoric.com/articles/rails-is-better-low-code-than-low-code" title="Rails is better low code than low code " rel="nofollow">Rails is better low code than low code </a> &mdash; Both arcs unfold before me in parallel …</li><li><a href="https://github.com/LHolten/rust-query" title="rust-query: Type safe query builder for rust" rel="nofollow">rust-query: Type safe query builder for rust</a> &mdash; The goal of this library is to allow writing relational database queries using familiar Rust syntax. The library should guarantee that a query can not fail if it compiles.</li><li><a href="https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/?guccounter=1" title="Intel CEO Pat Gelsinger retires" rel="nofollow">Intel CEO Pat Gelsinger retires</a> &mdash; Intel has announced that CEO Pat Gelsinger has retired, effective December 1, and stepped down from the company’s board of directors.</li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/MLf2ZzhC+U-3w0EhF</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+U-3w0EhF" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/1e6cfee6-871d-4eff-ba4c-d4be994753d5/chapters" type="application/json"/>
+      <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
+    </item>
     <item>
       <title>597: Make Google Great Again</title>
       <link>https://coder.show/597</link>
