@@ -2,11 +2,11 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 18 Dec 2024 03:16:48 -0600</fireside:genDate>
+    <fireside:genDate>Wed, 18 Dec 2024 04:18:01 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder QA</title>
     <link>https://coderqa.fireside.fm</link>
-    <pubDate>Wed, 18 Dec 2024 09:15:45 -0000</pubDate>
+    <pubDate>Wed, 18 Dec 2024 10:15:04 -0000</pubDate>
     <description>Thank you for your support, enjoy the ad-free version of Coder Radio as a thank you!
 </description>
     <language>en-us</language>
@@ -26,6 +26,38 @@
 <itunes:category text="Arts">
   <itunes:category text="Performing Arts"/>
 </itunes:category>
+    <item>
+      <title>Episode 600: Mikestrodamus</title>
+      <link>https://coderqa.fireside.fm/600</link>
+      <guid isPermaLink="false">ba15e58b-ac2b-4dcf-a835-67f3596327c1</guid>
+      <pubDate>Wed, 18 Dec 2024 02:00:00 -0800</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/8fba08fb-aa33-4b57-ac76-a388418a583a/ba15e58b-ac2b-4dcf-a835-67f3596327c1.mp3" length="44617008" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>We’re taking a victory lap down memory lane. From spooky-accurate predictions to "did we really say that?" moments, this one’s for the history books.</itunes:subtitle>
+      <itunes:duration>53:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8fba08fb-aa33-4b57-ac76-a388418a583a/cover.jpg?v=1"/>
+      <description>We’re taking a victory lap down memory lane. From spooky-accurate predictions to "did we really say that?" moments, this one’s for the history books. 
+</description>
+      <itunes:keywords>Coder Radio, Development Podcast, developers, Co-Pilot hot takes, Open Web, Tech Layoffs, Apple Intelligence, AI Features, Developer Insights, Listener Feedback, Episode 600</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>We’re taking a victory lap down memory lane. From spooky-accurate predictions to &quot;did we really say that?&quot; moments, this one’s for the history books.</p><p>Links:</p><ul><li><a href="https://strike.me/" title="💥 Gets Sats with Strike" rel="nofollow">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a href="https://bitcoinwell.com/" title="🇨🇦 Bitcoin Well" rel="nofollow">🇨🇦 Bitcoin Well</a> &mdash; Enable your independence with the fastest and safest way to buy Bitcoin in Canada and the USA. Focused on Bitcoin excellence, enabling true financial independence 🥇</li><li><a href="https://fountain.fm/" title="📻 Boost with Fountain.FM" rel="nofollow">📻 Boost with Fountain.FM</a> &mdash; Boost with Fountain.FM and kick the tires on the Podcasting 2.0 revolution! 🚀</li><li><a href="https://coder.show/439" title="Coder Radio 439: Github NoPilot" rel="nofollow">Coder Radio 439: Github NoPilot</a> &mdash; Microsoft has a bunch of new goodies for developers, but Mike is becoming more and more concerned about an insidious new feature.</li><li><a href="https://coder.show/421" title="Coder Radio 421: Misdirected Request" rel="nofollow">Coder Radio 421: Misdirected Request</a> &mdash; Has Google already started its decline? Our surprising take.
+
+Plus the trouble with Co-Pilot, and a lot more.</li><li><a href="https://coder.show/472" title="Coder Radio 472: Drunken Copilot" rel="nofollow">Coder Radio 472: Drunken Copilot</a> &mdash; Mike just signed up for a year of GitHub Copilot and Chris tries to understand why. Then we catch each other up on some recent surprises.</li><li><a href="https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/" title="Most iPhone owners see little to no value in Apple Intelligence so far" rel="nofollow">Most iPhone owners see little to no value in Apple Intelligence so far</a> &mdash; A new survey by tech trade-in site SellCell found that AI is an important factor when choosing a new smartphone.</li><li><a href="https://github.com/microsoft/markitdown" title="markitdown" rel="nofollow">markitdown</a> &mdash; Python tool for converting files and office documents to Markdown.</li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>We’re taking a victory lap down memory lane. From spooky-accurate predictions to &quot;did we really say that?&quot; moments, this one’s for the history books.</p><p>Links:</p><ul><li><a href="https://strike.me/" title="💥 Gets Sats with Strike" rel="nofollow">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a href="https://bitcoinwell.com/" title="🇨🇦 Bitcoin Well" rel="nofollow">🇨🇦 Bitcoin Well</a> &mdash; Enable your independence with the fastest and safest way to buy Bitcoin in Canada and the USA. Focused on Bitcoin excellence, enabling true financial independence 🥇</li><li><a href="https://fountain.fm/" title="📻 Boost with Fountain.FM" rel="nofollow">📻 Boost with Fountain.FM</a> &mdash; Boost with Fountain.FM and kick the tires on the Podcasting 2.0 revolution! 🚀</li><li><a href="https://coder.show/439" title="Coder Radio 439: Github NoPilot" rel="nofollow">Coder Radio 439: Github NoPilot</a> &mdash; Microsoft has a bunch of new goodies for developers, but Mike is becoming more and more concerned about an insidious new feature.</li><li><a href="https://coder.show/421" title="Coder Radio 421: Misdirected Request" rel="nofollow">Coder Radio 421: Misdirected Request</a> &mdash; Has Google already started its decline? Our surprising take.
+
+Plus the trouble with Co-Pilot, and a lot more.</li><li><a href="https://coder.show/472" title="Coder Radio 472: Drunken Copilot" rel="nofollow">Coder Radio 472: Drunken Copilot</a> &mdash; Mike just signed up for a year of GitHub Copilot and Chris tries to understand why. Then we catch each other up on some recent surprises.</li><li><a href="https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/" title="Most iPhone owners see little to no value in Apple Intelligence so far" rel="nofollow">Most iPhone owners see little to no value in Apple Intelligence so far</a> &mdash; A new survey by tech trade-in site SellCell found that AI is an important factor when choosing a new smartphone.</li><li><a href="https://github.com/microsoft/markitdown" title="markitdown" rel="nofollow">markitdown</a> &mdash; Python tool for converting files and office documents to Markdown.</li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/GELrkoc1+3A3DSNw2</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/GELrkoc1+3A3DSNw2" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/coderqa/json/episodes/ba15e58b-ac2b-4dcf-a835-67f3596327c1/chapters" type="application/json"/>
+    </item>
     <item>
       <title>Episode 599: GPU Game Theory</title>
       <link>https://coderqa.fireside.fm/599</link>
