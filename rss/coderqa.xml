@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Tue, 31 Dec 2024 18:01:05 -0600</fireside:genDate>
+    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
+    <fireside:genDate>Wed, 01 Jan 2025 04:16:08 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder QA</title>
     <link>https://coderqa.fireside.fm</link>
-    <pubDate>Wed, 01 Jan 2025 00:00:58 -0000</pubDate>
+    <pubDate>Wed, 01 Jan 2025 10:15:05 -0000</pubDate>
     <description>Thank you for your support, enjoy the ad-free version of Coder Radio as a thank you!
 </description>
     <language>en-us</language>
-    <copyright>© 2024 Coder QA</copyright>
+    <copyright>© 2025 Coder QA</copyright>
     <itunes:type>episodic</itunes:type>
     <itunes:subtitle>Coder Radio QA Feed for our Members</itunes:subtitle>
     <itunes:author>Jupiter Broadcasting</itunes:author>
@@ -26,6 +26,34 @@
 <itunes:category text="Arts">
   <itunes:category text="Performing Arts"/>
 </itunes:category>
+    <item>
+      <title>Episode 601: The 10X Exec</title>
+      <link>https://coderqa.fireside.fm/601</link>
+      <guid isPermaLink="false">e2a318ea-5b26-44c0-8519-51ede040249f</guid>
+      <pubDate>Wed, 01 Jan 2025 02:00:00 -0800</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/8fba08fb-aa33-4b57-ac76-a388418a583a/e2a318ea-5b26-44c0-8519-51ede040249f.mp3" length="47162745" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>Some debates never die, and this week, we’re reigniting one of our spiciest from the archives. Plus, our boldest 2025 predictions yet.</itunes:subtitle>
+      <itunes:duration>56:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8fba08fb-aa33-4b57-ac76-a388418a583a/cover.jpg?v=1"/>
+      <description>Some debates never die, and this week, we’re reigniting one of our spiciest from the archives. Plus, our boldest 2025 predictions yet. 
+</description>
+      <itunes:keywords>Coder Radio, Development Podcast, developers, Nvidia robots, humanoid robotics, robot leasing, AI-generated code, H1B visas, tech layoffs, visa abuses, economic instability, AI predictions, generative AI, robotics boom, workforce automation, immigration reform, cloud backlash, payment integration, GitHub licensing, Mac vs Linux, community culture</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Some debates never die, and this week, we’re reigniting one of our spiciest from the archives. Plus, our boldest 2025 predictions yet.</p><p>Links:</p><ul><li><a href="https://strike.me/" title="💥 Gets Sats with Strike" rel="nofollow">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a href="https://coder.show/bitcoin" title="🇨🇦  Bitcoin Well" rel="nofollow">🇨🇦  Bitcoin Well</a> &mdash; The fastest and safest way to buy Bitcoin in Canada and the USA. Focused on Bitcoin excellence, with self-custody built in. 🥇</li><li><a href="https://fountain.fm/" title="📻 Boost with Fountain.FM" rel="nofollow">📻 Boost with Fountain.FM</a> &mdash; Boost with Fountain.FM and kick the tires on the Podcasting 2.0 revolution! 🚀</li><li><a href="https://techcrunch.com/2024/12/29/nvidias-next-move-powering-humanoid-robots/" title="Nvidia's next move: Powering humanoid robots" rel="nofollow">Nvidia's next move: Powering humanoid robots</a> &mdash; The chipmaking giant Nvidia is leaning more heavily into robotics in 2025. More specifically, in the first half of the new year, confirms the Financial Times, Nvidia is launching a new generation of compact computers for humanoid robots called Jetson Thor.</li><li><a href="https://h1bdata.info/" title="H1B Visa Salary Database 2024" rel="nofollow">H1B Visa Salary Database 2024</a> &mdash; Search By Employer, Job, or City.</li><li><a href="https://www.dol.gov/agencies/eta/foreign-labor/performance#dis" title="Performance Data" rel="nofollow">Performance Data</a> &mdash; As part of the U.S. Department of Labor's commitment to supporting the goals of an open and transparent government, this page provides easy access to employment-based immigration data organized in three main categories</li><li><a href="https://www.boundless.com/immigration-resources/the-h-1b-visa-explained/" title="The H-1B Visa, Explained" rel="nofollow">The H-1B Visa, Explained</a></li><li><a href="https://www.youtube.com/watch?v=ODTElnxHnU4" title="Musk vs. MAGA on H1-B visas - YouTube" rel="nofollow">Musk vs. MAGA on H1-B visas - YouTube</a> &mdash; CNBC’s Megan Cassella joins 'Squawk on the Street' to discuss Musk going against MAGA on H1-B visas.</li><li><a href="https://x.com/EthanEvansVP/status/1873036572863676803" title="Ethan Evans on X" rel="nofollow">Ethan Evans on X</a> &mdash; There are three simple economic arguments for increasing legal immigration by highly educated workers</li><li><a href="https://x.com/mitchellh/status/1873115717668880554" title="Mitchell Hashimoto on X" rel="nofollow">Mitchell Hashimoto on X</a> &mdash; "r/linux": arguments about what "native" means, angry they have to click one link to learn what it is, disappointed that another terminal exists, 50-comment discussion about GTK vs QT</li><li><a href="https://www.amazon.com/Broken-Money-Financial-System-Failing/dp/B0CNS7NQLD" title="Broken Money" rel="nofollow">Broken Money</a> &mdash; Why Our Financial System Is Failing Us and How We Can Make It Better.</li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Some debates never die, and this week, we’re reigniting one of our spiciest from the archives. Plus, our boldest 2025 predictions yet.</p><p>Links:</p><ul><li><a href="https://strike.me/" title="💥 Gets Sats with Strike" rel="nofollow">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a href="https://coder.show/bitcoin" title="🇨🇦  Bitcoin Well" rel="nofollow">🇨🇦  Bitcoin Well</a> &mdash; The fastest and safest way to buy Bitcoin in Canada and the USA. Focused on Bitcoin excellence, with self-custody built in. 🥇</li><li><a href="https://fountain.fm/" title="📻 Boost with Fountain.FM" rel="nofollow">📻 Boost with Fountain.FM</a> &mdash; Boost with Fountain.FM and kick the tires on the Podcasting 2.0 revolution! 🚀</li><li><a href="https://techcrunch.com/2024/12/29/nvidias-next-move-powering-humanoid-robots/" title="Nvidia's next move: Powering humanoid robots" rel="nofollow">Nvidia's next move: Powering humanoid robots</a> &mdash; The chipmaking giant Nvidia is leaning more heavily into robotics in 2025. More specifically, in the first half of the new year, confirms the Financial Times, Nvidia is launching a new generation of compact computers for humanoid robots called Jetson Thor.</li><li><a href="https://h1bdata.info/" title="H1B Visa Salary Database 2024" rel="nofollow">H1B Visa Salary Database 2024</a> &mdash; Search By Employer, Job, or City.</li><li><a href="https://www.dol.gov/agencies/eta/foreign-labor/performance#dis" title="Performance Data" rel="nofollow">Performance Data</a> &mdash; As part of the U.S. Department of Labor's commitment to supporting the goals of an open and transparent government, this page provides easy access to employment-based immigration data organized in three main categories</li><li><a href="https://www.boundless.com/immigration-resources/the-h-1b-visa-explained/" title="The H-1B Visa, Explained" rel="nofollow">The H-1B Visa, Explained</a></li><li><a href="https://www.youtube.com/watch?v=ODTElnxHnU4" title="Musk vs. MAGA on H1-B visas - YouTube" rel="nofollow">Musk vs. MAGA on H1-B visas - YouTube</a> &mdash; CNBC’s Megan Cassella joins 'Squawk on the Street' to discuss Musk going against MAGA on H1-B visas.</li><li><a href="https://x.com/EthanEvansVP/status/1873036572863676803" title="Ethan Evans on X" rel="nofollow">Ethan Evans on X</a> &mdash; There are three simple economic arguments for increasing legal immigration by highly educated workers</li><li><a href="https://x.com/mitchellh/status/1873115717668880554" title="Mitchell Hashimoto on X" rel="nofollow">Mitchell Hashimoto on X</a> &mdash; "r/linux": arguments about what "native" means, angry they have to click one link to learn what it is, disappointed that another terminal exists, 50-comment discussion about GTK vs QT</li><li><a href="https://www.amazon.com/Broken-Money-Financial-System-Failing/dp/B0CNS7NQLD" title="Broken Money" rel="nofollow">Broken Money</a> &mdash; Why Our Financial System Is Failing Us and How We Can Make It Better.</li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/GELrkoc1+45cG4CKi</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/GELrkoc1+45cG4CKi" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/coderqa/json/episodes/e2a318ea-5b26-44c0-8519-51ede040249f/chapters" type="application/json"/>
+    </item>
     <item>
       <title>Episode 600: Mikestrodamus</title>
       <link>https://coderqa.fireside.fm/600</link>
