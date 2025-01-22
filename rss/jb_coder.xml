@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Tue, 21 Jan 2025 23:47:20 -0600</fireside:genDate>
+    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
+    <fireside:genDate>Wed, 22 Jan 2025 04:18:13 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder Radio</title>
     <link>https://coder.show</link>
-    <pubDate>Tue, 21 Jan 2025 21:46:37 -0800</pubDate>
+    <pubDate>Wed, 22 Jan 2025 02:15:04 -0800</pubDate>
     <description>A weekly talk show taking a pragmatic look at the art and business of Software Development and the world of technology.
 </description>
     <language>en-us</language>
@@ -29,6 +29,36 @@
   <itunes:category text="How To"/>
 </itunes:category>
 <itunes:category text="Business"/>
+    <item>
+      <title>604: The Startup Myth</title>
+      <link>https://coder.show/604</link>
+      <guid isPermaLink="false">5ea3a4de-2ae7-4ad2-998b-7ea7a7b8462d</guid>
+      <pubDate>Wed, 22 Jan 2025 02:00:00 -0800</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5ea3a4de-2ae7-4ad2-998b-7ea7a7b8462d.mp3" length="32708824" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are taking jobs at startups, and a new buzzphrase: Framework Fatigue.</itunes:subtitle>
+      <itunes:duration>38:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/cover.jpg?v=5"/>
+      <description>We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are taking jobs at startups, and a new buzzphrase: Framework Fatigue. 
+</description>
+      <itunes:keywords>Coder Radio, Development Podcast, developers, tech companies, super app, AI performance, powerful AI, AI regulations, DOGE lawsuit, startup culture, mental health, venture capital, big tech, Rails 8, framework fatigue, job market, library design, PostgreSQL, podcasting, cybersecurity breaches, HPE hack, IntelBroker, stolen data, cyber response</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are taking jobs at startups, and a new buzzphrase: Framework Fatigue.</p><p>Sponsored By:</p><ul><li><a rel="nofollow" href="https://jupitersignal.memberful.com/checkout?plan=53334&amp;coupon=jarjar">Coder QA</a>: <a rel="nofollow" href="https://jupitersignal.memberful.com/checkout?plan=53334&amp;coupon=jarjar">Take $2 a month off for the lifetime of your membership and contribute to our show directly</a> Promo Code: jarjar</li><li><a rel="nofollow" href="https://bitcoinwell.com/jupiter">Bitcoin Well</a>: <a rel="nofollow" href="https://bitcoinwell.com/jupiter">Bitcoin sent directly to your wallet is the safest way to buy Bitcoin. Immediate settlement, direct to self-custody. Supports the Lightning Network.</a></li></ul><p><a rel="payment" href="https://jupitersignal.memberful.com/checkout?plan=53334">Support Coder Radio</a></p><p>Links:</p><ul><li><a title="💥 Gets Sats with Strike" rel="nofollow" href="https://strike.me/">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a title="🇨🇦  Bitcoin Well" rel="nofollow" href="https://bitcoinwell.com/jupiter">🇨🇦  Bitcoin Well</a> &mdash; The fastest and safest way to buy Bitcoin in Canada and the USA. With self-custody built in. 🥇</li><li><a title="📻 Boost with Fountain.FM" rel="nofollow" href="https://fountain.fm/">📻 Boost with Fountain.FM</a> &mdash; Boost with Fountain.FM and kick the tires on the Podcasting 2.0 revolution! 🚀</li><li><a title="Startup Winter: Hacker News Lost its Faith " rel="nofollow" href="https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/">Startup Winter: Hacker News Lost its Faith </a> &mdash; I believe we're entering what might be called a "Startup Winter" - not because startups have stopped being created, but because the mythology around them has frozen over.</li><li><a title="Introducing the Solid Trifecta | Rails 8 Unpacked - YouTube" rel="nofollow" href="https://www.youtube.com/watch?v=FpfAu20I00A">Introducing the Solid Trifecta | Rails 8 Unpacked - YouTube</a> &mdash; The Solid Trifecta is a set of database adapters in Rails 8 that simplifies app development by replacing traditional RAM-based solutions like Redis with efficient, cost-effective database-backed tools. Solid Cable handles WebSocket messages, Solid Cache powers caching, and Solid Queue manages job queues, all using databases like MySQL, PostgreSQL, or SQLite. </li><li><a title="Framework Fatigue: The Real Reason Developers Get Angry About New Tech" rel="nofollow" href="https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech">Framework Fatigue: The Real Reason Developers Get Angry About New Tech</a> &mdash; As a developer trying to keep up with the latest tech, you find yourself in a familiar loop: check the landing page, watch the demo, star the GitHub repo “just in case,” and move on with your life. There’s only so much mental bandwidth to go around.</li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are taking jobs at startups, and a new buzzphrase: Framework Fatigue.</p><p>Sponsored By:</p><ul><li><a rel="nofollow" href="https://jupitersignal.memberful.com/checkout?plan=53334&amp;coupon=jarjar">Coder QA</a>: <a rel="nofollow" href="https://jupitersignal.memberful.com/checkout?plan=53334&amp;coupon=jarjar">Take $2 a month off for the lifetime of your membership and contribute to our show directly</a> Promo Code: jarjar</li><li><a rel="nofollow" href="https://bitcoinwell.com/jupiter">Bitcoin Well</a>: <a rel="nofollow" href="https://bitcoinwell.com/jupiter">Bitcoin sent directly to your wallet is the safest way to buy Bitcoin. Immediate settlement, direct to self-custody. Supports the Lightning Network.</a></li></ul><p><a rel="payment" href="https://jupitersignal.memberful.com/checkout?plan=53334">Support Coder Radio</a></p><p>Links:</p><ul><li><a title="💥 Gets Sats with Strike" rel="nofollow" href="https://strike.me/">💥 Gets Sats with Strike</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 100 countries. Easily integrates with Fountain.fm. Setup your Strike account, and you have one of the world's best ways to buy sats.</li><li><a title="🇨🇦  Bitcoin Well" rel="nofollow" href="https://bitcoinwell.com/jupiter">🇨🇦  Bitcoin Well</a> &mdash; The fastest and safest way to buy Bitcoin in Canada and the USA. With self-custody built in. 🥇</li><li><a title="📻 Boost with Fountain.FM" rel="nofollow" href="https://fountain.fm/">📻 Boost with Fountain.FM</a> &mdash; Boost with Fountain.FM and kick the tires on the Podcasting 2.0 revolution! 🚀</li><li><a title="Startup Winter: Hacker News Lost its Faith " rel="nofollow" href="https://www.vincentschmalbach.com/startup-winter-hacker-news-lost-its-faith/">Startup Winter: Hacker News Lost its Faith </a> &mdash; I believe we're entering what might be called a "Startup Winter" - not because startups have stopped being created, but because the mythology around them has frozen over.</li><li><a title="Introducing the Solid Trifecta | Rails 8 Unpacked - YouTube" rel="nofollow" href="https://www.youtube.com/watch?v=FpfAu20I00A">Introducing the Solid Trifecta | Rails 8 Unpacked - YouTube</a> &mdash; The Solid Trifecta is a set of database adapters in Rails 8 that simplifies app development by replacing traditional RAM-based solutions like Redis with efficient, cost-effective database-backed tools. Solid Cable handles WebSocket messages, Solid Cache powers caching, and Solid Queue manages job queues, all using databases like MySQL, PostgreSQL, or SQLite. </li><li><a title="Framework Fatigue: The Real Reason Developers Get Angry About New Tech" rel="nofollow" href="https://blog.raed.dev/posts/framework-fatigue-the-real-reason-developers-get-angry-about-new-tech">Framework Fatigue: The Real Reason Developers Get Angry About New Tech</a> &mdash; As a developer trying to keep up with the latest tech, you find yourself in a familiar loop: check the landing page, watch the demo, star the GitHub repo “just in case,” and move on with your life. There’s only so much mental bandwidth to go around.</li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/MLf2ZzhC+GicRlWii</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+GicRlWii" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/coder/json/episodes/5ea3a4de-2ae7-4ad2-998b-7ea7a7b8462d/chapters" type="application/json"/>
+      <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
+    </item>
     <item>
       <title>603: COSMIC Defenders</title>
       <link>https://coder.show/603</link>
