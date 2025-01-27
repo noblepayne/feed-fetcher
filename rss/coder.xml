@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
-    <fireside:genDate>Wed, 22 Jan 2025 04:46:08 -0600</fireside:genDate>
+    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
+    <fireside:genDate>Fri, 24 Jan 2025 05:55:33 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder Radio</title>
     <link>https://coder.show</link>
@@ -1965,7 +1965,7 @@ So what’s going to happen? I don’t know, but I do know that we’ll keep fig
       <itunes:subtitle>OpenAI's weekend coup, plus our thoughts on Microsoft's gambit and their looming risk.</itunes:subtitle>
       <itunes:duration>48:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/episodes/b/b51989d0-d39b-41b8-8e3f-cb950ef8b5c5/cover.jpg?v=1"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/episodes/b/b51989d0-d39b-41b8-8e3f-cb950ef8b5c5/cover.jpg?v=1"/>
       <description>OpenAI's weekend coup, plus our thoughts on Microsoft's gambit and their looming risk. 
 </description>
       <itunes:keywords>OpenAI, Microsoft, Sam Altman, Greg Brockman, CEO, resignation, board, protest, investors, Microsoft's investment, coup, risk, podcast, developers, Twitter Advertising, Apple, Elon Musk, TikTok ads, PANIC, Bin Laden letter, feedback, Olympia Mike, Egon, Dumbest AI Hype, Alderon Games, HedgeDoc, firing, Brad Lightcap, memo, chip venture, Tigris, Tensor Processing Units, TPUs, Bloomberg, Microsoft hires, AI research team, Satya Nadella, Alex Heath, OpenAI staff, Chris Bakke, Google AI, Tailscale, condolences, startups, Azure, Bindu Reddy, power, GPUs, CEO title, acquisition, angry horses, Emmett Shear, Twitch, cautious views, existential risks, AI development pace</itunes:keywords>
@@ -2743,7 +2743,7 @@ Before this, Huffman had no public interactions with the community or website fo
       <itunes:subtitle>We argue over what sucked the most at WWDC this year and then surprise each other with two things that thrill us.</itunes:subtitle>
       <itunes:duration>1:02:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/episodes/6/691ea057-d65d-429d-ac04-7d9fa6b4c0e3/cover.jpg?v=1"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/episodes/6/691ea057-d65d-429d-ac04-7d9fa6b4c0e3/cover.jpg?v=1"/>
       <description>We argue over what sucked the most at WWDC this year and then surprise each other with two things that thrill us. 
 </description>
       <itunes:keywords>Coder Radio, Development Podcast, developers, Ice Breaker, SEC suees, Coinbase, Binance, SwiftUI, Vision Pro, AR headset, Spacial Computing, eyes, hands, voice control, eye tracking, biofeedback, brain-machine-interface, front screen, wire, separate wired battery, M2 SOC, R1 Chip, visionOS, Optic ID, Chris, Apple, AR on iPad, iPhone, $3,499, Sterling Crispin, Apple Vision Pro Testers, Apple Vision Pro Development Kits, M2 chip, sensors, Mac Pro, M2 Max, M2 Ultra, Mac Studio, MacOS, Arial Screen saver, Widgets, Video call effects, M series mac, WebApps, Game Mode, iPad, Air Pods Adaptive Audio, iOS 17, digital contact sharing apps, iPhone 12, FaceTime, StandBy mode, Live Activities, Siri enhancements, unwanted nudes, Sensitive Content Warning, Boooosts, Baller Boosts, Mac Hardware, Mac Pro, 15 inch Airs, Mac Studio, MacOS, Sherlocked, Autocorrect keyboard, Predictions inline, Point and Speak, StandBy mode, Live Activities, Siri enhancements, iPad Shit Show, WWDC Leftovers, Air Pods Adaptive Audio, iOS 17, rust keynote, Mac gaming performance, WWDC Leftovers</itunes:keywords>
@@ -3527,7 +3527,7 @@ Overture aims to incorporate map data from multiple sources including Overture M
       <itunes:subtitle>Mike and Chris spend a little time chatting about one of their loves in life, great games. It's a test pilot episode for a possible new show, and we'd like your feedback. Consider it a holiday treat for the Coder fans out there.</itunes:subtitle>
       <itunes:duration>36:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/episodes/b/b7518bd3-f963-439e-9495-f0f812904c3c/cover.jpg?v=1"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/episodes/b/b7518bd3-f963-439e-9495-f0f812904c3c/cover.jpg?v=1"/>
       <description>Mike and Chris spend a little time chatting about one of their loves in life, great games. It's a test pilot episode for a possible new show, and we'd like your feedback. Consider it a holiday treat for the Coder fans out there. 
 </description>
       <itunes:keywords>Gamer Radio, Nintendo, Genisis, Saga, Classic Games, Family Gaming, Pokemon, Magic the Gathering, Dark Castle, Marvel Midnight Sun, Flesh and Blood, Gameboy, Gaming Culture</itunes:keywords>
@@ -7816,7 +7816,7 @@ Upgrade and save through September 30th</a> Promo Code: Tell them Coder sent you
       <itunes:subtitle>We say goodbye to the show by taking a look back at a few of our favorite moments and reflect on how much has changed in the past seven years.</itunes:subtitle>
       <itunes:duration>33:16</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/episodes/7/7f4782a1-4de8-4337-bd9c-818881560224/cover.jpg?v=1"/>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/episodes/7/7f4782a1-4de8-4337-bd9c-818881560224/cover.jpg?v=1"/>
       <description>We say goodbye to the show by taking a look back at a few of our favorite moments and reflect on how much has changed in the past seven years. 
 </description>
       <itunes:keywords>Apple, mobile, swift, Objective C, .NET, functional programming, getting started, Microsoft, Red Hat, open source, business, software consulting, bots, serverless, IoT, mobile development, OOP, docker, dotCloud, containers, computer science, 7 languages in 7 weeks, devops, deployment, automation, Jupiter Broadcasting, Developer podcast, Coder Radio</itunes:keywords>
