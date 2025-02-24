@@ -2,11 +2,11 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Mon, 24 Feb 2025 09:46:52 -0600</fireside:genDate>
+    <fireside:genDate>Mon, 24 Feb 2025 15:52:07 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder Radio</title>
     <link>https://coder.show</link>
-    <pubDate>Mon, 24 Feb 2025 10:45:04 -0500</pubDate>
+    <pubDate>Mon, 24 Feb 2025 16:51:39 -0500</pubDate>
     <description>A weekly talk show taking a pragmatic look at the art and business of Software Development and the world of technology.
 </description>
     <language>en-us</language>
@@ -78,6 +78,7 @@ R Markdown: https://rmarkdown.rstudio.com/
 WebR - R in the browser: https://docs.r-wasm.org/webr/latest/ 
 Rix - Reproducible Data Science environments for R with Nix: https://github.com/ropensci/rix 
 Chromatic by ModRetro
+Chromatic: https://modretro.com/products/chromatic-tetris-bundle?variant=47637522579758
 FPGA
 Mike’s Review
 Eric’s Thoughts
@@ -139,6 +140,7 @@ WebR - R in the browser: <a href="https://docs.r-wasm.org/webr/latest/" rel="nof
 Rix - Reproducible Data Science environments for R with Nix: <a href="https://github.com/ropensci/rix" rel="nofollow">https://github.com/ropensci/rix</a> </p>
 
 <p><strong>Chromatic by ModRetro</strong><br>
+Chromatic: <a href="https://modretro.com/products/chromatic-tetris-bundle?variant=47637522579758" rel="nofollow">https://modretro.com/products/chromatic-tetris-bundle?variant=47637522579758</a><br>
 FPGA<br>
 Mike’s Review<br>
 Eric’s Thoughts<br>
@@ -203,6 +205,7 @@ WebR - R in the browser: <a href="https://docs.r-wasm.org/webr/latest/" rel="nof
 Rix - Reproducible Data Science environments for R with Nix: <a href="https://github.com/ropensci/rix" rel="nofollow">https://github.com/ropensci/rix</a> </p>
 
 <p><strong>Chromatic by ModRetro</strong><br>
+Chromatic: <a href="https://modretro.com/products/chromatic-tetris-bundle?variant=47637522579758" rel="nofollow">https://modretro.com/products/chromatic-tetris-bundle?variant=47637522579758</a><br>
 FPGA<br>
 Mike’s Review<br>
 Eric’s Thoughts<br>
