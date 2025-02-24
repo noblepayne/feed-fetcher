@@ -2,11 +2,11 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Fri, 21 Feb 2025 14:53:22 -0600</fireside:genDate>
+    <fireside:genDate>Mon, 24 Feb 2025 09:25:06 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder Radio</title>
     <link>https://coder.show</link>
-    <pubDate>Fri, 21 Feb 2025 15:52:36 -0500</pubDate>
+    <pubDate>Mon, 24 Feb 2025 10:24:59 -0500</pubDate>
     <description>A weekly talk show taking a pragmatic look at the art and business of Software Development and the world of technology.
 </description>
     <language>en-us</language>
@@ -28,6 +28,211 @@
   <itunes:category text="How To"/>
 </itunes:category>
 <itunes:category text="Business"/>
+    <item>
+      <title>608: R With Eric Nantz</title>
+      <link>https://coder.show/608</link>
+      <guid isPermaLink="false">d51f0133-5186-443e-92e8-9e7a65fa2203</guid>
+      <pubDate>Mon, 24 Feb 2025 10:00:00 -0500</pubDate>
+      <author>The Mad Botter</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/d51f0133-5186-443e-92e8-9e7a65fa2203.mp3" length="79954390" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>The Mad Botter</itunes:author>
+      <itunes:subtitle>Mike sits down with Eric Nantz of the R podcast and R Weekly</itunes:subtitle>
+      <itunes:duration>55:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/cover.jpg?v=6"/>
+      <description>House Keeping
+Google / YouTube Update
+Join the Discord!
+Feedback
+Rust in the Linux Kernel.
+R Stuff
+What is R Again?
+Great presentation by John Chambers at UseR! 2006 https://www.r-project.org/conferences/useR-2006/Slides/Chambers.pdf 
+The times have changed, now R is very much suited for production use and not just an academic research language
+Highly recommend reading Advanced R for more comprehensive details on the quirks of the language https://adv-r.hadley.nz/index.html 
+R VS Python for Data?
+Different philosophies on the use of the language
+CRAN vs PyPi 
+Interoperability becoming more mainstream now
+Visualization: R has always been leaps and bounds ahead (Grammar of Graphics, interactive widgets, etc)
+R Dev Stack?
+IDEs: RStudio, now Positron https://positron.posit.co/ 
+Managing package installations with renv https://rstudio.github.io/renv/ 
+Building web apps with Shiny: https://shiny.posit.co/ (I got so engrossed in this space that I created the Shiny Developer Series because of it)
+Early adopter of using Docker with R in devcontainers with VS-Code. 
+New tech I’m excited about to enhance dev stacks and sharing apps
+WebAssembly with webR https://docs.r-wasm.org/webr/latest/ 
+Shiny apps in webR? Yes you can https://github.com/RConsortium/submissions-pilot4-webR 
+Managing dev environment combined with Nix: The rix package https://github.com/ropensci/rix 
+(More organized links for show notes)
+R Language: https://r-project.org
+Posit (formerly RStudio): https://posit.co 
+RStudio IDE https://posit.co/products/open-source/rstudio/ 
+Positron (still in beta): https://positron.posit.co/ 
+History of S and R presentation by John Chambers at useR! 2006: http://www.r-project.org/user-2006/Slides/Chambers.pdf
+Advanced R (2nd edition) by Hadley Wickham https://adv-r.hadley.nz/index.html 
+Shiny - Easy interactive web applications with R:  https://shiny.posit.co/ 
+renv - Project environments for R: https://rstudio.github.io/renv/ 
+R Markdown: https://rmarkdown.rstudio.com/ 
+WebR - R in the browser: https://docs.r-wasm.org/webr/latest/ 
+Rix - Reproducible Data Science environments for R with Nix: https://github.com/ropensci/rix 
+Chromatic by ModRetro
+FPGA
+Mike’s Review
+Eric’s Thoughts
+Eric's Socials
+R Weekly Highlights: https://serve.podhome.fm/r-weekly-highlights 
+Shiny Developer Series: https://shinydevseries.com/ 
+R Podcast: https://r-podcast.org 
+Bluesky: @rpodcast@bsky.social
+Mastodon: @rpodcast@podcastindex.social
+LinkedIn: https://www.linkedin.com/in/eric-nantz-6621617/ 
+Coder's Socials
+Mike on X (https://x.com/dominucco)
+Mike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)
+Coder on X (https://x.com/coderradioshow)
+Coder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)
+Show Discord (https://discord.gg/k8e7gKUpEp)
+Alice (https://alice.dev) 
+</description>
+      <itunes:keywords>R, data science, coding, programming, retro games, retrogaming, SEGA, Python, Jupyter Notebooks, Rust, Linux</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>House Keeping</strong><br>
+Google / YouTube Update<br>
+Join the Discord!<br>
+Feedback<br>
+Rust in the Linux Kernel.</p>
+
+<p><strong>R Stuff</strong><br>
+What is R Again?<br>
+Great presentation by John Chambers at UseR! 2006 <a href="https://www.r-project.org/conferences/useR-2006/Slides/Chambers.pdf" rel="nofollow">https://www.r-project.org/conferences/useR-2006/Slides/Chambers.pdf</a> <br>
+The times have changed, now R is very much suited for production use and not just an academic research language<br>
+Highly recommend reading Advanced R for more comprehensive details on the quirks of the language <a href="https://adv-r.hadley.nz/index.html" rel="nofollow">https://adv-r.hadley.nz/index.html</a> <br>
+R VS Python for Data?<br>
+Different philosophies on the use of the language<br>
+CRAN vs PyPi <br>
+Interoperability becoming more mainstream now<br>
+Visualization: R has always been leaps and bounds ahead (Grammar of Graphics, interactive widgets, etc)<br>
+R Dev Stack?<br>
+IDEs: RStudio, now Positron <a href="https://positron.posit.co/" rel="nofollow">https://positron.posit.co/</a> <br>
+Managing package installations with renv <a href="https://rstudio.github.io/renv/" rel="nofollow">https://rstudio.github.io/renv/</a> <br>
+Building web apps with Shiny: <a href="https://shiny.posit.co/" rel="nofollow">https://shiny.posit.co/</a> (I got so engrossed in this space that I created the Shiny Developer Series because of it)<br>
+Early adopter of using Docker with R in devcontainers with VS-Code. <br>
+New tech I’m excited about to enhance dev stacks and sharing apps<br>
+WebAssembly with webR <a href="https://docs.r-wasm.org/webr/latest/" rel="nofollow">https://docs.r-wasm.org/webr/latest/</a> <br>
+Shiny apps in webR? Yes you can <a href="https://github.com/RConsortium/submissions-pilot4-webR" rel="nofollow">https://github.com/RConsortium/submissions-pilot4-webR</a> <br>
+Managing dev environment combined with Nix: The rix package <a href="https://github.com/ropensci/rix" rel="nofollow">https://github.com/ropensci/rix</a> </p>
+
+<p>(More organized links for show notes)</p>
+
+<p>R Language: <a href="https://r-project.org" rel="nofollow">https://r-project.org</a><br>
+Posit (formerly RStudio): <a href="https://posit.co" rel="nofollow">https://posit.co</a> <br>
+RStudio IDE <a href="https://posit.co/products/open-source/rstudio/" rel="nofollow">https://posit.co/products/open-source/rstudio/</a> <br>
+Positron (still in beta): <a href="https://positron.posit.co/" rel="nofollow">https://positron.posit.co/</a> <br>
+History of S and R presentation by John Chambers at useR! 2006: <a href="http://www.r-project.org/user-2006/Slides/Chambers.pdf" rel="nofollow">http://www.r-project.org/user-2006/Slides/Chambers.pdf</a><br>
+Advanced R (2nd edition) by Hadley Wickham <a href="https://adv-r.hadley.nz/index.html" rel="nofollow">https://adv-r.hadley.nz/index.html</a> <br>
+Shiny - Easy interactive web applications with R:  <a href="https://shiny.posit.co/" rel="nofollow">https://shiny.posit.co/</a> <br>
+renv - Project environments for R: <a href="https://rstudio.github.io/renv/" rel="nofollow">https://rstudio.github.io/renv/</a> <br>
+R Markdown: <a href="https://rmarkdown.rstudio.com/" rel="nofollow">https://rmarkdown.rstudio.com/</a> <br>
+WebR - R in the browser: <a href="https://docs.r-wasm.org/webr/latest/" rel="nofollow">https://docs.r-wasm.org/webr/latest/</a> <br>
+Rix - Reproducible Data Science environments for R with Nix: <a href="https://github.com/ropensci/rix" rel="nofollow">https://github.com/ropensci/rix</a> </p>
+
+<p><strong>Chromatic by ModRetro</strong><br>
+FPGA<br>
+Mike’s Review<br>
+Eric’s Thoughts<br>
+Eric&#39;s Socials<br>
+R Weekly Highlights: <a href="https://serve.podhome.fm/r-weekly-highlights" rel="nofollow">https://serve.podhome.fm/r-weekly-highlights</a> <br>
+Shiny Developer Series: <a href="https://shinydevseries.com/" rel="nofollow">https://shinydevseries.com/</a> <br>
+R Podcast: <a href="https://r-podcast.org" rel="nofollow">https://r-podcast.org</a> </p>
+
+<p>Bluesky: @<a href="mailto:rpodcast@bsky.social" rel="nofollow">rpodcast@bsky.social</a><br>
+Mastodon: @<a href="mailto:rpodcast@podcastindex.social" rel="nofollow">rpodcast@podcastindex.social</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/eric-nantz-6621617/" rel="nofollow">https://www.linkedin.com/in/eric-nantz-6621617/</a> </p>
+
+<p><strong>Coder&#39;s Socials</strong><br>
+<a href="https://x.com/dominucco" rel="nofollow">Mike on X</a><br>
+<a href="https://bsky.app/profile/dominucco.bsky.social" rel="nofollow">Mike on BlueSky</a><br>
+<a href="https://x.com/coderradioshow" rel="nofollow">Coder on X</a><br>
+<a href="https://bsky.app/profile/coderradio.bsky.social" rel="nofollow">Coder on BlueSky</a></p>
+
+<p><a href="https://discord.gg/k8e7gKUpEp" rel="nofollow">Show Discord</a></p>
+
+<p><a href="https://alice.dev" rel="nofollow">Alice</a></p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>House Keeping</strong><br>
+Google / YouTube Update<br>
+Join the Discord!<br>
+Feedback<br>
+Rust in the Linux Kernel.</p>
+
+<p><strong>R Stuff</strong><br>
+What is R Again?<br>
+Great presentation by John Chambers at UseR! 2006 <a href="https://www.r-project.org/conferences/useR-2006/Slides/Chambers.pdf" rel="nofollow">https://www.r-project.org/conferences/useR-2006/Slides/Chambers.pdf</a> <br>
+The times have changed, now R is very much suited for production use and not just an academic research language<br>
+Highly recommend reading Advanced R for more comprehensive details on the quirks of the language <a href="https://adv-r.hadley.nz/index.html" rel="nofollow">https://adv-r.hadley.nz/index.html</a> <br>
+R VS Python for Data?<br>
+Different philosophies on the use of the language<br>
+CRAN vs PyPi <br>
+Interoperability becoming more mainstream now<br>
+Visualization: R has always been leaps and bounds ahead (Grammar of Graphics, interactive widgets, etc)<br>
+R Dev Stack?<br>
+IDEs: RStudio, now Positron <a href="https://positron.posit.co/" rel="nofollow">https://positron.posit.co/</a> <br>
+Managing package installations with renv <a href="https://rstudio.github.io/renv/" rel="nofollow">https://rstudio.github.io/renv/</a> <br>
+Building web apps with Shiny: <a href="https://shiny.posit.co/" rel="nofollow">https://shiny.posit.co/</a> (I got so engrossed in this space that I created the Shiny Developer Series because of it)<br>
+Early adopter of using Docker with R in devcontainers with VS-Code. <br>
+New tech I’m excited about to enhance dev stacks and sharing apps<br>
+WebAssembly with webR <a href="https://docs.r-wasm.org/webr/latest/" rel="nofollow">https://docs.r-wasm.org/webr/latest/</a> <br>
+Shiny apps in webR? Yes you can <a href="https://github.com/RConsortium/submissions-pilot4-webR" rel="nofollow">https://github.com/RConsortium/submissions-pilot4-webR</a> <br>
+Managing dev environment combined with Nix: The rix package <a href="https://github.com/ropensci/rix" rel="nofollow">https://github.com/ropensci/rix</a> </p>
+
+<p>(More organized links for show notes)</p>
+
+<p>R Language: <a href="https://r-project.org" rel="nofollow">https://r-project.org</a><br>
+Posit (formerly RStudio): <a href="https://posit.co" rel="nofollow">https://posit.co</a> <br>
+RStudio IDE <a href="https://posit.co/products/open-source/rstudio/" rel="nofollow">https://posit.co/products/open-source/rstudio/</a> <br>
+Positron (still in beta): <a href="https://positron.posit.co/" rel="nofollow">https://positron.posit.co/</a> <br>
+History of S and R presentation by John Chambers at useR! 2006: <a href="http://www.r-project.org/user-2006/Slides/Chambers.pdf" rel="nofollow">http://www.r-project.org/user-2006/Slides/Chambers.pdf</a><br>
+Advanced R (2nd edition) by Hadley Wickham <a href="https://adv-r.hadley.nz/index.html" rel="nofollow">https://adv-r.hadley.nz/index.html</a> <br>
+Shiny - Easy interactive web applications with R:  <a href="https://shiny.posit.co/" rel="nofollow">https://shiny.posit.co/</a> <br>
+renv - Project environments for R: <a href="https://rstudio.github.io/renv/" rel="nofollow">https://rstudio.github.io/renv/</a> <br>
+R Markdown: <a href="https://rmarkdown.rstudio.com/" rel="nofollow">https://rmarkdown.rstudio.com/</a> <br>
+WebR - R in the browser: <a href="https://docs.r-wasm.org/webr/latest/" rel="nofollow">https://docs.r-wasm.org/webr/latest/</a> <br>
+Rix - Reproducible Data Science environments for R with Nix: <a href="https://github.com/ropensci/rix" rel="nofollow">https://github.com/ropensci/rix</a> </p>
+
+<p><strong>Chromatic by ModRetro</strong><br>
+FPGA<br>
+Mike’s Review<br>
+Eric’s Thoughts<br>
+Eric&#39;s Socials<br>
+R Weekly Highlights: <a href="https://serve.podhome.fm/r-weekly-highlights" rel="nofollow">https://serve.podhome.fm/r-weekly-highlights</a> <br>
+Shiny Developer Series: <a href="https://shinydevseries.com/" rel="nofollow">https://shinydevseries.com/</a> <br>
+R Podcast: <a href="https://r-podcast.org" rel="nofollow">https://r-podcast.org</a> </p>
+
+<p>Bluesky: @<a href="mailto:rpodcast@bsky.social" rel="nofollow">rpodcast@bsky.social</a><br>
+Mastodon: @<a href="mailto:rpodcast@podcastindex.social" rel="nofollow">rpodcast@podcastindex.social</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/eric-nantz-6621617/" rel="nofollow">https://www.linkedin.com/in/eric-nantz-6621617/</a> </p>
+
+<p><strong>Coder&#39;s Socials</strong><br>
+<a href="https://x.com/dominucco" rel="nofollow">Mike on X</a><br>
+<a href="https://bsky.app/profile/dominucco.bsky.social" rel="nofollow">Mike on BlueSky</a><br>
+<a href="https://x.com/coderradioshow" rel="nofollow">Coder on X</a><br>
+<a href="https://bsky.app/profile/coderradio.bsky.social" rel="nofollow">Coder on BlueSky</a></p>
+
+<p><a href="https://discord.gg/k8e7gKUpEp" rel="nofollow">Show Discord</a></p>
+
+<p><a href="https://alice.dev" rel="nofollow">Alice</a></p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/MLf2ZzhC+f0bJo9eX</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+f0bJo9eX" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:person email="" href="https://www.jupiterbroadcasting.com/" role="host">Wes Payne</podcast:person>
+      <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+      <podcast:person email="" href="http://jupiterbroadcasting.com" role="host">Chris Fisher</podcast:person>
+    </item>
     <item>
       <title>607: Warp's Zach Lloyd</title>
       <link>https://coder.show/607</link>
