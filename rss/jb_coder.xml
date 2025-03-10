@@ -2,11 +2,11 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Fri, 07 Mar 2025 09:08:17 -0600</fireside:genDate>
+    <fireside:genDate>Mon, 10 Mar 2025 10:57:28 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder Radio</title>
     <link>https://coder.show</link>
-    <pubDate>Fri, 07 Mar 2025 10:07:55 -0500</pubDate>
+    <pubDate>Mon, 10 Mar 2025 11:56:09 -0400</pubDate>
     <description>A weekly talk show taking a pragmatic look at the art and business of Software Development and the world of technology.
 </description>
     <language>en-us</language>
@@ -28,6 +28,75 @@
   <itunes:category text="How To"/>
 </itunes:category>
 <itunes:category text="Business"/>
+    <item>
+      <title>610: RPA with Nick Proud</title>
+      <link>https://coder.show/610</link>
+      <guid isPermaLink="false">39f86d36-3523-4d16-8c2c-839c22a91373</guid>
+      <pubDate>Mon, 10 Mar 2025 11:00:00 -0400</pubDate>
+      <author>The Mad Botter</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/39f86d36-3523-4d16-8c2c-839c22a91373.mp3" length="48010845" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>The Mad Botter</itunes:author>
+      <itunes:subtitle>Mike's joined by Nick Proud CTO at NexBotix to talk Robotic Process Automation (RPA), automation, coding and more</itunes:subtitle>
+      <itunes:duration>33:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/cover.jpg?v=6"/>
+      <description>Nick's Socials
+Nick on LinkedIn (https://www.linkedin.com/in/nickproud/)
+Nick's Youtube (https://www.youtube.com/@nickproudprogrammer)
+Nick's Book (https://a.co/d/fy5ptwJ)
+NexBotix (https://www.nexbotix.ai/)
+Coder's Socials
+Mike on X (https://x.com/dominucco)
+Mike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)
+Coder on X (https://x.com/coderradioshow)
+Coder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)
+Show Discord (https://discord.gg/k8e7gKUpEp)
+Alice (https://alice.dev) 
+</description>
+      <itunes:keywords>rust, programming, coding, rpa, automation, ai, python, dotnet</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>Nick&#39;s Socials</strong></p>
+
+<p><a href="https://www.linkedin.com/in/nickproud/" rel="nofollow">Nick on LinkedIn</a><br>
+<a href="https://www.youtube.com/@nickproudprogrammer" rel="nofollow">Nick&#39;s Youtube</a><br>
+<a href="https://a.co/d/fy5ptwJ" rel="nofollow">Nick&#39;s Book</a><br>
+<a href="https://www.nexbotix.ai/" rel="nofollow">NexBotix</a></p>
+
+<p><strong>Coder&#39;s Socials</strong><br>
+<a href="https://x.com/dominucco" rel="nofollow">Mike on X</a><br>
+<a href="https://bsky.app/profile/dominucco.bsky.social" rel="nofollow">Mike on BlueSky</a><br>
+<a href="https://x.com/coderradioshow" rel="nofollow">Coder on X</a><br>
+<a href="https://bsky.app/profile/coderradio.bsky.social" rel="nofollow">Coder on BlueSky</a></p>
+
+<p><a href="https://discord.gg/k8e7gKUpEp" rel="nofollow">Show Discord</a></p>
+
+<p><a href="https://alice.dev" rel="nofollow">Alice</a></p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>Nick&#39;s Socials</strong></p>
+
+<p><a href="https://www.linkedin.com/in/nickproud/" rel="nofollow">Nick on LinkedIn</a><br>
+<a href="https://www.youtube.com/@nickproudprogrammer" rel="nofollow">Nick&#39;s Youtube</a><br>
+<a href="https://a.co/d/fy5ptwJ" rel="nofollow">Nick&#39;s Book</a><br>
+<a href="https://www.nexbotix.ai/" rel="nofollow">NexBotix</a></p>
+
+<p><strong>Coder&#39;s Socials</strong><br>
+<a href="https://x.com/dominucco" rel="nofollow">Mike on X</a><br>
+<a href="https://bsky.app/profile/dominucco.bsky.social" rel="nofollow">Mike on BlueSky</a><br>
+<a href="https://x.com/coderradioshow" rel="nofollow">Coder on X</a><br>
+<a href="https://bsky.app/profile/coderradio.bsky.social" rel="nofollow">Coder on BlueSky</a></p>
+
+<p><a href="https://discord.gg/k8e7gKUpEp" rel="nofollow">Show Discord</a></p>
+
+<p><a href="https://alice.dev" rel="nofollow">Alice</a></p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/MLf2ZzhC+CdfwPXDz</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+CdfwPXDz" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+    </item>
     <item>
       <title>609: More Rust With Honey</title>
       <link>https://coder.show/609</link>
