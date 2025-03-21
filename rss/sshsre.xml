@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Thu, 20 Mar 2025 21:09:06 -0500</fireside:genDate>
+    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
+    <fireside:genDate>Fri, 21 Mar 2025 05:16:07 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Self-Hosted SRE</title>
     <link>https://sshsre.fireside.fm</link>
-    <pubDate>Thu, 20 Mar 2025 19:08:46 -0700</pubDate>
+    <pubDate>Fri, 21 Mar 2025 03:15:04 -0700</pubDate>
     <description>This feed is a thank you to our Self-Hosted Site Reliability Engineers!
 </description>
     <language>en-us</language>
@@ -26,6 +26,34 @@
 <itunes:category text="Arts">
   <itunes:category text="Performing Arts"/>
 </itunes:category>
+    <item>
+      <title>Episode 145: The Great Plexodus</title>
+      <link>https://sshsre.fireside.fm/145</link>
+      <guid isPermaLink="false">b54dceef-78d2-4d5f-a5ae-4ce4f160dfac</guid>
+      <pubDate>Fri, 21 Mar 2025 03:00:00 -0700</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/ddc5a0e1-66f0-4096-962b-ccaac6e0c3ff/b54dceef-78d2-4d5f-a5ae-4ce4f160dfac.mp3" length="56048975" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>When your go-to tools flip the script, our thoughts on Plex's new changes, sensors, and the creeping cost of easy.</itunes:subtitle>
+      <itunes:duration>58:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/d/ddc5a0e1-66f0-4096-962b-ccaac6e0c3ff/cover.jpg?v=1"/>
+      <description>When your go-to tools flip the script, our thoughts on Plex's new changes, sensors, and the creeping cost of easy. 
+</description>
+      <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, Plex changes, remote streaming, subscription model, Plex Pass, privacy policy, Home Assistant, air sensor, ESPHome setup, CO2 sensor, local control, RomM app, game metadata, emulator support, Docker setup, web player, server hardware, Frigate AI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>When your go-to tools flip the script, our thoughts on Plex&#39;s new changes, sensors, and the creeping cost of easy.</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>When your go-to tools flip the script, our thoughts on Plex&#39;s new changes, sensors, and the creeping cost of easy.</p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/JF9eVMjQ+o_avQBlY</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/JF9eVMjQ+o_avQBlY" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/sshsre/json/episodes/b54dceef-78d2-4d5f-a5ae-4ce4f160dfac/chapters" type="application/json"/>
+    </item>
     <item>
       <title>Episode 144: Silence of the RAMs</title>
       <link>https://sshsre.fireside.fm/144</link>
