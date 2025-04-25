@@ -2,11 +2,11 @@
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
     <fireside:hostname>feed01.fireside.fm</fireside:hostname>
-    <fireside:genDate>Thu, 17 Apr 2025 16:52:22 -0500</fireside:genDate>
+    <fireside:genDate>Fri, 25 Apr 2025 13:31:12 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Coder Radio</title>
     <link>https://coder.show</link>
-    <pubDate>Thu, 17 Apr 2025 17:51:32 -0400</pubDate>
+    <pubDate>Fri, 25 Apr 2025 14:30:05 -0400</pubDate>
     <description>A weekly talk show taking a pragmatic look at the art and business of Software Development and the world of technology.
 </description>
     <language>en-us</language>
@@ -28,6 +28,89 @@
   <itunes:category text="How To"/>
 </itunes:category>
 <itunes:category text="Business"/>
+    <item>
+      <title>616: Event Modeling with Adam Adam Dymitruk</title>
+      <link>https://coder.show/616</link>
+      <guid isPermaLink="false">04ed8aae-4356-4a6d-b85b-57e596d1083c</guid>
+      <pubDate>Fri, 25 Apr 2025 14:00:00 -0400</pubDate>
+      <author>The Mad Botter</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/04ed8aae-4356-4a6d-b85b-57e596d1083c.mp3" length="67461807" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>The Mad Botter</itunes:author>
+      <itunes:subtitle>Mike sits down with Adam Dymitruk to demystify Event Sourcing / Modeling. </itunes:subtitle>
+      <itunes:duration>46:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/b/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/cover.jpg?v=6"/>
+      <description>SPONSER LINK
+Mailtrap (https://mailtrap.io/?utm_source=podcast&amp;utm_medium=episode&amp;utm_campaign=coder_radio_1)
+Adam's Socials
+Adam on LinkedIn (https://www.linkedin.com/in/eventmodeling/)
+Event Modeling (https://eventmodeling.org/about/)
+Understanding Event Modeling (https://www.amazon.com/Understanding-Eventsourcing-Planning-Implementing-Eventmodeling/dp/B0DNXQJM9Z)
+Adaptech (https://adaptechgroup.com/)
+Coder's Socials
+Mike on X (https://x.com/dominucco)
+Mike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)
+Mike's Blog (https://dominickm.com)
+Coder on X (https://x.com/coderradioshow)
+Coder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)
+Show Discord (https://discord.gg/k8e7gKUpEp)
+Alice (https://alice.dev)
+Alice Forms (https://alice.dev/forms)
+TMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/) 
+</description>
+      <content:encoded>
+        <![CDATA[<p><strong>SPONSER LINK</strong><br>
+<a href="https://mailtrap.io/?utm_source=podcast&utm_medium=episode&utm_campaign=coder_radio_1" rel="nofollow">Mailtrap</a></p>
+
+<p><strong>Adam&#39;s Socials</strong><br>
+<a href="https://www.linkedin.com/in/eventmodeling/" rel="nofollow">Adam on LinkedIn</a><br>
+<a href="https://eventmodeling.org/about/" rel="nofollow">Event Modeling</a><br>
+<a href="https://www.amazon.com/Understanding-Eventsourcing-Planning-Implementing-Eventmodeling/dp/B0DNXQJM9Z" rel="nofollow">Understanding Event Modeling</a><br>
+<a href="https://adaptechgroup.com/" rel="nofollow">Adaptech</a></p>
+
+<p><strong>Coder&#39;s Socials</strong><br>
+<a href="https://x.com/dominucco" rel="nofollow">Mike on X</a><br>
+<a href="https://bsky.app/profile/dominucco.bsky.social" rel="nofollow">Mike on BlueSky</a><br>
+<a href="https://dominickm.com" rel="nofollow">Mike&#39;s Blog</a><br>
+<a href="https://x.com/coderradioshow" rel="nofollow">Coder on X</a><br>
+<a href="https://bsky.app/profile/coderradio.bsky.social" rel="nofollow">Coder on BlueSky</a></p>
+
+<p><a href="https://discord.gg/k8e7gKUpEp" rel="nofollow">Show Discord</a></p>
+
+<p><a href="https://alice.dev" rel="nofollow">Alice</a><br>
+<a href="https://alice.dev/forms" rel="nofollow">Alice Forms</a><br>
+<a href="https://dominickm.com/earth-day-25-competition/" rel="nofollow">TMB Earth Day 2025 Competition</a></p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>SPONSER LINK</strong><br>
+<a href="https://mailtrap.io/?utm_source=podcast&utm_medium=episode&utm_campaign=coder_radio_1" rel="nofollow">Mailtrap</a></p>
+
+<p><strong>Adam&#39;s Socials</strong><br>
+<a href="https://www.linkedin.com/in/eventmodeling/" rel="nofollow">Adam on LinkedIn</a><br>
+<a href="https://eventmodeling.org/about/" rel="nofollow">Event Modeling</a><br>
+<a href="https://www.amazon.com/Understanding-Eventsourcing-Planning-Implementing-Eventmodeling/dp/B0DNXQJM9Z" rel="nofollow">Understanding Event Modeling</a><br>
+<a href="https://adaptechgroup.com/" rel="nofollow">Adaptech</a></p>
+
+<p><strong>Coder&#39;s Socials</strong><br>
+<a href="https://x.com/dominucco" rel="nofollow">Mike on X</a><br>
+<a href="https://bsky.app/profile/dominucco.bsky.social" rel="nofollow">Mike on BlueSky</a><br>
+<a href="https://dominickm.com" rel="nofollow">Mike&#39;s Blog</a><br>
+<a href="https://x.com/coderradioshow" rel="nofollow">Coder on X</a><br>
+<a href="https://bsky.app/profile/coderradio.bsky.social" rel="nofollow">Coder on BlueSky</a></p>
+
+<p><a href="https://discord.gg/k8e7gKUpEp" rel="nofollow">Show Discord</a></p>
+
+<p><a href="https://alice.dev" rel="nofollow">Alice</a><br>
+<a href="https://alice.dev/forms" rel="nofollow">Alice Forms</a><br>
+<a href="https://dominickm.com/earth-day-25-competition/" rel="nofollow">TMB Earth Day 2025 Competition</a></p>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/MLf2ZzhC+zuGY79GA</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/MLf2ZzhC+zuGY79GA" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:person email="" href="http://dominickm.com/" role="host">Michael Dominick</podcast:person>
+    </item>
     <item>
       <title>615: Vibe Easter 25</title>
       <link>https://coder.show/615</link>
