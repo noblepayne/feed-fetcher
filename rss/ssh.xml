@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:fireside="https://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
-    <fireside:genDate>Thu, 29 May 2025 21:40:05 -0500</fireside:genDate>
+    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
+    <fireside:genDate>Fri, 30 May 2025 05:31:05 -0500</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>Self-Hosted</title>
     <link>https://selfhosted.show</link>
-    <pubDate>Thu, 29 May 2025 19:39:08 -0700</pubDate>
+    <pubDate>Fri, 30 May 2025 03:30:05 -0700</pubDate>
     <description>Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you along for the journey as they learn new ones.
  A Jupiter Broadcasting podcast showcasing free and open source technologies you can host yourself.
 </description>
@@ -31,6 +31,43 @@
 <itunes:category text="Leisure">
   <itunes:category text="Hobbies"/>
 </itunes:category>
+    <item>
+      <title>150: The Last One</title>
+      <link>https://selfhosted.show/150</link>
+      <guid isPermaLink="false">4efa9938-a1f5-4d2c-b1e9-b62f5acd6cf6</guid>
+      <pubDate>Fri, 30 May 2025 03:00:00 -0700</pubDate>
+      <author>Jupiter Broadcasting</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/7296e34a-2697-479a-adfb-ad32329dd0b0/4efa9938-a1f5-4d2c-b1e9-b62f5acd6cf6.mp3" length="69586673" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Jupiter Broadcasting</itunes:author>
+      <itunes:subtitle>Before hitting the road, we test the limits of local-first file sharing, debate what self-hosting really is, and share our all-time favorite apps.</itunes:subtitle>
+      <itunes:duration>1:12:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/7/7296e34a-2697-479a-adfb-ad32329dd0b0/cover.jpg?v=2"/>
+      <description>Before hitting the road, we test the limits of local-first file sharing, debate what self-hosting really is, and share our all-time favorite apps. Special Guests: Brent Gervais, Drew DeVore, and Wes Payne.
+</description>
+      <itunes:keywords>Self-Hosting Podcast, Jupiter Broadcasting, local file-sharing,  travel prep, favorite apps, home lab, podcast finale</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>Before hitting the road, we test the limits of local-first file sharing, debate what self-hosting really is, and share our all-time favorite apps.</p><p>Special Guests: Brent Gervais, Drew DeVore, and Wes Payne.</p><p>Sponsored By:</p><ul><li><a rel="nofollow" href="http://tailscale.com/selfhosted">Tailscale</a>: <a rel="nofollow" href="http://tailscale.com/selfhosted">Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. </a></li><li><a rel="nofollow" href="https://unraid.net/selfhosted">Unraid</a>: <a rel="nofollow" href="https://unraid.net/selfhosted">A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.</a></li></ul><p><a rel="payment" href="https://jupitersignal.memberful.com/checkout?plan=53744">Support Self-Hosted</a></p><p>Links:</p><ul><li><a title="⚡ Grab Sats with Strike Around the World" rel="nofollow" href="https://strike.me/download/">⚡ Grab Sats with Strike Around the World</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 110 countries.</li><li><a title="Grab Sats with River" rel="nofollow" href="https://jupiterbroadcasting.com/river">Grab Sats with River</a> &mdash; River is the best place in the US to buy and stack Sats. River has 100% reserve custody, a great interface, and only does Bitcoin.</li><li><a title="🎉 Boost with Fountain FM" rel="nofollow" href="https://fountain.fm">🎉 Boost with Fountain FM</a> &mdash; Podcasts and music powered by community. Share, discover and support over 4 million shows and emerging artists.</li><li><a title="SRE Jupiter.Party Discount" rel="nofollow" href="https://jupitersignal.memberful.com/checkout?coupon=sre&amp;plan=74364">SRE Jupiter.Party Discount</a> &mdash; Support the network at the best price ever! Use this link, or the promo code: SRE </li><li><a title="Self-Hosted 150 Swag" rel="nofollow" href="https://www.jupitergarage.com/">Self-Hosted 150 Swag</a> &mdash; Grab some Self-Hosted swag, the last run!</li><li><a title="Badgers Garage Sale " rel="nofollow" href="https://md.ktz.cloud/NkTaDdUNSXSEmbXhSNMqmQ">Badgers Garage Sale </a> &mdash; My wife and I are selling practically everything we own and moving back to England. There is a lot more available than is listed here, essentially this is an estate sale.</li><li><a title="PairDrop " rel="nofollow" href="https://pairdrop.net/">PairDrop </a> &mdash; Transfer Files Cross-Platform. No Setup, No Signup.</li><li><a title="Quickshare" rel="nofollow" href="https://ihexxa.github.io/quickshare.site/">Quickshare</a> &mdash; Quick and simple file sharing between different devices.</li><li><a title="The DAM Software Podcast" rel="nofollow" href="https://open.spotify.com/show/4eZhdVRND4hmjNFyQpsqQc?si=799116269b2641bb&amp;nd=1&amp;dlsi=c42522fee5bd422b">The DAM Software Podcast</a> &mdash; Picking up where Self-Hosted left off. Reviewing Free and Open Source Software that you would want to run at home. Except this time even though we aren't sponsored its going to be entirely centered around Tailscale.
+
+</li><li><a title="SSH 150 BOOST BARN" rel="nofollow" href="https://paste.docs.lol/code/DepicturingKale">SSH 150 BOOST BARN</a> &mdash; Thank you to everyone who supported Self-Hosted!</li><li><a title="PipeWire: VBAN receiver" rel="nofollow" href="https://docs.pipewire.org/page_module_vban_recv.html">PipeWire: VBAN receiver</a></li><li><a title="PipeWire: VBAN sender" rel="nofollow" href="https://docs.pipewire.org/page_module_vban_send.html">PipeWire: VBAN sender</a></li></ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>Before hitting the road, we test the limits of local-first file sharing, debate what self-hosting really is, and share our all-time favorite apps.</p><p>Special Guests: Brent Gervais, Drew DeVore, and Wes Payne.</p><p>Sponsored By:</p><ul><li><a rel="nofollow" href="http://tailscale.com/selfhosted">Tailscale</a>: <a rel="nofollow" href="http://tailscale.com/selfhosted">Tailscale is a Zero config VPN. It installs on any device in minutes, manages firewall rules for you, and works from anywhere. Get 3 users and 100 devices for free. </a></li><li><a rel="nofollow" href="https://unraid.net/selfhosted">Unraid</a>: <a rel="nofollow" href="https://unraid.net/selfhosted">A powerful, easy operating system for servers and storage. Maximize your hardware with unmatched flexibility.</a></li></ul><p><a rel="payment" href="https://jupitersignal.memberful.com/checkout?plan=53744">Support Self-Hosted</a></p><p>Links:</p><ul><li><a title="⚡ Grab Sats with Strike Around the World" rel="nofollow" href="https://strike.me/download/">⚡ Grab Sats with Strike Around the World</a> &mdash; Strike is a lightning-powered app that lets you quickly and cheaply grab sats in over 110 countries.</li><li><a title="Grab Sats with River" rel="nofollow" href="https://jupiterbroadcasting.com/river">Grab Sats with River</a> &mdash; River is the best place in the US to buy and stack Sats. River has 100% reserve custody, a great interface, and only does Bitcoin.</li><li><a title="🎉 Boost with Fountain FM" rel="nofollow" href="https://fountain.fm">🎉 Boost with Fountain FM</a> &mdash; Podcasts and music powered by community. Share, discover and support over 4 million shows and emerging artists.</li><li><a title="SRE Jupiter.Party Discount" rel="nofollow" href="https://jupitersignal.memberful.com/checkout?coupon=sre&amp;plan=74364">SRE Jupiter.Party Discount</a> &mdash; Support the network at the best price ever! Use this link, or the promo code: SRE </li><li><a title="Self-Hosted 150 Swag" rel="nofollow" href="https://www.jupitergarage.com/">Self-Hosted 150 Swag</a> &mdash; Grab some Self-Hosted swag, the last run!</li><li><a title="Badgers Garage Sale " rel="nofollow" href="https://md.ktz.cloud/NkTaDdUNSXSEmbXhSNMqmQ">Badgers Garage Sale </a> &mdash; My wife and I are selling practically everything we own and moving back to England. There is a lot more available than is listed here, essentially this is an estate sale.</li><li><a title="PairDrop " rel="nofollow" href="https://pairdrop.net/">PairDrop </a> &mdash; Transfer Files Cross-Platform. No Setup, No Signup.</li><li><a title="Quickshare" rel="nofollow" href="https://ihexxa.github.io/quickshare.site/">Quickshare</a> &mdash; Quick and simple file sharing between different devices.</li><li><a title="The DAM Software Podcast" rel="nofollow" href="https://open.spotify.com/show/4eZhdVRND4hmjNFyQpsqQc?si=799116269b2641bb&amp;nd=1&amp;dlsi=c42522fee5bd422b">The DAM Software Podcast</a> &mdash; Picking up where Self-Hosted left off. Reviewing Free and Open Source Software that you would want to run at home. Except this time even though we aren't sponsored its going to be entirely centered around Tailscale.
+
+</li><li><a title="SSH 150 BOOST BARN" rel="nofollow" href="https://paste.docs.lol/code/DepicturingKale">SSH 150 BOOST BARN</a> &mdash; Thank you to everyone who supported Self-Hosted!</li><li><a title="PipeWire: VBAN receiver" rel="nofollow" href="https://docs.pipewire.org/page_module_vban_recv.html">PipeWire: VBAN receiver</a></li><li><a title="PipeWire: VBAN sender" rel="nofollow" href="https://docs.pipewire.org/page_module_vban_send.html">PipeWire: VBAN sender</a></li></ul>]]>
+      </itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/dUlrHQih+trPZmXJM</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        <![CDATA[<iframe src="https://fireside.fm/player/v2/dUlrHQih+trPZmXJM" width="740" height="200" frameborder="0" scrolling="no">]]>
+      </fireside:playerEmbedCode>
+      <podcast:chapters url="https://feeds.fireside.fm/selfhosted/json/episodes/4efa9938-a1f5-4d2c-b1e9-b62f5acd6cf6/chapters" type="application/json"/>
+      <podcast:person email="" href="https://www.jupiterbroadcasting.com/" role="host">Chris Fisher</podcast:person>
+      <podcast:person email="" href="https://alex.ktz.me" role="host">Alex Kretzschmar</podcast:person>
+      <podcast:person email="" href="https://www.brentgervais.com/" role="guest">Brent Gervais</podcast:person>
+      <podcast:person email="" href="https://twitter.com/drewofdoom" role="guest">Drew DeVore</podcast:person>
+      <podcast:person email="" href="https://linuxunplugged.com" role="guest">Wes Payne</podcast:person>
+    </item>
     <item>
       <title>149: Notify Thyself</title>
       <link>https://selfhosted.show/149</link>
