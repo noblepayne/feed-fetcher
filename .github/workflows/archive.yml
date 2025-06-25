@@ -3,7 +3,7 @@ name: archive
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/6 * * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   scrape:
