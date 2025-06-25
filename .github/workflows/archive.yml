@@ -3,7 +3,7 @@ name: archive
 on:
   workflow_dispatch:
   schedule:
-    - cron: '5 */1 * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   scrape:
@@ -20,8 +20,9 @@ jobs:
           S3_ENDPOINT_URL: ${{ secrets.S3_ENDPOINT_URL }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          PODPING_AUTH: ${{ secrets.PODPING_AUTH }}
       - name: commit
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "updating feeds"
           file_pattern: "rss"
