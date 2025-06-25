@@ -2,9 +2,7 @@
   stdenv,
   writeClosure,
   writeTextFile,
-}:
-pkg: runCmd:
-let
+}: pkg: runCmd: let
   baseRunScript = writeTextFile {
     name = "base-run";
     # Relies on host environment for:
@@ -37,4 +35,4 @@ let
     '';
   };
 in
-runScript
+  runScript
