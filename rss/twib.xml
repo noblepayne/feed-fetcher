@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 15:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 18:26:57 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,17 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" customKey="906608" customValue="01IMQkt4BFzAiSynxcQQqd"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/tPIJU5ZQ7IZmmh6ltJt8/files/AUDIO---DEFAULT---8f12d5a6-f97b-4528-be9c-49e754968dc7.mp3" length="87407925" type="audio/mpeg"/>
+      <itunes:duration>3622</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/tPIJU5ZQ7IZmmh6ltJt8/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/tPIJU5ZQ7IZmmh6ltJt8/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">382338f4-6a14-4f88-8329-a8685f22d075</guid>
+      <pubDate>Wed, 25 Jun 2025 18:26:56 GMT</pubDate>
+      <title>62: Bitcoin Is the Geiger Counter</title>
+      <description>&lt;p&gt;Bitcoin doesn't lie about world events, and this week proved it. Plus, my thoughts on Bitcoin Core facing its own flavor of cancel culture and why Arthur Hayes predicts $9 trillion will be printed by 2028.&lt;/p&gt;</description>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/7E7StBIn1pfhdE3d7poy/files/AUDIO---DEFAULT---2f2cf5dc-6f3c-44da-812c-04146188b400.mp3" length="66495261" type="audio/mpeg"/>
