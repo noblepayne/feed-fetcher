@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
+    <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find  valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 18:40:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 17:48:50 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -74,6 +74,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7380161"&gt;nameless | By: Hurling Pixels&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <link>https://www.thisweekinbitcoin.show/episodepage/61</link>
       <itunes:image href="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/7E7StBIn1pfhdE3d7poy/files/COVER_ART---DEFAULT---33269e3d-7047-4304-aef4-8c096b3944f4.jpg"/>
     </item>
     <item>
