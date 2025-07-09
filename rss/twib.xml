@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 08:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 20:40:30 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,46 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" customKey="906608" customValue="01IMQkt4BFzAiSynxcQQqd"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/g5ZKlL3YAmz073mEPIuV/files/AUDIO---DEFAULT---2b26c730-2df3-4a73-bd5c-5169eb1bcb37.mp3" length="96738416" type="audio/mpeg"/>
+      <itunes:duration>4011</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/g5ZKlL3YAmz073mEPIuV/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/g5ZKlL3YAmz073mEPIuV/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">8ed5ddb7-ad34-466e-9e00-cd328ff038a8</guid>
+      <pubDate>Wed, 09 Jul 2025 20:40:30 GMT</pubDate>
+      <title>63: Grift Drains Bitcoin Gains</title>
+      <description>&lt;p&gt;The money printer's humming, making smart investing a must. Don't get caught by the banks' new, regulation-backed grifts and affinity scams, designed to divert you from Bitcoin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliate Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;LINKS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://stacker.news/items/1030290"&gt;Are Some Whales Abandoning Self Custody?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.congress.gov/bill/119th-congress/senate-bill/2058/all-actions"&gt;Actions - S.2058 - 119th Congress (2025-2026): El Salvador Accountability Act of 2025 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinperception.com/q2-2025-mainstream-media-bitcoin-coverage-report/"&gt;Q2 2025 Mainstream Media Bitcoin Coverage Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/shopstr-eng/shopstr"&gt;shopstr: A global, permissionless Nostr marketplace for Bitcoin commerce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/markets/2025/07/06/bitcoin-s-mempool-nearly-empty-as-prices-trade-near-lifetime-highs"&gt;BTC News: Bitcoin's 'Mempool' Nearly Empty as Prices Trade Near Lifetime Highs. What Next?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://1ml.com/statistics"&gt;Lightning Network Statistics | 1ML &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=e4YuJR6iqAM&amp;t=405s"&gt;Scott Bessent on who will be the next Federal Reserve chair - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/KobeissiLetter/status/1942967114232373755"&gt;President Trump is now calling for the first 300+ basis point interest rate cut in US history.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/329146/hackers-target-bitcoin-wallet-holding-billions-swiped-mt-gox"&gt;Hackers Target Bitcoin Wallet Holding Billions Swiped From Mt. Gox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/@BTCPrague/videos"&gt;BTCPrague - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;MUSIC&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7403081?episode=39556559583"&gt;Coins &amp; Consequences feat. ProofBoy &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Go check out the full Album: &lt;a href="https://podcastindex.org/podcast/7403081"&gt;Bitcoin Block Party &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <podcast:episode>63</podcast:episode>
+      <itunes:episode>63</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/tPIJU5ZQ7IZmmh6ltJt8/files/AUDIO---DEFAULT---8f12d5a6-f97b-4528-be9c-49e754968dc7.mp3" length="87407925" type="audio/mpeg"/>
