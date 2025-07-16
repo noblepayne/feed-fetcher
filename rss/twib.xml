@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 20:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 20:35:06 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,46 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" customKey="906608" customValue="01IMQkt4BFzAiSynxcQQqd"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/C2QN6GsRFhw1u1PSrSaG/files/AUDIO---DEFAULT---f181d924-5ed2-4d17-aee8-46a2dcf1ad9e.mp3" length="91346935" type="audio/mpeg"/>
+      <itunes:duration>3786</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/C2QN6GsRFhw1u1PSrSaG/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/C2QN6GsRFhw1u1PSrSaG/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">1f158af1-0749-47b1-acf8-7d5b8a282a9d</guid>
+      <pubDate>Wed, 16 Jul 2025 20:35:05 GMT</pubDate>
+      <title>64: Blame the Dollar</title>
+      <description>&lt;p&gt;The uncomfortable truth behind Bitcoin's price surge, debunking the tired "Tether pumps Bitcoin" myth, my take on a Satoshi-era whale finally cashing out, and more.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Support the Show&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.benzinga.com/crypto/cryptocurrency/25/07/46441190/600m-in-1-day-why-are-bitcoin-ethereum-etf-suddenly-so-bullish"&gt;$600M In 1 Day: Why Are Bitcoin, Ethereum ETF Suddenly So Bullish? - Benzinga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/politics/commodity-congress-fix-bitcoin-taxes"&gt;Bitcoin Is A Commodity: Why Congress Must Fix Bitcoin Taxes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.coinotag.com/altcoins-rally-gains-momentum-as-bitcoin-dominance-potentially-declines-below-64/"&gt;Altcoins Rally Gains Momentum as Bitcoin Dominance Potentially Declines Below 64% | COINOTAG NEWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/330306/cantor-fitzgerald-spac-4b-bitcoin-deal-blockstream-adam-back"&gt;Cantor Fitzgerald SPAC in Talks for $4B Bitcoin Deal With Blockstream’s Adam Back: FT - Decrypt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/tornado-cash-trial-day-2-prosecution-and-defense-tell-different-stores-about-roman-storm"&gt;Tornado Cash Trial Day 2: Prosecution And Defense Tell Different Stores About Roman Storm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=3zjTbDP_os0"&gt;Something Strange Is Happening with the Dollar (What History Says) - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/bitcoin-bear-vanguard-largest-shareholder-of-strategy"&gt;Vanguard Is Now the Largest Holder of Bitcoin-Bullish Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html"&gt;No bitcoin ETFs at Vanguard? Here’s why | Vanguard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/trump-says-not-planning-fire-fed-chair-powell-after-reports-suggest-powell-ouster-coming-soon-151534192.html"&gt;Trump says 'not planning' fire Fed Chair Powell after reports suggest Powell ouster coming 'soon'&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/cantor-fitzgerald-nears-4-billion-bitcoin-deal-with-blockstream-founder-adam-back"&gt;Cantor Fitzgerald Nears $4 Billion Bitcoin Deal With Blockstream Founder Adam Back&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://truflation.com/marketplace/us-inflation-rate"&gt;Truflation US Inflation Index | Truflation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://phemex.com/news/article/fort-worth-becomes-first-us-city-to-mine-bitcoin_12769"&gt;Fort Worth Pioneers Bitcoin Mining Among U.S. Cities &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=kteaPQ3OVRg&amp;list=RDNSkteaPQ3OVRg"&gt;Bitcoin will have consistent demand over supply, says Bitwise's Matt Hougan - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7124552?episode=30832768692"&gt;Numb By: Circle the Earth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/g5ZKlL3YAmz073mEPIuV/files/AUDIO---DEFAULT---2b26c730-2df3-4a73-bd5c-5169eb1bcb37.mp3" length="96738416" type="audio/mpeg"/>
