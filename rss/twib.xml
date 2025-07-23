@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 20:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 19:38:39 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,44 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" customKey="906608" customValue="01IMQkt4BFzAiSynxcQQqd"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/AToslSD0joKk2OoSGuDi/files/AUDIO---DEFAULT---84ec41e0-06c2-429a-a885-94cc009ad4f4.mp3" length="72518345" type="audio/mpeg"/>
+      <itunes:duration>3002</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/AToslSD0joKk2OoSGuDi/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/AToslSD0joKk2OoSGuDi/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">24972a7a-33da-4072-9da0-eb9a76093601</guid>
+      <pubDate>Wed, 23 Jul 2025 19:38:38 GMT</pubDate>
+      <title>65: Trump's Stablecoin Gamble</title>
+      <description>&lt;p&gt;How the Genius Act impacts Bitcoin's future, why the Stablecoin gold rush might end in tears, and how Bitcoin could become a liquidity sink amid Trump's inflationary gamble.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Support the Show:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.whitehouse.gov/videos/president-trump-signs-genius-act-industry-leaders-respond/"&gt;President Trump Signs GENIUS Act—Industry Leaders Respond – The White House&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptohayes.medium.com/assume-the-position-823ed2cf3c75"&gt;Assume The Position. by Arthur Hayes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://beincrypto.com/jack-dorsey-square-bitcoin-payments/"&gt;4 Million US Merchants Could Soon Accept Bitcoin Payments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stacker.news/items/1049922"&gt;IMF report implies that Bukele is lying about bitcoin purchases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.imf.org/en/Publications/CR/Issues/2025/07/15/El-Salvador-2025-Article-IV-Consultation-First-Review-Under-the-Extended-Fund-Facility-and-568621"&gt;El Salvador: 2025 Article IV Consultation, First Review Under the Extended Fund Facility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://xcancel.com/nayibbukele/status/1897019629702410551"&gt;f it didn’t stop when the world ostracized us and most “bitcoiners” abandoned us, it won’t stop now, and it won’t stop in the future. Proof of work &gt; proof of whining"&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/spesmilo/electrum/releases/tag/4.6.0"&gt;Electrum 4.6.0 released&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/getalby/status/1945849199423295977?t=E9EIlRX-vHxbQ8g23lQU3A"&gt;Alby Hub v1.18 is now live!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://getalby.com/ai"&gt;Alby Bitcoin Payments MCP — Bitcoin Payments for your AI Agent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6455325"&gt;The Jack Mallers Show&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/president-trump-plans-to-open-401ks-to-bitcoin-crypto-gold-and-private-equity-ft"&gt;President Trump Plans To Open 401(k)s To Bitcoin, Crypto, Gold, And Private Equity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://coinmarketcap.com/academy/article/bitcoin-news-bitcoin-whale-moves-126-billion-after-years-of-dormancy"&gt; Bitcoin Whale Moves 1.26 Billion After Years of Dormancy &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.coinotag.com/blocks-sp-500-inclusion-may-increase-investor-exposure-to-bitcoin-and-support-mainstream-adoption/"&gt;Block’s S&amp;P 500 Inclusion May Increase Investor Exposure to Bitcoin and Support Mainstream Adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cryptopolitan.com/btc-miner-mara-to-raise-1-billion/"&gt;BTC miner MARA to raise $1 billion for new Bitcoin purchases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/07/21/treasury-secretary-bessent-calls-for-a-review-of-the-entire-federal-reserve.html"&gt;Treasury Secretary Bessent calls for a review of 'the entire' Federal Reserve&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/C2QN6GsRFhw1u1PSrSaG/files/AUDIO---DEFAULT---f181d924-5ed2-4d17-aee8-46a2dcf1ad9e.mp3" length="91346935" type="audio/mpeg"/>
