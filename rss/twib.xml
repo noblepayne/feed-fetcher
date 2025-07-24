@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 19:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 19:35:57 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -24,8 +24,27 @@
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
-      <podcast:valueRecipient name="Fountain" split="2" type="node" address="03b6f613e88bd874177c28c6ad83b3baba43c4c656f56be1f8df84669556054b79" customKey="906608" customValue="01IMQkt4BFzAiSynxcQQqd"/>
+      <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---DEFAULT---1ba74b94-c9fc-4388-9e73-f7aa9b704967.mp3" length="2397614" type="audio/mpeg"/>
+      <itunes:duration>83</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:alternateEnclosure type="audio/mpeg" length="78858122" title="Bonus Episode" paywall="L402" auth="NOSTR">
+        <itunes:duration>3269</itunes:duration>
+        <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---CHAPTERS---PAID---PODCAST.json" type="application/json+chapters"/>
+        <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---TRANSCRIPT---PAID---SRT.srt" type="application/x-subrip" rel="captions"/>
+        <podcast:source uri="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---PAID---91408357-3379-407d-a8b3-85b3cc2d3349.mp3"/>
+      </podcast:alternateEnclosure>
+      <guid isPermaLink="false">0bf8aeaf-9f2b-4008-812d-e9389e4639f7</guid>
+      <pubDate>Thu, 24 Jul 2025 19:35:57 GMT</pubDate>
+      <title>Bonus 01: Living in the Shadow of Bitcoin</title>
+      <description>&lt;p&gt;A viral anti-Bitcoin video spreads fear through emotional storytelling and slick sound design. But what's the real story behind the drama, and why does it matter?&lt;/p&gt;</description>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/CHAPTER_ART---DEFAULT---e32b13c4-9bdf-4102-9ff0-4c4fc72462a9.jpg"/>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/AToslSD0joKk2OoSGuDi/files/AUDIO---DEFAULT---84ec41e0-06c2-429a-a885-94cc009ad4f4.mp3" length="72518345" type="audio/mpeg"/>
