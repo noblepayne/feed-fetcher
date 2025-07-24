@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 19:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 19:48:14 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -28,7 +28,7 @@
     </podcast:value>
     <item>
       <itunes:episodeType>bonus</itunes:episodeType>
-      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---DEFAULT---1ba74b94-c9fc-4388-9e73-f7aa9b704967.mp3" length="2397614" type="audio/mpeg"/>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---DEFAULT---a757e3df-28f7-4b38-a704-e0e7780c70f9.mp3" length="2397614" type="audio/mpeg"/>
       <itunes:duration>83</itunes:duration>
       <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
       <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
