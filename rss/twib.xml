@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 19:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 20:01:03 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,42 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/CGhn8kxUdZRYRg3gOrzL/files/AUDIO---DEFAULT---4dad6db9-e225-410f-be56-5b4cf23bfb87.mp3" length="113738999" type="audio/mpeg"/>
+      <itunes:duration>4719</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/CGhn8kxUdZRYRg3gOrzL/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/CGhn8kxUdZRYRg3gOrzL/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">d2e41e04-0a08-4f68-9d3d-160935f7ee5c</guid>
+      <pubDate>Wed, 30 Jul 2025 20:01:03 GMT</pubDate>
+      <title>66: Bitcoin’s Historic Stress Test</title>
+      <description>&lt;p&gt;Bitcoin survived its largest-ever stress test. But with a trillion-dollar liquidity crunch looming, could the real challenge be yet to come?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.cryptopolitan.com/white-house-releases-report-on-crypto-policy/"&gt;White House releases first-ever report on Bitcoin and crypto policy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-presidents-working-group-on-digital-asset-markets-releases-recommendations-to-strengthen-american-leadership-in-digital-financial-technology/"&gt;Fact Sheet: The President’s Working Group on Digital Asset Markets Releases Recommendations to Strengthen American Leadership in Digital Financial Technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finbold.com/btc-falls-as-trumps-crypto-report-skips-bitcoin-reserve-details/"&gt;BTC falls as Trump’s crypto report skips Bitcoin reserve details&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptobriefing.com/crypto-regulatory-framework-white-house/"&gt;Bitcoin reserve plan missing from White House's crypto report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fountain.fm/episode/W1GUocLwHJy4ZwFOgHD1"&gt;This Week in Bitcoin • Bonus 01: Living in the Shadow of Bitcoin &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinnews.com/adoption/paypal-businesses-bitcoin-payment/"&gt;PayPal Businesses Can Now Accept Bitcoin Payments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/brian_armstrong/status/1950217994711212199"&gt;Brian Armstrong on X: "Bitcoin is probably the best form of money ever created.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=o5Tuj148mk4"&gt;Brian Armstrong - Mining 21 Million Bitcoins, Satoshi Nakamoto and Elizabeth Warren | SRS #222 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.therage.co/samourai-wallet-developers-plead-guilty-to-unlicensed-money-transmission/"&gt;Samourai Wallet Developers Plead Guilty To Unlicensed Money Transmission&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sat.watch"&gt;sat.watch&lt;/a&gt;&lt;a href="https://sat.watch/"&gt; - Real-time Bitcoin monitoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://www.thisweekinbitcoin.show/</link>
+      <podcast:episode>66</podcast:episode>
+      <itunes:episode>66</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>bonus</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/AUDIO---DEFAULT---a757e3df-28f7-4b38-a704-e0e7780c70f9.mp3" length="2397614" type="audio/mpeg"/>
