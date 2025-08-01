@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 20:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 17:44:59 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -21,9 +21,9 @@
     <podcast:guid>55b53584-4219-4fb0-b916-075ce23f714e</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:funding url="https://fountain.fm/show/51hgGerqfMRRaqT5npXx/support" params="ulid,npub,name,message">Support This Week in Bitcoin</podcast:funding>
-    <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
-      <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+    <podcast:value type="lightning" method="lnaddress">
+      <podcast:valueRecipient name="Chris" split="90" type="lnaddress" address="chrislas@getalby.com"/>
+      <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="lnaddress" address="jupiter02@getalby.com"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
     <item>
