@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 20:29:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 21:44:22 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,47 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="lnaddress" address="jupiter02@getalby.com"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/F8OzGzFjnbCfMHp2KTcY/files/AUDIO---DEFAULT---5d2a749b-572e-4d81-9c8a-4492ae499cfa.mp3" length="117419429" type="audio/mpeg"/>
+      <itunes:duration>4872</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/F8OzGzFjnbCfMHp2KTcY/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/F8OzGzFjnbCfMHp2KTcY/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">5a10571f-7e2c-40d4-941b-bb5b0397a379</guid>
+      <pubDate>Wed, 06 Aug 2025 21:44:22 GMT</pubDate>
+      <title>67: The Treasury Vacuum</title>
+      <description>&lt;p&gt;Reserve tricks, revaluation games, and a brewing liquidity storm. While quietly, the groundwork for a national Bitcoin reserve is laid.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.federalreserve.gov/econres/notes/feds-notes/official-reserve-revaluations-the-international-experience-20250801.html"&gt;The Fed - Official Reserve Revaluations: The International Experience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=kUaEUCNAIcM"&gt;Luke Gromen on U.S. Collapse, AI Disruption &amp; Bitcoin’s Rise - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://home.treasury.gov/news/press-releases/sb0209"&gt;Treasury Announces Marketable Borrowing Estimates | U.S. Department of the Treasury&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://archive.is/20250805152114/https://www.bloomberg.com/news/articles/2025-08-05/us-treasury-to-sell-a-record-100-billion-of-four-week-bills"&gt;US Treasury to Sell a Record $100 Billion of Four-Week Bills - Bloomberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.barrons.com/articles/treasury-tbills-auctions-bonds-f8daacea"&gt;Treasury to Sell Record $100 Billion in 4-Week Bills - Barron's&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=V360AygOv7A"&gt;Financial Literacy for Dummies (Like Me) with JL Collins - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6455325?episode=40797075341"&gt;The Fiscal Engine Is Failing And Bitcoin Is The Spark &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/takes/tornado-cash-jury-still-deliberating-heres-why-thats-a-good-thing"&gt;Tornado Cash Jury Still Deliberating — Here's Why That's A Good Thing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.therage.co/samourai-wallet-developers-plead-guilty-to-unlicensed-money-transmission/"&gt;Samourai Wallet Developers Plead Guilty To Unlicensed Money Transmission&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.therage.co/roman-storm-trial-split-verdict-tornado-cash/"&gt;Roman Storm Found Guilty of Unlicensed Money Transmission Conspiracy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thedefiant.io/news/regulation/samourai-wallet-founders-plead-guilty-agree-to-237-million-forfeiture-2c4ac370"&gt;Samourai Wallet Founders Plead Guilty, Agree to $237 Million Forfeiture -&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://Keys.Band"&gt;Keys.Band&lt;/a&gt;&lt;a href="https://keys.band/"&gt; E xtension for Chrome | Svelte Meta Tags&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/documentingbtc/status/1950404599858262525?t=E9EIlRX-vHxbQ8g23lQU3A"&gt;A learning center has helped teach the owners of 200 local businesses how to use Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bitcoinberlinsv.com/blog/economia-bitcoin-returns-in-berlin-el-salvador"&gt;Economía Bitcoin returns in Berlín, El Salvador &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=HJgBNmQcSpw"&gt;How the FIRE movement is inspiring early retirees - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>67</podcast:episode>
+      <itunes:episode>67</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/CGhn8kxUdZRYRg3gOrzL/files/AUDIO---DEFAULT---4dad6db9-e225-410f-be56-5b4cf23bfb87.mp3" length="113738999" type="audio/mpeg"/>
