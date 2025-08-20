@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 19:58:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 20:14:00 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -20,12 +20,59 @@
     <itunes:type>episodic</itunes:type>
     <podcast:guid>55b53584-4219-4fb0-b916-075ce23f714e</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
-    <podcast:funding url="https://fountain.fm/show/51hgGerqfMRRaqT5npXx/support" params="ulid,npub,name,message">Support This Week in Bitcoin</podcast:funding>
+    <podcast:funding url="https://fountain.fm/show/51hgGerqfMRRaqT5npXx/support" params="uuid,npub,name,message">Support This Week in Bitcoin</podcast:funding>
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/o553kyARj1XBpYNYJgHc/files/AUDIO---DEFAULT---59943769-69a9-4274-bbe5-5cc8499e214e.mp3" length="99544213" type="audio/mpeg"/>
+      <itunes:duration>4127</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/o553kyARj1XBpYNYJgHc/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/o553kyARj1XBpYNYJgHc/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">1b950d6e-561f-4e34-999f-773ca680f023</guid>
+      <pubDate>Wed, 20 Aug 2025 20:14:00 GMT</pubDate>
+      <title>70: Empire Extraction</title>
+      <description>&lt;p&gt;Empires drowning in debt turn to plunder, tariffs, and control. But this time, the cracks in the empire reveal the case for Bitcoin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliate Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/bitcoin-tanks-below-119k-bessent-gov-t-won-t-buy-bitcoin-reserve"&gt;Bitcoin tanks below $119k as Bessent says gov’t won’t buy Bitcoin for reserve&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bls.gov/news.release/ppi.nr0.htm"&gt;Producer Price Index News Release summary - 2025 M07 Results&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://arnaudbertrand.substack.com/p/not-at-the-table-europes-colonial"&gt;Not at the table: Europe's colonial moment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=CvmVFg5JwJE"&gt;Arthur Hayes: Bitcoin Will Soar as Money Printing Won’t Stop! - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.therage.co/bank-of-international-settlements-kyc-non-custodial-wallets/"&gt;Bank of International Settlements Paper Proposes Self-KYC For Non-Custodial Wallets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/former-white-house-cryptocurrency-adviser-bo-hines-joins-tether-134729416.html"&gt;Former White House cryptocurrency adviser Bo Hines joins Tether&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.theblock.co/post/359837/fbis-undercover-bitcoin-payment-hacker"&gt;FBI's undercover $250 Bitcoin payment helps take down alleged serial corporate hacker &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/business/finance/citigroup-considers-custody-payment-services-stablecoins-crypto-etfs-2025-08-14/"&gt;Citigroup considers custody and payment services for stablecoins, crypto ETFs &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptoslate.com/insights/ethereum-staking-faces-3-28-billion-exit-queue-as-delays-hit-longest-wait-in-months/"&gt;Ethereum staking faces $3.28 billion exit queue as delays hit longest wait in months&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ctvnews.ca/vancouver/article/could-bitcoin-mining-be-used-to-heat-vancouvers-kitsilano-pool/"&gt;Group pitches Bitcoin mining to warm Vancouver's Kits Pool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/btc_archive/status/1957513713994367222?t=E9EIlRX-vHxbQ8g23lQU3A"&gt;BITCOIN HISTORY: Satoshi launched Bitcoin . org exactly 17 years ago today&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=6ZCVQHtD2l4"&gt;Andreas Antonopoulos - Currency Wars and Bitcoin's Neutrality - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;MUSIC:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7347121?episode=37679753423"&gt;Junkyard of Dreams by Jawbone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="3910" duration="356" remotePercentage="95">
+          <podcast:remoteItem feedGuid="bbccda7f-e6b1-5831-97cc-de4c02d8ca72" itemGuid="453dc05f-fcb3-494c-aa00-0084826ae16d" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Ph9CerAUZb1k1td3xt1N/files/AUDIO---DEFAULT---5001bb93-3049-4b0c-9c85-88107ecdabf3.mp3" length="119875433" type="audio/mpeg"/>
