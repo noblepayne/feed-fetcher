@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 20:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 19:47:14 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,61 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/SbiB9dmwpFf2eiVzzAOO/files/AUDIO---DEFAULT---3e8367a2-526a-4b94-b310-1feb89887a80.mp3" length="102927541" type="audio/mpeg"/>
+      <itunes:duration>4269</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/SbiB9dmwpFf2eiVzzAOO/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/SbiB9dmwpFf2eiVzzAOO/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">4e4a0432-ba49-4f28-b45d-03d1f9d34ba1</guid>
+      <pubDate>Wed, 27 Aug 2025 19:47:13 GMT</pubDate>
+      <title>71: Silent Squeeze</title>
+      <description>&lt;p&gt;Powell’s Jackson Hole pivot wasn’t about stability; it  was about debt. With inflation simmering and wages trapped, fiat tightens the screws, and Bitcoiners should pay attention.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliate Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.federalreserve.gov/newsevents/speech/powell20250822a.htm"&gt;Speech by Chair Powell on the economic outlook and framework review - Federal Reserve Board&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bloomberg.com/news/articles/2025-08-24/fed-s-jackson-hole-exposes-hard-road-ahead-for-central-bankers"&gt;Fed’s Jackson Hole Exposes Hard Road Ahead for Central Bankers - Bloomberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/world/us/live-trump-orders-firing-fed-governor-lisa-cook-over-mortgage-fraud-2025-08-26/"&gt;As it happened: Trump orders firing of Fed governor Lisa Cook - market reaction and what's next | Reuters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Jackson_Hole_Economic_Symposium"&gt;Jackson Hole Economic Symposium - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lynalden.com/august-2025-newsletter/"&gt;Lyn Alden August 2025 Newsletter: Tighter Fiscal, Looser Monetary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/zerohedge/status/1959768835164402049"&gt;zerohedge on X: "Now why would someone want to sell a huge block and take out the entire bid stack (3 times in a row)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/satsscholar/status/1959071951449989430?t=E9EIlRX-vHxbQ8g23lQU3A"&gt;Portland Hodl, employee of MARA Mining, hates you so much he’s using a Sybil attack &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/w_s_bitcoin/status/1959702835706171428"&gt;Lmao…Portland didn't even do it.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://SEC.gov"&gt;SEC.gov&lt;/a&gt;&lt;a href="https://www.sec.gov/newsroom/speeches-statements/corpfin-certain-liquid-staking-activities-080525"&gt; | Statement on Certain Liquid Staking Activities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://web.archive.org/web/20250824171636/https://www.coindesk.com/tech/2025/08/23/bitcoin-liquid-staking-gains-momentum-as-lombard-launches-bard-token-and-foundation"&gt;Bitcoin News: Liquid Staking on Bitcoin Gains Momentum With Lombard's $BARD Token&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://web.archive.org/web/20250824014642/https://www.lombard.finance/blog/lombard-announces-bard-and-pre-launch-community-sale/"&gt;Lombard: Bitcoin Capital Markets Onchain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BitcoinNewsCom/status/1958560098994753714"&gt;Dave Collum and Tucker Carlson think that Bitcoin was created by the US government but won’t be allowed to succeed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.prnewswire.com/news-releases/swan-bitcoin-transitions-ownership-of-open-source-specter-project-to-nonprofit-association-302539960.html"&gt;Swan Bitcoin Transitions Ownership of Open Source Specter Project to Nonprofit Association&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BTC_Archive/status/1960699415506620748"&gt;Bitcoin ETFs bought $88.1 MILLION Bitcoin yesterday.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finbold.com/did-blackrock-just-dump-5-billion-of-bitcoin-this-week/"&gt;Did BlackRock just dump $5 billion of Bitcoin this week? &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/SimplyBitcoinTV/status/1960251549910724815"&gt;FUN FACT: If you hold Bitcoin for 3+ years, your odds of losing money are basically 0%. &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=eta4xHYk9dc"&gt;Bitcoin Volatility Will EXPLODE Higher! - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/5817582?episode=15155913475"&gt;Want You To Stay by Joe Martin &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>71</podcast:episode>
+      <itunes:episode>71</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4186" duration="219" remotePercentage="95">
+          <podcast:remoteItem feedGuid="910fabab-aa66-5659-88ec-1dcc6eb52d6b" itemGuid="50d2520f-96f5-4ce3-b291-c3eff8823588" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/o553kyARj1XBpYNYJgHc/files/AUDIO---DEFAULT---59943769-69a9-4274-bbe5-5cc8499e214e.mp3" length="99544213" type="audio/mpeg"/>
