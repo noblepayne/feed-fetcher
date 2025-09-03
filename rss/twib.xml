@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 19:47:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 20:28:35 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,59 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/bzvQ4pJNXR68ryMRYoWo/files/AUDIO---DEFAULT---b2106f66-9fdb-4aaa-a56f-a0d1256a3bde.mp3" length="63227792" type="audio/mpeg"/>
+      <itunes:duration>2614</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/bzvQ4pJNXR68ryMRYoWo/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/bzvQ4pJNXR68ryMRYoWo/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">6afbd812-e6ae-46b7-ac01-dbfb0a764ca9</guid>
+      <pubDate>Wed, 03 Sep 2025 20:28:34 GMT</pubDate>
+      <title>72: The Spam War</title>
+      <description>&lt;p&gt;Fiat markets are cracking, and Bitcoin is tearing itself apart in a spam war. Both point to an impending reckoning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliate Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2025/card/long-dated-bond-yields-in-europe-surge-to-decade-plus-highs-cBFofLdUNMh5tpoIifs1"&gt;Long-Dated Bond Yields in Europe Surge to Decade-Plus Highs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/treasury-yields-rise-30-near-134911420.html"&gt;Treasuries Join Global Bond Selloff With 30-Year Yield Near 5%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fred.stlouisfed.org/release?rid=50&amp;soid=22"&gt;Employment Situation | FRED | St. Louis Fed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cbc.ca/news/business/canada-gdp-q2-1.7620878"&gt;Canadian economy shrinks 1.6% in 2nd quarter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/337925/billionaire-ray-dalio-bitcoins-rise-debt-attack-u-s"&gt;Billionaire Ray Dalio Links Bitcoin’s Rise to ‘Debt-Fueled Heart Attack’ in U.S.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fredblog.stlouisfed.org/2025/08/revisions-to-bls-employment-data/"&gt;Revisions to BLS employment data | FRED Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/tech/2025/06/10/bitcoin-core-30-to-increase-op_return-data-limit-after-developer-debate-concludes"&gt;New Bitcoin Software Version Will Raise OP_RETURN Data Cap as Debate Concludes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bitcoin/bitcoin/issues/32275"&gt;Release Schedule for 30.0 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptorank.io/news/feed/fe8de-the-battle-between-bitcoin-core-vs-knots-is-getting-ugly"&gt;The battle between Bitcoin Core vs Knots is getting ugly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitbo.io/news/bitcoin-core-knots-battle/"&gt;Bitcoin Core vs Knots: Debate Intensifies Over Network Direction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/technical/the-bitcoin-mempool-relay-network-dynamics"&gt;The Bitcoin Mempool: Relay Network Dynamics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/WalletWasabi/WalletWasabi/releases/tag/v2.7.0"&gt;Release Wasabi Wallet v2.7.0 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.river.com/river-business-report-2025/"&gt;Why Business Owners Are Putting 22% of Profits Into Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://river.com/learn/files/river-business-report-2025.pdf"&gt;PDF: River Research Report on Business Owners Buying Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.c-span.org/clip/senate-committee/user-clip-peter-van-valkenburg-explains-bitcoin/5025258"&gt;Peter Van Valkenburg explains Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7458607?episode=41528196206"&gt;That's Okay By: Fepeste&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>72</podcast:episode>
+      <itunes:episode>72</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="2463" duration="259" remotePercentage="95">
+          <podcast:remoteItem feedGuid="ee01da66-4bf8-59e8-906b-9df1cdaa0aa9" itemGuid="db650ceb-d325-4006-9f3d-20a94670facc" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/SbiB9dmwpFf2eiVzzAOO/files/AUDIO---DEFAULT---3e8367a2-526a-4b94-b310-1feb89887a80.mp3" length="102927541" type="audio/mpeg"/>
