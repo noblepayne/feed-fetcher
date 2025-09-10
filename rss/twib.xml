@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 20:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 21:35:15 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,65 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/7fCxaJDCthyUIuRjkhrJ/files/AUDIO---DEFAULT---2204c8ba-6b4a-4dee-bdcc-964e16528497.mp3" length="112311057" type="audio/mpeg"/>
+      <itunes:duration>4660</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/7fCxaJDCthyUIuRjkhrJ/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/7fCxaJDCthyUIuRjkhrJ/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">c7afe8ea-2a12-4b86-b03b-03416cc5ddfd</guid>
+      <pubDate>Wed, 10 Sep 2025 21:35:15 GMT</pubDate>
+      <title>73: Gain-of-Function Monetary Policy</title>
+      <description>&lt;p&gt;The jobs myth collapsed overnight. The Fed’s the fall guy, and Scott Bessent’s hint is loud and clear: buy Bitcoin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliate Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://legalinsurrection.com/2025/09/bls-revises-job-growth-down-by-911000-between-april-2024-and-march-2025/"&gt;BLS Revises Job Growth Down by 911,000 Between April 2024 and March 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.hr-brew.com/stories/2025/09/10/910000-fewer-jobs-bls-revisions"&gt;Employers added 910 fewer jobs than initially estimated, per BLS revision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/business/us-payrolls-benchmark-revision-estimate-suggests-labor-market-weaker-than-2025-09-09/"&gt;US payrolls benchmark revision estimate suggests labor market weaker than previously thought&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.international-economy.com/TIE_Sp25_Bessent.pdf"&gt;PDF: The Fed’s New “Gain-of-Function” Monetary Policy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thehill.com/business/5495567-august-wholesale-prices-deflated/"&gt;Wholesale prices fell unexpectedly in August&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.businessreport.com/article/us-wholesale-prices-decelerated-in-august"&gt;US wholesale prices decelerated in August&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/09/10/ppi-inflation-august-2025-.html"&gt;PPI inflation August 2025: Prices unexpectedly declined 0.1%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the"&gt;Anatomy of a Billion-Download NPM Supply-Chain Attack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/P3b7_/status/1965094840959410230"&gt;🚨 There’s a large-scale supply chain attack in progress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/P3b7_/status/1965336272550899932"&gt;Charles Guillemet on X: "Update on the NPM attack: The attack fortunately failed, with almost no victims.🔒 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BTCsessions/status/1965213302612787456?t=AoE0dwnNBhS7nZad3p5Hew"&gt;BTC Sessions 😎 on X: Confirmed unaffected NPM attack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/shorts/31Zljed-StM"&gt;Electricity costs are surging, and AI could supercharge demand. - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=iVGTGpKpykM"&gt;How AI infrastructure is driving a sharp rise in electricity bills - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=XcyFJ6KYoL0"&gt;Bitcoin can 'easily' get to $200,000 before year-end, says Fundstrat's Tom Lee - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/us-lawmakers-seek-treasury-report-ironing-out-details-bitcoin-reserve"&gt;Congress bill mandates Treasury report on strategic bitcoin reserve&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/u-congress-demands-90-day-115830035.html"&gt;U.S. Congress Demands 90-Day Report on Strategic Bitcoin Reserve Security&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitbo.io/news/us-treasury-bitcoin-reserve/"&gt;US Treasury Given 90 Days to Outline Strategic Bitcoin Reserve&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/us-lawmakers-seek-treasury-report-ironing-out-details-bitcoin-reserve"&gt;Congress bill mandates Treasury report on strategic bitcoin reserve&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.getalby.com/lightning-channel-stats-h1-2025/"&gt;Lightning Channel Stats: H1 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=_Uhncw2BFdA"&gt;The Fed Will Make Bitcoin Worth Millions! - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/MelMattison1"&gt;Mel Mattison (@MelMattison1)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;MUSIC&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7216277?episode=33874518605"&gt;Hard Work [Live in Amsterdam] &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>73</podcast:episode>
+      <itunes:episode>73</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4513" duration="260" remotePercentage="95">
+          <podcast:remoteItem feedGuid="95e5f7a9-d88e-5e51-b2ae-f4b1865d19c4" itemGuid="3587c342-cd4a-481c-838c-de242e5beb0b" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/bzvQ4pJNXR68ryMRYoWo/files/AUDIO---DEFAULT---b2106f66-9fdb-4aaa-a56f-a0d1256a3bde.mp3" length="63227792" type="audio/mpeg"/>
