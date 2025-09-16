@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 21:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 10:00:27 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,34 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/RTJixEKEp0KNNTISzwqj/files/AUDIO---DEFAULT---76efbb55-155c-4a6c-b729-9206b8d84f31.mp3" length="87309571" type="audio/mpeg"/>
+      <itunes:duration>3620</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/RTJixEKEp0KNNTISzwqj/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/RTJixEKEp0KNNTISzwqj/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">029ba0ef-59bd-4806-a609-f60b6d48cdd0</guid>
+      <pubDate>Tue, 16 Sep 2025 10:00:27 GMT</pubDate>
+      <title>74: Using Bitcoin as Money</title>
+      <description>&lt;p&gt;From casual to committed, Oscar Merry reveals how his Bitcoin journey led to &lt;a href="http://Fountain.fm"&gt;Fountain.fm&lt;/a&gt; and the tools that bring Bitcoin into daily use.&lt;/p&gt;
+&lt;p&gt;Plus, his vision for an open alternative to platforms like YouTube and Spotify.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliate Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://primal.net/merryoscar"&gt;Oscar Merry - Nostr Profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/merryoscar?lang=en"&gt;Oscar Merry &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://primal.net/Fountain/fountain-13---likes-new-home-tab-improved-search-and-nostr-infrastructure-upgrades"&gt;Fountain 1.3 - Likes, New Home Tab, Improved Search and Nostr Infrastructure Upgrades&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://primal.net/merryoscar/open-podcast-payments-with-bitcoin-and-nostr"&gt;Open Podcast Payments with Bitcoin and Nostr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/7fCxaJDCthyUIuRjkhrJ/files/AUDIO---DEFAULT---2204c8ba-6b4a-4dee-bdcc-964e16528497.mp3" length="112311057" type="audio/mpeg"/>
