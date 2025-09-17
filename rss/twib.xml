@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 10:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 21:52:23 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -26,6 +26,51 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/yzxePZb9BfJUiP7Nb1q1/files/AUDIO---DEFAULT---31f4ed1d-f0f6-4695-8d53-61e6f3a42075.mp3" length="69956149" type="audio/mpeg"/>
+      <itunes:duration>2895</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/yzxePZb9BfJUiP7Nb1q1/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/yzxePZb9BfJUiP7Nb1q1/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">66df1a6f-4266-44d6-bf65-07bed8eb2d5d</guid>
+      <pubDate>Wed, 17 Sep 2025 21:52:22 GMT</pubDate>
+      <title>75: A Risk Management Cut</title>
+      <description>&lt;p&gt;The Fed was forced to slash rates, and the jobs revision is nothing more than a smokescreen for the mess they’re really in.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliate Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://x.com/saifedean/status/1968313897204711559"&gt;Saifedean Ammous on X: "It's fiat bingo day again!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cbc.ca/news/business/bank-of-canada-interest-rate-announcement-sep-17-1.7635891"&gt;Bank of Canada lowers interest rate to 2.5% in first cut since March&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BTC_Archive/status/1968290501494247934"&gt;Someone bought $680 MILLION Bitcoin ahead of today's rate cut decision.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm"&gt;Federal Reserve Board - Federal Reserve issues FOMC statement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wsj.com/economy/central-banking/fed-cuts-rates-by-quarter-point-and-signals-more-are-likely-dba38600"&gt;Fed Cuts Rates by Quarter Point and Signals More Are Likely - WSJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=iZNS1zjBthU"&gt;BRICS Nations Hold the Leverage (and Gold) and Why Bitcoin Price Isn’t Higher with Luke Gromen - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitbo.io/news/bitcoin-hashrate-zetahash-milestone/"&gt;Bitcoin Hashrate Surges Past 1 Zetahash, Marking Security Milestone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7484223"&gt;This That by Ollie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>75</podcast:episode>
+      <itunes:episode>75</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="2760" duration="164" remotePercentage="95">
+          <podcast:remoteItem feedGuid="35b62e5f-f77e-548a-ae6a-84da6d42b6c5" itemGuid="e37f9c68-cd66-4a82-9d65-e6c2625f1721" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/RTJixEKEp0KNNTISzwqj/files/AUDIO---DEFAULT---76efbb55-155c-4a6c-b729-9206b8d84f31.mp3" length="87309571" type="audio/mpeg"/>
