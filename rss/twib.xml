@@ -3,11 +3,10 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 17 Sep 2025 21:52:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 22:06:26 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
-    <itunes:new-feed-url>https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI</itunes:new-feed-url>
     <itunes:author>Chris Fisher</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/files/COVER_ART---DEFAULT---a9f70eee-3044-4471-ab5d-7c6a50ce9e7a.jpg"/>
@@ -26,6 +25,48 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Nxio87l2tRYvYNeVuq72/files/AUDIO---DEFAULT---8fda08d6-e2fe-433b-a38b-ff0d1db5762c.mp3" length="97367062" type="audio/mpeg"/>
+      <itunes:duration>4037</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Nxio87l2tRYvYNeVuq72/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Nxio87l2tRYvYNeVuq72/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">da1a5351-e232-4610-8f8d-ea9a9c6379fd</guid>
+      <pubDate>Wed, 24 Sep 2025 22:06:26 GMT</pubDate>
+      <title>76: The Knots Tighten</title>
+      <description>&lt;p&gt;Core wars, treasury liquidity changes, and Europe’s digital dollar. Why Q4 of 2025 will be Bitcoin’s moment of truth.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Affiliate Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.mexc.com/en-GB/news/strategys-saylor-bets-on-ossification-changes-to-bitcoin-must-be-viewed-as-a-threat/102060"&gt;Strategy’s Saylor Bets on Ossification: Changes to Bitcoin Must Be Viewed as a ‘Threat’ &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptoslate.com/the-battle-between-bitcoin-core-vs-knots-is-getting-ugly/"&gt;The battle between Bitcoin Core vs Knots is getting ugly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitbo.io/news/bitcoin-core-knots-battle/"&gt;Bitcoin Core vs Knots: Debate Intensifies Over Network Direction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitbo.io/news/bitcoin-core-knots-battle/"&gt;Bitcoin Core vs Knots: Debate Intensifies Over Network Direction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/crypto-up-only-mode-us-tga-850b-arthur-hayes"&gt;Crypto Markets Will Rally Once US Treasury Hits $850 Billion Goal: Analyst&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.jupiterbroadcasting.com/show/this-week-in-bitcoin/67/"&gt;TWiB 67: The Treasury Vacuum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.forbes.com/sites/digital-assets/2025/03/07/a-2025-overview-of-what-you-need-to-know-about-the-digital-euro/"&gt;A 2025 Overview Of What You Need To Know About The Digital Euro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7EHgQUlkOG0"&gt;'MAJOR DISRUPTION': ECB chief explains criticism of Trump tariffs - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.meetup.com/jupiterbroadcasting/events/311012106/?eventOrigin=group_upcoming_events"&gt;Austin Unplugged Birthday Lunch Party, Sat, Oct 4, 2025, 10:00 AM | Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://2025.texaslinuxfest.org/"&gt;Texas Linux Festival 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://macadamia.cash/"&gt;macadamia Wallet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/zeugmaster/macadamia"&gt;zeugmaster/macadamia: macadamia is a native Cashu wallet for iOS.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://apps.apple.com/us/app/macadamia-wallet/id6738696700"&gt;macadamia Wallet on the App Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://foldapp.com/credit-card"&gt;The Fold Bitcoin Credit Card™ | Join the waitlist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/fold_app/status/1970460764789227834"&gt;FOLD BITCOIN on X: "Fold x @stripe x @Visa Together&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7494649"&gt;Better Days By: ₿illy LeRiff&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/yzxePZb9BfJUiP7Nb1q1/files/AUDIO---DEFAULT---31f4ed1d-f0f6-4695-8d53-61e6f3a42075.mp3" length="69956149" type="audio/mpeg"/>
