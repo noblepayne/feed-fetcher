@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 22:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 20:11:28 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,57 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/wL3wRHFi0LxAZBPBGgr5/files/AUDIO---DEFAULT---88e1f0e9-f136-42fc-b4ea-bf1f46e65c70.mp3" length="101803820" type="audio/mpeg"/>
+      <itunes:duration>4222</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/wL3wRHFi0LxAZBPBGgr5/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/wL3wRHFi0LxAZBPBGgr5/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">2f9a2a97-d3cb-4c17-897e-65197efd8818</guid>
+      <pubDate>Wed, 15 Oct 2025 20:11:28 GMT</pubDate>
+      <title>77: Owning Bitcoin Isn’t Optional</title>
+      <description>&lt;p&gt;Altcoins wrecked, traders wiped, and the fiat system shows new cracks. I unpack the Great Debasement, Trump’s tariff tantrum, and why not owning Bitcoin may be the biggest risk yet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=_pw2zw5ZjUk"&gt;Debasement Trade - Death of Fiat Money? - Lyn Alden - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sylvainsaurel.substack.com/p/the-great-debasement-why-your-dollars"&gt;The Great Debasement: Why Your Dollars, and Your Wealth, Are a Mirage.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.msn.com/en-my/news/other/beijing-s-rare-earths-control-is-china-versus-the-world-says-us-treasury-chief/ar-AA1OwtzT"&gt;Beijing’s rare earths control is ‘China versus the world’, says US treasury chief&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bloomberg.com/news/articles/2025-10-14/china-flexes-superpower-status-with-grab-for-global-supply-chain"&gt;China’s Rare Earth ‘Bazooka’ Sparks Alarm, Race for Supplies - Bloomberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoincore.org/en/releases/30.0/"&gt;Bitcoin Core :: Bitcoin Core 30.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cryptopolitan.com/bitcoin-core-v30-0-released-btc-fork/"&gt;Bitcoin Core v30.0 is officially released — Is BTC going to fork? - Cryptopolitan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=W933axQ_FkY"&gt;Power to the Nodes w/ Start9 CEO Matt Hill | Bitcoin 2025 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/saylordocs/status/1977677943712465239?s=12&amp;t=E9EIlRX-vHxbQ8g23lQU3A"&gt;Bitwise just revealed a new country is buying Bitcoin and they will announce soon &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=5m9umYOUo38"&gt;There are a lot of reasons for investors to stay optimistic, says Fundstrat's Tom Lee - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html"&gt;DOJ seizes $15 billion in bitcoin in 'pig butchering' fraud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://intel.arkm.com/explorer/entity/usg"&gt;U.S. Government Bitcoin Balance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=wRHIC2w3XZo"&gt;$19B Liquidation: Bitcoin’s Ultimate Stress Test - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Album: In Another LIfe&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6422477?episode=15565794315"&gt;Spooke by Be Glass&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>77</podcast:episode>
+      <itunes:episode>77</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4084" duration="246" remotePercentage="95">
+          <podcast:remoteItem feedGuid="0a9c22de-f973-5de0-88c7-6f62ba3822ae" itemGuid="c8260efe-baad-4270-b88c-892b74c52318" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Nxio87l2tRYvYNeVuq72/files/AUDIO---DEFAULT---8fda08d6-e2fe-433b-a38b-ff0d1db5762c.mp3" length="97367062" type="audio/mpeg"/>
