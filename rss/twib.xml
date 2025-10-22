@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 20:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 18:22:34 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,58 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/qEIvBTr2xN2XwM8XfrJg/files/AUDIO---DEFAULT---93936aeb-54a5-4502-a555-863e0d81be86.mp3" length="77078690" type="audio/mpeg"/>
+      <itunes:duration>3192</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/qEIvBTr2xN2XwM8XfrJg/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/qEIvBTr2xN2XwM8XfrJg/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">00f41226-e5c0-4aae-82bf-8b8632a36dba</guid>
+      <pubDate>Wed, 22 Oct 2025 18:22:33 GMT</pubDate>
+      <title>78: The Great Rotation</title>
+      <description>&lt;p&gt;The Binance era fades, the ETFs rise, and Bitcoin quietly migrates into the core of the financial system. The rotation has begun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://archive.is/G4fVn"&gt;Bitcoin Wealth Flows to Wall Street as Whales Adopt ETFs - Bloomberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=f95C9bQlL4U"&gt;The Massive Binance Rugpull. - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/10/20/trump-australia-albanese-minerals-rare-earths-china.html"&gt;U.S. and Australia sign critical minerals agreement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.investors.com/news/rare-earth-stocks-american-resources-usar-us-australia-critical-minerals/"&gt;Rare Earth Stocks: Analyst Names Next Trump Stakes; U.S.-Australia Deal Struck | Investor's Business Daily&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/10/21/rare-earths-china-responds-to-us-australia-critical-minerals-deal.html"&gt;Rare earths: China responds to U.S.-Australia critical minerals deal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/legal/litigation/subprime-lender-primalend-capital-partners-files-bankruptcy-protection-2025-10-22/"&gt;Subprime lender PrimaLend Capital Partners files for bankruptcy protection &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://exergyheat.com/"&gt;Exergy | Heat That Pays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kiwibitcoinguide.org/articles-and-guides/setup-bitcoin-node/"&gt;How to set up a Bitcoin Node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wallet.bullbitcoin.com/en"&gt;Bull Bitcoin Wallet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stacker.news/items/1258276"&gt;The open-source BULL Wallet is finally available on iOS and Android worldwide. &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BullBitcoin_/status/1980593026876457225?t=1091"&gt;The BULL BITCOIN Origin Story&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://njump.me/nevent1qqsvhyplfrul5zzgd5hp7my40h8julwfaazllsp2xefu9xn8avxs5acpzemhxue69uhhyetvv9ujucm0d9hx7uewd9hj7q3qaeh2zw4elewy5682lxc6xnlqzjnxksq303gwu2npfaxd49vmde6qxpqqqqqqznek8na"&gt;Update on the Alby attack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/10/16/paypals-crypto-partner-mints-300-trillion-stablecoins-in-technical-error.html"&gt;PayPal's crypto partner mints 300 trillion stablecoins in 'technical error'&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.federalreserve.gov/newsevents/speech/waller20251021a.htm"&gt;Opening remarks by Governor Waller at the Payments Innovation Conference - Federal Reserve Board&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/crypto-goes-mainstream-fed-governor-101721836.html"&gt;Crypto Goes Mainstream: Fed Governor Admits Bitcoin is Now Part of the Financial Fabric&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Q3On66u6vAE"&gt;The End of Fiat: Bitcoin’s Time Has Come - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://podcastindex.org/podcast/6614066"&gt;Lowkey By: Ollie&lt;/a&gt;&lt;/p&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>78</podcast:episode>
+      <itunes:episode>78</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="3139" duration="133" remotePercentage="95">
+          <podcast:remoteItem feedGuid="60e9fcee-0285-5ba9-870f-7e4c381ef846" itemGuid="4554be73-db5e-40b1-aa1f-ff34fe39f1bf" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/wL3wRHFi0LxAZBPBGgr5/files/AUDIO---DEFAULT---88e1f0e9-f136-42fc-b4ea-bf1f46e65c70.mp3" length="101803820" type="audio/mpeg"/>
