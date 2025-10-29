@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 23:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 22:54:09 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,58 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/cm0Rdlbaw9jvbC3wK5dC/files/AUDIO---DEFAULT---7ba6965f-e74f-40d6-afe7-22359b77e2a2.mp3" length="121140222" type="audio/mpeg"/>
+      <itunes:duration>5027</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/cm0Rdlbaw9jvbC3wK5dC/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/cm0Rdlbaw9jvbC3wK5dC/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">bfb68d13-007e-4695-bd5a-964d3a222450</guid>
+      <pubDate>Wed, 29 Oct 2025 22:54:08 GMT</pubDate>
+      <title>79: Collateral Damage</title>
+      <description>&lt;p&gt;The Fed cuts, the layoffs hit, and AI papers it all over. But the real story’s in the collateral. From credit crunches to Bitcoin-backed loans, what’s breaking and what’s being built.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/10/29/fed-rate-decision-october-2025.html"&gt;Fed cuts rates for the second time this year, will end balance sheet run-off in December&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/10/22/government-shutdown-trump-democrats.html"&gt;Government shutdown now 2nd longest in U.S. history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bitget.com/news/detail/12560605033798"&gt;Ledn to Reach $1 Billion in Bitcoin-Backed Loans by 2025 &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/live/bZvpTAE7NYI?si=uoXS3PtSYxa9MeBN&amp;t=4280"&gt;Strike Line of Credit in the Works - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/MarediaShehzan/status/1983226151041466438"&gt;Lava is introducing the world’s first bitcoin-backed line of credit.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.lava.xyz/waitlist"&gt;Lava | Waitlist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/MarediaShehzan/status/1983226154124300522"&gt;Shehzan on X: "We make it seamless to use your bitcoin with instant borrowing, global off-ramps, and our upcoming card product to spend directly from Lava." / X&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/business/jpmorgan-to-accept-btc-as-collateral"&gt;JPMorgan To Accept Bitcoin As Collateral By Year-End&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitkey.build/chain-code-delegation-improving-privacy-in-collaborative-multisig/"&gt;Chain Code Delegation: Improving privacy in collaborative multisig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/amp-p-global-assigns-b-225021901.html"&gt;S&amp;P Global assigns B- rating to Saylor’s Strategy, cites “high bitcoin concentration”&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3466223"&gt;Strategy Inc Assigned 'B-' Issuer Credit Rating; | S&amp;P Global Ratings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://theminermag.com/news/2025-10-29/cleanspark-land-power-texas-ai-bitcoin"&gt;CleanSpark Acquires Land and Power in Texas for AI Data Center Push Beyond Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/10/28/bitcoin-miner-cleanspark-crypto-mining-energy-power-ai-data-center.html"&gt;Why bitcoin miner CleanSpark beat Microsoft for Wyoming AI data center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=yDpMGUZZC4c"&gt;Bitcoin Will Power the Internet of Money and Tokenize Real World Assets with David Marcus - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7078988?episode=29831105835"&gt;The End Of The World BY: Filoxera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>79</podcast:episode>
+      <itunes:episode>79</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="5150" duration="245" remotePercentage="95">
+          <podcast:remoteItem feedGuid="bb3d2e2a-620c-57de-989a-7ea5dbc60149" itemGuid="93ee2a7f-028e-4419-910e-6b92cb65be12" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/qEIvBTr2xN2XwM8XfrJg/files/AUDIO---DEFAULT---93936aeb-54a5-4502-a555-863e0d81be86.mp3" length="77078690" type="audio/mpeg"/>
