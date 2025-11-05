@@ -1,71 +1,75 @@
-# 🛰️ feed-fetcher
+# feed-fetcher
 
-A simple, reliable RSS feed archiver and proxy, built with a little help from Nix and GitHub Actions. It fetches podcast feeds, archives them, and tells the world they're updated.
+A self-contained RSS feed archiver and proxy. Fetches podcast feeds on a schedule, archives them to S3, caches them locally, and notifies Podping and Podcast Index of updates.
 
-## ✨ What's it do?
+## Overview
 
-This little project is designed to be a robust, self-contained feed utility. At its heart, it:
+The system fetches RSS feeds from their sources, stores copies in both a Git repository and S3, then notifies third-party services of changes. GitHub Actions triggers the process automatically at regular intervals.
 
-*   **Fetches** RSS feeds from their original sources on a schedule.
-*   **Archives** the latest version of each feed to an S3-compatible object store.
-*   **Caches** a copy of the feed directly in this Git repository (in the `rss/` directory).
-*   **Notifies** podcasting services like Podping and Podcast Index that an update has occurred, ensuring listeners get new episodes ASAP.
+## How It Works
 
-The whole process is automated to run every few minutes via a GitHub Action.
+The archiver is a shell script that runs in a Nix-defined environment. The key components are:
 
-## ⚙️ How it Works
+**archiver**: A shell script that handles feed fetching, S3 uploads, and service notifications.
 
-The magic is in its simplicity and portability!
+**flake.nix**: Defines the complete dependency environment (curl, s5cmd, coreutils, etc.) so the script runs consistently across different systems.
 
-1.  **The Logic**: A core shell script (`flake.nix`'s `archiver`) contains all the logic for fetching, uploading, and pinging services.
-2.  **The Environment**: We use [Nix](https://nixos.org/) to define all the tools the script needs (`curl`, `s5cmd`, etc.) in a `flake.nix` file. This ensures it works the same way every time.
-3.  **The Bundle**: A clever Nix function (`bundle.nix`) takes the script and all its Nix dependencies and packs them into a single, portable executable file named `run`.
-4.  **The Automation**: A GitHub Actions workflow runs on a schedule, executes the `./run` file, and commits any updated feeds back to the repository.
+**bundle.nix**: Packs the script and all dependencies into a single self-extracting executable named `run`. This binary contains everything needed; the runner doesn't require Nix to be installed.
 
-This means the runner doesn't need Nix installed—just a standard Linux environment.
+**build.sh**: Builds the bundled executable for deployment.
 
-## 🚀 Getting Started
+The bundled `run` file is committed to the repository so GitHub Actions can execute it without additional setup.
 
-You can get your own copy of feed-fetcher running in a few steps.
+## Setup
 
-### 1. Fork the Repository
+### 1. Fork and Configure Secrets
 
-First, fork this repository to your own GitHub account.
+Fork this repository and add the following to repository secrets (Settings > Secrets and variables > Actions):
 
-### 2. Configure Secrets
+- `S3_ENDPOINT_URL`: Full URL to S3-compatible storage endpoint
+- `AWS_ACCESS_KEY_ID`: S3 access key
+- `AWS_SECRET_ACCESS_KEY`: S3 secret key
+- `PODPING_AUTH`: Authorization token for Podping.cloud
 
-This project relies on a few secrets to function. Add the following to your repository's secrets (`Settings` > `Secrets and variables` > `Actions`):
+### 2. Add Feeds
 
-*   `S3_ENDPOINT_URL`: The full URL to your S3-compatible object storage endpoint.
-*   `AWS_ACCESS_KEY_ID`: Your S3 access key.
-*   `AWS_SECRET_ACCESS_KEY`: Your S3 secret key.
-*   `PODPING_AUTH`: Your authorization key for the [Podping.cloud](https://podping.cloud/) service.
-
-### 3. Add Your Feeds
-
-To add a podcast feed you want to track, edit the `flake.nix` file. Find the `SHOWS` array and add a new line with the format `"shortname,https://source.feed.url"`.
+Edit `flake.nix` and add entries to the `SHOWS` array in the format `"shortname,https://feed.url"`:
 
 ```nix
-# --- CONFIGURE YOUR SHOWS HERE ---
-# Format: "shortname,https://source.feed.url"
 SHOWS=(
   "twib,https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI"
-  "my-new-show,https://example.com/podcast.xml" # <-- Add your show here!
+  "my-show,https://example.com/podcast.xml"
 )
 ```
 
-### 4. Build and Commit
+### 3. Rebuild and Commit
 
-After adding your shows, you need to rebuild the `run` executable. This step requires you to have Nix installed on your local machine.
+With Nix installed locally, run:
 
 ```sh
-# 1. Run the build script
 ./build.sh
-
-# 2. Add and commit the updated `run` file
 git add run
-git commit -m "build: Update run executable with new feeds"
+git commit -m "build: Update run executable"
 git push
 ```
 
-That's it! The GitHub Action will now pick up your new configuration and start fetching your feeds.
+GitHub Actions will execute the updated bundled script on its next scheduled run.
+
+## Configuration
+
+Feeds are configured as a simple array in `flake.nix`. The script:
+
+1. Fetches each feed from its source URL
+2. Compares it with the local cached version
+3. If changed, writes the new version locally, uploads to S3, and sends notifications
+4. If unchanged, skips the update
+
+S3 path: `s3://feeds/rss/{shortname}.xml`
+
+Local path: `rss/{shortname}.xml`
+
+Proxy URL for notifications: `https://feeds.jupiterbroadcasting.com/{shortname}`
+
+## Dependencies
+
+The bundled executable includes: coreutils, findutils, sed, grep, awk, curl, s5cmd, and CA certificates. The runner must provide: sh, tail, and tar. These are present on any standard Unix environment.
