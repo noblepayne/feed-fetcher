@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 22:54:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 22:50:37 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,56 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/wvsoryUpkV45ETNPa09O/files/AUDIO---DEFAULT---85984428-7c41-41d9-93d2-961ff2099183.mp3" length="105933806" type="audio/mpeg"/>
+      <itunes:duration>4394</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/wvsoryUpkV45ETNPa09O/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/wvsoryUpkV45ETNPa09O/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">7b75b564-65e2-4874-8a14-1e4068c9d477</guid>
+      <pubDate>Wed, 05 Nov 2025 22:50:36 GMT</pubDate>
+      <title>80: Shutdown Shock</title>
+      <description>&lt;p&gt;The U.S. shutdown has sidelined a trillion dollars, starving markets and Bitcoin alike. Whales are having their IPO moment, treasury stacks are shrinking, and now BIP-444 drops a fresh dose of chaos into the mix.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://x.com/TomasOnMarkets/status/1985737698158788882"&gt;Tomas on X: "OK, lots of bad takes on X over the past few days. &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/347308/bitcoin-liquidity-government-shutdown"&gt;How Bitcoin Liquidity Has Been Affected by the Government Shutdown - Decrypt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://visserlabs.substack.com/p/bitcoins-silent-ipo-why-this-consolidation"&gt;Bitcoin’s Silent IPO: Why This Consolidation Isn’t What You Think&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Pry8GotwAeA"&gt;The Truth About Why Bitcoin Isn’t Exploding (Yet) - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/tedpillows/status/1983276376930312609?s=12&amp;t=E9EIlRX-vHxbQ8g23lQU3A"&gt;Ted on X: "This isn’t a good sign. 🚨 That’s the second Treasury company I’ve seen selling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/coryklippsten/status/1985827584073220374"&gt;Cory 🦢 Bitcoin @ &lt;/a&gt;&lt;a href="http://Swan.com"&gt;Swan.com&lt;/a&gt;&lt;a href="https://x.com/coryklippsten/status/1985827584073220374"&gt; on X: Was too leveraged, at nearly 50%. In the initial raise, there was supposed to be significantly more in the PIPE, but at close it was $195M of equity, $189M of debt. Much more flexibility at lower leverage, eg for buybacks." &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=T-26Zv7pVW8"&gt;Could the AI bubble pop? - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/bip-444-explained-bitcoin-soft-090206116.html"&gt;BIP-444 Explained: The Bitcoin Soft Fork Proposal Dividing Developers and the Community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bitcoin/bips/pull/2017"&gt;Reduced Data Temporary Softfork by dathonohm · Pull Request #2017 · bitcoin/bips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BitMEXResearch/status/1982544076672250078"&gt;The BIP 444 proposal is incredibly bad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/lukedashjr/status/1983294294388838477"&gt;Luke Dashjr on X: if someone mines CSAM, BIP 444 will activate to reject that block. The only way technically to then reject BIP 444 is to add a checkpoint pinning the CSAM in the chain"&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://primal.net/e/nevent1qqsq7qq4rrsknjs6r2qlwnc0qn8c04p9p7zchhfd45q2kd7q9dmkr8ghc8gzd"&gt;My Video on BIP-444: Ok, WTF Is going on with BIP-444? I&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7294943"&gt;Kick It - By: Caroline Hale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>80</podcast:episode>
+      <itunes:episode>80</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4202" duration="197" remotePercentage="95">
+          <podcast:remoteItem feedGuid="a1e7b24a-e2b5-5232-be37-69f71dd0739e" itemGuid="05d50c32-8b33-534d-ae78-1092a28bbddf" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/cm0Rdlbaw9jvbC3wK5dC/files/AUDIO---DEFAULT---7ba6965f-e74f-40d6-afe7-22359b77e2a2.mp3" length="121140222" type="audio/mpeg"/>
