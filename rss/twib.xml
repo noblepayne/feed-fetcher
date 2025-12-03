@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 23:59:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 20:26:45 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,59 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/LwiSFWQtI3Er1RjY70uR/files/AUDIO---DEFAULT---88727027-8df8-4925-b82c-94dcef0861e3.mp3" length="97500048" type="audio/mpeg"/>
+      <itunes:duration>4043</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/LwiSFWQtI3Er1RjY70uR/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/LwiSFWQtI3Er1RjY70uR/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">715b7519-01bd-4f3f-af9d-2bdfd825ba43</guid>
+      <pubDate>Wed, 03 Dec 2025 20:26:44 GMT</pubDate>
+      <title>84: Carry Trade Crack</title>
+      <description>&lt;p&gt;Something broke in the background this week as a decades-old trade finally cracked, and Bitcoin caught the first ripple. The real story isn’t the dip; it’s what this unwind sets in motion next.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=4FFGlzjRX9o"&gt;Yen Carry Trade Unwind Triggers Major Market Ripples | wolff responds - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=n_PyL13D_jA"&gt;The Japanese Carry Trade Is Unwinding — And It Could Hit U S Markets Hard | David Stryzewski - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/11/21/japans-cabinet-announces-135-billion-stimulus-package-nhk.html"&gt;Japan announces $135 billion stimulus to boost economy and support consumers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ts2.tech/en/japan-economy-news-today-december-3-2025-services-pmi-strengthens-as-bond-yields-hit-17%E2%80%91year-high-and-boj-eyes-rate-hike/"&gt;Japan Economy News Today, December 3, 2025: Services PMI Strengthens as Bond Yields Hit 17‑Year High and BOJ Eyes Rate Hike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.marketscreener.com/news/charles-schwab-ceo-says-feel-confident-bitcoin-and-ethereum-will-be-the-two-cryptocurrencies-it-can-ce7d51dede8ef124"&gt;Charles Schwab CEO says feel confident bitcoin and ethereum will be the two cryptocurrencies it can offer to market in first half of 2026 | MarketScreener&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.marketwatch.com/story/vanguard-finally-dips-a-toe-into-crypto-waters-after-bitcoin-slump-58e9191d"&gt;Vanguard finally dips a toe into crypto waters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/vanguard-now-allow-crypto-etfs-211500405.html"&gt;Vanguard Will Now Allow Crypto ETFs on Its Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.thestreet.com/crypto/investing/worlds-second-largest-bank-urges-clients-to-add-1-4-crypto-exposure"&gt;Bank of America recommends adding up to 4% of ‘gold rival’&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.forbes.com/sites/kirkogunrinde/2025/12/02/bank-of-america-recommends-crypto-exposure-in-all-client-portfolios/"&gt;Bank Of America Opens Up All Client Portfolios To Crypto Investments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/bank-america-backs-4-crypto-125733181.html"&gt;Bank of America Backs 4% Crypto Allocation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/WatcherGuru/status/1996264980241617007"&gt;Larry eats Crow: BlackRock CEO Larry Fink admits he was wrong about crypto. &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/us-fed-injects-13-5b-104021736.html"&gt;US FED Injects $13.5B in Liquidity Overnight as QT Ends&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410927"&gt;Chairman Hill, Oversight Chair Meuser Issue Final Staff Report on Biden’s Debanking of Digital Assets | U.S. House Committee on Financial Services&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/crypto-house-confirms-choke-point-2-0"&gt;Crypto Targeted: House Confirms Operation Choke Point 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=28IpiLraUoc"&gt;Gilfoyle cryptocurrency powerpoint - Silicon Valley S5 - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7590882"&gt;scoot By: Kathryn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>84</podcast:episode>
+      <itunes:episode>84</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="3875" duration="172" remotePercentage="95">
+          <podcast:remoteItem feedGuid="b2c1f762-1f54-5a71-aeb0-b3a041a85f8d" itemGuid="f916c296-248a-42d2-9589-31398320198f" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/jdG84a3VauxsR7VqFaHa/files/AUDIO---DEFAULT---dee3412b-e110-4b0f-80bb-97e2297fc5ca.mp3" length="133638788" type="audio/mpeg"/>
