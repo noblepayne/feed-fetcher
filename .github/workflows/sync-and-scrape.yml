@@ -1,0 +1,35 @@
+name: Sync & Scrape
+
+on:
+  workflow_dispatch:  # Creates the "Run workflow" button
+
+jobs:
+  orchestrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger feed sync
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/noblepayne/feed-fetcher/actions/workflows/archive.yml/dispatches \
+            -d '{"ref":"main"}'
+        
+      - name: Wait for feed sync to start
+        run: sleep 10
+      
+      - name: Wait for feed sync to complete
+        run: |
+          echo "Waiting for feed sync to complete..."
+          sleep 45  # Adjust this based on how long feed sync typically takes
+      
+      - name: Trigger scraper
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/ChanceM/show-scraper-2/actions/workflows/scrape.yml/dispatches \
+            -d '{"ref":"main"}'
+      
+      - name: Done
+        run: echo "✅ Both workflows triggered successfully!"
