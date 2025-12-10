@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 20:26:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 22:46:08 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,53 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/YvizCh0eAegijNzK8c88/files/AUDIO---DEFAULT---519968ed-15df-4181-8872-d336a35046b1.mp3" length="116269512" type="audio/mpeg"/>
+      <itunes:duration>4825</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/YvizCh0eAegijNzK8c88/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/YvizCh0eAegijNzK8c88/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">228907ea-9f8b-4230-93f4-6eb7783ce131</guid>
+      <pubDate>Wed, 10 Dec 2025 22:46:08 GMT</pubDate>
+      <title>85: Cycle Breakers</title>
+      <description>&lt;p&gt;The Fed cuts rates again and quietly pivots to baby-QE. How this shift could finally blow up Bitcoin’s four-year cycle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.marketwatch.com/story/dow-gains-almost-500-points-s-p-500-ends-shy-of-record-high-after-feds-final-rate-cut-of-2025-bolsters-case-for-early-start-to-santa-claus-rally-53c15858?mod=home_lead"&gt;Dow gains almost 500 points, S&amp;P 500 ends shy of record high after Fed’s final rate cut of 2025 bolsters case for early start to ‘Santa Claus rally’&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/12/10/here-are-the-five-big-takeaways-from-wednesdays-fed-rate-decision.html"&gt;Here are the five big takeaways from Wednesday's Fed rate decision&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/12/10/fed-interest-rate-decision-december-2025-.html"&gt;Fed interest rate decision December 2025:&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://delvingbitcoin.org/t/bip-the-cat-draft-discussion/2153"&gt;BIP The Cat - Draft discussion - Protocol Design - Delving Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ostromcode/The-Cat/tree/main"&gt;The-Cat: Draft BIP: Non-monetary UTXO cleanup (“The Cat”) and related materials.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/350996/stablecoin-adoption-could-stifle-central-bank-control-imf-warns"&gt;Stablecoin Adoption Could Stifle Central Bank Control, IMF Warns - Decrypt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=xY6IOkY6DAc"&gt;Acting CFTC chairman Caroline Pham on new crypto collateral pilot program - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/kenchangh/status/1994854381267947640"&gt;I Wasted 8 Years of My Life in Crypto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=SB2FqvgUa9Q"&gt;The $100 TRILLION Problem No One is Connecting To BITCOIN - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6619067"&gt;Apex By: Empath Eyes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>85</podcast:episode>
+      <itunes:episode>85</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4595" duration="235" remotePercentage="95">
+          <podcast:remoteItem feedGuid="db3d5116-4b47-56e4-acd3-ec56109c7f0e" itemGuid="30b444ca-edba-4ec9-b000-0b01098d1f97" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/LwiSFWQtI3Er1RjY70uR/files/AUDIO---DEFAULT---88727027-8df8-4925-b82c-94dcef0861e3.mp3" length="97500048" type="audio/mpeg"/>
