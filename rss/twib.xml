@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 19:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 21:04:10 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,59 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/DA554sEav9narmrb4obq/files/AUDIO---DEFAULT---48bb2fae-8d19-4ec0-9e4f-f0e4b4052e63.mp3" length="124027508" type="audio/mpeg"/>
+      <itunes:duration>5148</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/DA554sEav9narmrb4obq/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/DA554sEav9narmrb4obq/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">60adbedf-a59a-4c7f-84ed-e7d089e1a35a</guid>
+      <pubDate>Wed, 14 Jan 2026 21:04:10 GMT</pubDate>
+      <title>88: Fed Credibility Collapse</title>
+      <description>&lt;p&gt;This week’s Fed chaos wasn’t random. It was the bill coming due. As Powell’s record is challenged in public, the market is being forced to rethink Bitcoin.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.bea.gov/data/gdp/gross-domestic-product"&gt;Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnn.com/2025/12/23/economy/us-gdp-q3"&gt;The US economy expanded at the fastest pace in two years as wealthier Americans kept spending&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/2025/12/23/business/us-economy-consumer-spending.html"&gt;U.S. GDP Grew 4.3%, Surging in Third Quarter of 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/why-2026-see-unprecedented-u-154500420.html"&gt;Why 2026 Will See Unprecedented U.S. GDP Growth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=cTPopNG6LRM"&gt;The Money Masters (1996) - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.washingtonpost.com/business/2026/01/12/jerome-powell-fed-chair-investigation"&gt;The campaign to convince Trump to investigate the Federal Reserve chief&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://luna.house.gov/posts/rep-anna-paulina-luna-refers-federal-reserve-chair-jerome-powell-for-criminal-investigation-over-false-testimony"&gt;Rep. Anna Paulina Luna Refers Federal Reserve Chair Jerome Powell for Criminal Investigation Over False Testimony&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=AbvZVwrYJ0Q"&gt;Jerome Powell Under Criminal Investigation — Here's Why This Matters - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://coinmarketcap.com/academy/article/corporate-bitcoin-buying-outstrips-mining-supply-3-to-1"&gt;Corporate Bitcoin Buying Outstrips Mining Supply 3-to-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://u.today/bitcoin-etfs-log-best-week-since-october-flash-crash"&gt;Bitcoin ETFs Log Best Week Since October Flash Crash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/zcash-developer-team-resigns-governance-100044870.html"&gt;Zcash Developer Team Resigns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/sec-chair-on-rumored-venezuelan-bitcoin"&gt;Rumored Venezuelan Bitcoin Fate ‘Remains To Be Seen’&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=l1si5ZWLgy0"&gt;Introduction to Bitcoin: what is bitcoin and why does it matter? - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://planetnix.com/"&gt;PlanetNix 2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.meetup.com/jupiterbroadcasting/"&gt;Jupiter Broadcasting Meetup Page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://fountain.fm/album/7VROkUcz8SaMObJj1uZt"&gt;Sara Jade • Splinters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>88</podcast:episode>
+      <itunes:episode>88</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4917" duration="231" remotePercentage="95">
+          <podcast:remoteItem feedGuid="164d8428-8ade-5317-b001-3aab2fbefd75" itemGuid="ca1594a6-765a-42c9-9645-c588aafca7b5" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/xNSGNUdHcdeLdEfYKnVv/files/AUDIO---DEFAULT---0885926f-b95f-4fc8-a2b4-154883508b80.mp3" length="87892376" type="audio/mpeg"/>
