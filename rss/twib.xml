@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 21:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 20:45:57 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,59 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/x3CjpwJmZPBcjbmgTDoI/files/AUDIO---DEFAULT---818f3c97-554e-42e2-a75f-4c117944e822.mp3" length="108122159" type="audio/mpeg"/>
+      <itunes:duration>4485</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/x3CjpwJmZPBcjbmgTDoI/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/x3CjpwJmZPBcjbmgTDoI/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">f5f501f1-6f76-4983-8ee6-2a0485356ac8</guid>
+      <pubDate>Wed, 21 Jan 2026 20:45:56 GMT</pubDate>
+      <title>89: The Wrong Moment</title>
+      <description>&lt;p&gt;The world’s financial order is cracking in public, not theory. Gold is acting first, Bitcoin isn’t, and that disconnect tells a harder story than most Bitcoiners want to hear.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.bloomberg.com/news/articles/2026-01-21/wall-street-pulls-back-from-bitcoin-s-money-spinning-basis-trade"&gt;Wall Street Pulls Back From Bitcoin’s Money-Spinning Basis Trade - Bloomberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/Kylechasse/status/2013737174215098779"&gt;Gold is ripping. Japan’s bond market is cracking. And the Fed is quietly adding liquidit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=fiHy1FoRl-Y"&gt;Luke Gromen: The Dollar System Is Breaking — And Markets Aren’t Ready - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=2UDj9RspgB0"&gt;Major Currencies Are Headed for a Reckoning | Lyn Alden - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tradingeconomics.com/japan/government-bond-yield"&gt;Japan 10 Year Government Bond Yield &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/world/asia-pacific/japanese-selloff-greenland-fears-ripple-through-debt-ridden-global-bond-markets-2026-01-20/"&gt;Global bond markets shaken by Japan selloff, Greenland worries &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.businessinsider.com/japanese-bond-sell-off-food-tax-treasury-yields-carry-trade-2026-1"&gt;Why the Japanese Bond-Market Rebellion Has Investors on Edge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fintechweekly.com/news/coinbase-clarity-act-withdrawal-us-crypto-market-reform"&gt;Coinbase Pulls Support From CLARITY Act as U.S. Crypto Market Reform Enters Critical Phase &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptobriefing.com/hoskinson-criticizes-clarity-act/"&gt;Charles Hoskinson criticizes Ripple CEO Brad Garlinghouse for backing flawed CLARITY Act&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.crowdfundinsider.com/2026/01/257389-senate-banking-committee-may-delay-markup-on-crypto-market-infrastructure-bill-as-draft-legislation-criticized/"&gt;Senate Banking Committee Delays Markup On Crypto Market Infrastructure Bill As Draft Legislation Criticized  &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/christinenews/status/2013587526146019611"&gt;Christine Lee on X: ""THE POLICY OF THIS GOVERNMENT IS TO ADD SEIZED BITCOIN TO OUR DIGITAL ASSET RESERVE" —U.S. Treasury Sec. Scott Bessent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/markets/2026/01/14/more-than-half-of-all-crypto-tokens-have-failed-and-most-died-in-2025"&gt;More than half of all crypto tokens have failed — and most died in 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=zrGRCN58n9c"&gt;Risk, Freedom &amp; Building Billion-Dollar Companies Before the World Believed - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://planetnix.com/"&gt;PlanetNix 2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://register.socallinuxexpo.org/reg23/"&gt;SCaLE 23x | Registration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7572758"&gt;KNEW ALL ALONG By: Suzanne Santo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>89</podcast:episode>
+      <itunes:episode>89</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4255" duration="231" remotePercentage="95">
+          <podcast:remoteItem feedGuid="0cdcbc24-6901-5422-aca9-5aa2c91c49e3" itemGuid="49091f66-02ee-41f6-a37b-30321f403d68" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/DA554sEav9narmrb4obq/files/AUDIO---DEFAULT---48bb2fae-8d19-4ec0-9e4f-f0e4b4052e63.mp3" length="124027508" type="audio/mpeg"/>
