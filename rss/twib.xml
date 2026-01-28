@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 20:45:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 23:44:59 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,60 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/AUDIO---DEFAULT---abb940dd-fa64-41b0-94c4-9dd4a79a26ea.mp3" length="100286008" type="audio/mpeg"/>
+      <itunes:duration>4159</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">ee877531-5c3d-47c3-bbe9-8e59004ad77e</guid>
+      <pubDate>Wed, 28 Jan 2026 23:44:59 GMT</pubDate>
+      <title>90: Dolar Drama</title>
+      <description>&lt;p&gt;The dollar drama is exposing plans that would otherwise remain hidden. Gold is responding immediately. Bitcoin is not. Understanding why matters more than the price.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.nbcnews.com/business/economy/trump-us-dollar-value-plunges-rcna256216"&gt;U.S. dollar plunges after Trump says he's not concerned about recent drop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.foxnews.com/video/6388403492112"&gt;Gold prices surge amid economic uncertainty | Fox News Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tradingview.com/news/te_news:520794:0-us-dollar-rebounds-from-4-year-low/"&gt;US Dollar Rebounds from 4-Year Low — TradingView News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bloomberg.com/news/articles/2026-01-28/diesel-poised-to-rise-as-grids-look-to-deploy-backup-generators-at-data-centers"&gt;Energy Grids Look to Diesel for Data Center Backup Power Amid US Cold Snap - Bloomberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/01/28/-blackrock-says-investors-can-no-longer-rely-on-bonds-for-portfolio-safety.html"&gt;BlackRock says investors can no longer rely on bonds for portfolio safety&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.medirect.com.mt/updates/news/all-news/blackrock-commentary-immutable-laws-in-action-again/"&gt;BlackRock Commentary: Immutable laws in action again&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=xJ6fRNHT_KU"&gt;Bitcoin and the End of Globalism - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.washingtonpost.com/business/2026/01/28/fed-pauses-rate-cuts/"&gt;Fed holds rates steady as inflation remains elevated - The Washington Post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/tftc21/status/2014803834070303089"&gt;Rick Rieder: "Bitcoin belongs in the ideal portfolio."&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://polymarket.com/event/who-will-trump-nominate-as-fed-chair"&gt;Who will Trump nominate as Fed Chair? Predictions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/SteaknShake/status/2016208511802155197"&gt;Steak 'n Shake on X: "Steak n Shake's Burger-to-Bitcoin transformation continues.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptocoin.news/news/winter-storm-unleashes-bitcoin-minings-grid-supporting-superpower-209344/"&gt;Winter Storm Unleashes Bitcoin Mining's Grid-Supporting Superpower &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/tftc21/status/2016237359084536132"&gt;Texas Governor Abbott says Texas had a massive surplus of power during this winter storm.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/blockspace/status/2015811629682725199"&gt;Bitcoin hashrate drops 8% as US miners curtail during Winter Storm Fern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/documentingbtc/status/2014338484195020874"&gt;Local businesses in Las Vegas are beginning to accept Bitcoin payments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.meetup.com/jupiterbroadcasting/events/313050140/"&gt;Pasadena Linux Party, Fri, Mar 6, 2026, 6:00 PM | Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7114678?episode=30604410639"&gt;Be the Wheel By: Theo Katzman&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>90</podcast:episode>
+      <itunes:episode>90</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="3938" duration="227" remotePercentage="95">
+          <podcast:remoteItem feedGuid="028e9f67-e0fc-558f-b598-25f06179cea3" itemGuid="aa84108f-3222-4215-ae82-f39f6afc8742" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/x3CjpwJmZPBcjbmgTDoI/files/AUDIO---DEFAULT---818f3c97-554e-42e2-a75f-4c117944e822.mp3" length="108122159" type="audio/mpeg"/>
