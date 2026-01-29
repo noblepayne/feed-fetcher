@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 23:59:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 04:49:15 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -31,6 +31,9 @@
       <itunes:duration>4159</itunes:duration>
       <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
       <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <podcast:alternateEnclosure type="application/x-mpegURL" length="357098690" title="Video">
+        <podcast:source uri="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/VIDEO---DEFAULT---443ba6be-ea96-4b56-8f60-6e0e908a9fdc.mp4/playlist.m3u8"/>
+      </podcast:alternateEnclosure>
       <guid isPermaLink="false">ee877531-5c3d-47c3-bbe9-8e59004ad77e</guid>
       <pubDate>Wed, 28 Jan 2026 23:44:59 GMT</pubDate>
       <title>90: Dollar Drama</title>
