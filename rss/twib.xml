@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 22:47:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 22:44:17 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,62 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/F2xdheafXzzTA3lWKzJt/files/AUDIO---DEFAULT---a33e3cff-c5e6-43ed-b9a9-e327e3958677.mp3" length="105215668" type="audio/mpeg"/>
+      <itunes:duration>4364</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/F2xdheafXzzTA3lWKzJt/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/F2xdheafXzzTA3lWKzJt/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">8e2f1c19-b3de-43d7-b42d-392e49fe2b88</guid>
+      <pubDate>Wed, 11 Feb 2026 22:44:16 GMT</pubDate>
+      <title>92: Bears Smell Blood</title>
+      <description>&lt;p&gt;The macro shifts, the media smells blood, and Bitcoin is back on trial. I dismantle the latest attacks and the whale tactics behind the dips. Plus, the new push against quantum FUD.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/dollar-scrutiny-increases-chinese-banks-144303327.html"&gt;Dollar scrutiny increases as China banks shift away from USD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/02/11/january-jobs-report-has-bulls-excited-even-if-it-means-fewer-rate-cuts-in-2026.html"&gt;January jobs report has bulls excited, even if it means fewer rate cuts in 2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BullTheoryio/status/2021541495753642036"&gt;WHITE HOUSE STABLECOIN MEETING ENDS WITHOUT A DEAL. &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bitmex.com/blog/Mitigating-The-Impact-Of-The-Quantum-Freeze"&gt;Mitigating The Impact Of The Quantum Freeze - BitMEX Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/strategy-mstr-will-lead-bitcoin-effort"&gt;Strategy ($MSTR) To Lead Bitcoin Quantum Defense, Says Saylor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/bitcoin-futures-data-shows-bears-gearing-up-for-an-assault-on-dollar60k"&gt;Bitcoin $60K Retest Possible Due To Growing Liquidity Gap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://beincrypto.com/us-jobs-data-bitcoin-price-image/"&gt;US Jobs Data Could Shock Bitcoin, Here’s Why&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thecryptobasic.com/2026/02/11/is-bitcoin-now-officially-in-a-bear-market-what-historical-data-says/"&gt;Is Bitcoin Now Officially in a Bear Market? What Historical Data Says&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.benzinga.com/crypto/cryptocurrency/26/01/50257081/nayib-bukele-says-we-bought-the-other-dip-as-el-salvador-loads-up-on-gold-and-bitcoin"&gt;Nayib Bukele Says 'We Bought The Other Dip' As El Salvador Loads Up On Gold And Bitcoin - Benzinga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cbsnews.com/video/examining-bitcoin-possible-role-nancy-guthrie-case/"&gt;Examining bitcoin's possible role in Nancy Guthrie case - CBS News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/357789/bitcoin-slides-fed-rate-cut-doubts-strong-jobs-report"&gt;Bitcoin Slides as Fed Rate Cut Doubts Follow Strong Jobs Report - Decrypt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.foxbusiness.com/video/6389075230112"&gt;MARA expands Bitcoin mining amid AI surge, CEO Thiel unveils growth strategy | Fox Business Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/markets/2026/02/09/the-quantum-threat-to-bitcoin-is-smaller-than-people-think-coinshares"&gt;Here's why the quantum threat for bitcoin may be smaller than people fear&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tomshardware.com/tech-industry/cryptocurrency/fear-that-quantum-computing-on-the-cusp-of-cracking-cryptocurrencys-encryption-spurs-a-global-investment-firm-to-remove-bitcoin-from-recommendations"&gt;Fear that quantum computing is on the cusp of cracking cryptocurrency's encryption spurs a global investment firm to remove Bitcoin from recommendations | Tom's Hardware&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/jefferies-bitcoin-over-quantum-computing"&gt;This Analyst Is Dumping Bitcoin Over Quantum Computing Fears&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ppq.ai/landing"&gt;Pay-Per-Prompt AI Service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/jackmallers/status/2021304408898707657"&gt;Jack Mallers on X: "Bitcoin is not a software company.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Meet up: &lt;a href="https://www.meetup.com/jupiterbroadcasting/events/313050140/"&gt;Pasadena Linux Party, Fri, Mar 6, 2026, 6:00 PM | Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7683083"&gt;Take A Break By: Fentlay&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>92</podcast:episode>
+      <itunes:episode>92</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4201" duration="166" remotePercentage="95">
+          <podcast:remoteItem feedGuid="d5c805fb-6016-4038-9cda-2e68d2b8dcc4" itemGuid="f778d23e-0c88-4ecc-8c1f-0f2a4df789c4" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/cNeDjFsVj6rtjhdQuZlM/files/AUDIO---DEFAULT---4efa811a-1984-44d8-a351-bb4c4933f036.mp3" length="84650449" type="audio/mpeg"/>
