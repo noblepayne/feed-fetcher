@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 22:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 22:03:54 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,66 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/tYcwtPTIi8gp1KCfmciI/files/AUDIO---DEFAULT---76daf999-dfe8-4d74-823f-ca1e7ce6f7b7.mp3" length="109038944" type="audio/mpeg"/>
+      <itunes:duration>4523</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/tYcwtPTIi8gp1KCfmciI/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/tYcwtPTIi8gp1KCfmciI/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">9e1405d0-72a3-4a18-8b78-7c40a0beab7a</guid>
+      <pubDate>Wed, 18 Feb 2026 22:03:53 GMT</pubDate>
+      <title>93: Manufactured Bitcoin Crisis</title>
+      <description>&lt;p&gt;AI is getting the blame for deflation, but other forces may be driving it. What happens to Bitcoin in a world of falling prices? Then: BIP-110 and the biggest governance fight since the blocksize wars.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Deflation &amp; Macro Narrative&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=UuImiSh5oqU"&gt;Lyn Alden on the Gradual Print Era, Gold &amp; Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Hxwr64A6vOg"&gt;Cathie Wood Predicts Deflation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;BIP-110&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://bip110.org/"&gt;BIP-110 Official Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thebitcoinmanual.com/articles/bip-110/"&gt;BIP-110 Overview — The Bitcoin Manual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://phemex.com/news/article/bip110-soft-fork-gains-support-from-238-of-bitcoin-nodes-55757"&gt;BIP-110 Soft Fork Gains Support — Phemex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.tradingview.com/news/cointelegraph:749a4bc98094b:0-bitcoin-nodes-running-bip-110-crosses-2-as-spam-wars-heat-up/"&gt;Bitcoin Nodes Running BIP-110 Cross 2% — Cointelegraph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://news.bit2me.com/en/Bitcoin%27s-bip-110-divides-developers-and-miners"&gt;BIP-110 Divides Developers and Miners — Bit2Me News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://forklog.com/en/adam-back-denounces-bip-110-as-a-threat-to-bitcoins-reputation/"&gt;Adam Back Criticizes BIP-110 — ForkLog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rootdata.com/news/518836"&gt;BIP-110 Validator Support Snapshot — RootData&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ainvest.com/news/bip-110-data-cap-break-bitcoin-flow-2602/"&gt;Could BIP-110’s Data Cap Disrupt Bitcoin? — AInvest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=eO5_xYBXiVk"&gt;Plan ₿ Forum 2026 — Knots &amp; BIP-110 Debate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;OP_RETURN Stats&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://delvingbitcoin.org/t/recent-op-return-output-statistics/2248"&gt;Recent OP_RETURN Output Statistics — Delving Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Updates &amp; Market Signals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=EQL7RGd2Id0"&gt;Treasury Secretary Scott Bessent Interview — CNBC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/treasury-bills-primary-driver-bitcoin-price"&gt;T-Bills Driving Bitcoin Price — Cointelegraph&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/358449/goldman-sachs-ceo-owns-very-little-bitcoin-backs-bessent-clarity-act"&gt;Goldman Sachs CEO on Bitcoin &amp; Clarity Act — Decrypt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Music:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6952640?episode=24524846430"&gt;Radio Brigade — Mellow Cassette&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4278" duration="246" remotePercentage="95">
+          <podcast:remoteItem feedGuid="2c5f77fe-25d9-5a2d-97ef-236718c627df" itemGuid="c5071214-ba27-4327-ae0b-4769fc9cac06" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/F2xdheafXzzTA3lWKzJt/files/AUDIO---DEFAULT---a33e3cff-c5e6-43ed-b9a9-e327e3958677.mp3" length="105215668" type="audio/mpeg"/>
