@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 22:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 21:48:28 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,66 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/3tSxQsCz1tHn634vFGk9/files/AUDIO---DEFAULT---744f1bd3-3ffd-4bbd-8ff4-17fb38fde6ee.mp3" length="117362137" type="audio/mpeg"/>
+      <itunes:duration>4870</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/3tSxQsCz1tHn634vFGk9/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/3tSxQsCz1tHn634vFGk9/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">be4cbf47-151f-4a6a-9f8b-1b70b54c000d</guid>
+      <pubDate>Wed, 25 Feb 2026 21:48:27 GMT</pubDate>
+      <title>94: Cope, Narratives, and Dark Pools</title>
+      <description>&lt;p&gt;Bitcoiners find evidence of market manipulation, and Wall Street calls it liquidity. This week: dark pools, Jane Street, AI capital rotation, and why two things can be true at the same time.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is AI impacting YOUR job right now in any way?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🧠 &lt;strong&gt;Jane Street &amp; Market Structure&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.wsj.com/finance/currencies/jane-street-accused-of-insider-trading-that-helped-collapse-terraform-659e6993"&gt;Jane Street Accused of Insider Trading That Helped Collapse Terraform (WSJ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html"&gt;Jane Street Barred from Indian Markets by SEBI (CNBC)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/markets/2026/02/24/jane-street-faces-claims-of-insider-trading-that-sped-up-terraform-s-2022-collapse-ft"&gt;Jane Street Faces Insider Trading Claims Over Terraform Collapse (CoinDesk)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zerohedge.com/crypto/jane-street-sued-crypto-insider-trading-acceleartes-terraform-collapse"&gt;Jane Street Sued for Crypto Insider Trading in Terraform Collapse (ZeroHedge)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptonews.com/news/terraform-estate-sues-jane-street-crypto-collapse/"&gt;Terraform Estate Sues Jane Street (CryptoNews)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BitcoinNewsCom/status/2026683518978306252"&gt;Bitcoin News Post on Jane Street Lawsuit (X)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;₿ Saylor, Rehypothecation &amp; Price Dynamics&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://fountain.fm/episode/OifNa0rOVG4bSpqzism4"&gt;Michael Saylor Interview: Bitcoin, Quantum Debate &amp; Market Criticism (Fountain)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/coinmonks/bitcoin-price-suppression-is-real-and-michael-saylor-just-explained-why-84a46645155b"&gt;Bitcoin Price Suppression and Rehypothecation Discussion (Medium / Coinmonks)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Updates&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://stacker.news/items/1442187"&gt;Mt. Gox Collapse — Full Story (Stacker News)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://primal.net/e/nevent1qqsz0e56wx7ph82evr5lj9f7xatzz5xvj8ntfmq8vwzyf3azl3ujkhc0jnstt"&gt;Strike Line of Credit Announcement (Primal)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kiwibitcoinguide.org/"&gt;Bitkiwi Meetup — March 7, 2026 (New Zealand)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.meetup.com/jupiterbroadcasting/events/313050140/?eventOrigin=group_upcoming_events"&gt;Pasadena Linux Party, Fri, Mar 6, 2026, 6:00 PM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7487451?episode=42557196205"&gt;All’s Well That Ends — Justin Lantrip (Podcast Index)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>94</podcast:episode>
+      <itunes:episode>94</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="4581" duration="302" remotePercentage="95">
+          <podcast:remoteItem feedGuid="7b6bc244-743a-5639-81c4-7ebafea342d8" itemGuid="1c461d24-6828-41c6-b1f9-f6916b35cc2c" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/tYcwtPTIi8gp1KCfmciI/files/AUDIO---DEFAULT---76daf999-dfe8-4d74-823f-ca1e7ce6f7b7.mp3" length="109038944" type="audio/mpeg"/>
