@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 21:48:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 20:03:32 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,67 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/eMRonEidP8Dwv9vBEvf0/files/AUDIO---DEFAULT---897ed39f-858a-44a5-9cf0-e022f8eb009c.mp3" length="129427518" type="audio/mpeg"/>
+      <itunes:duration>5373</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/eMRonEidP8Dwv9vBEvf0/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/eMRonEidP8Dwv9vBEvf0/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">892addc5-8077-4701-8a98-2f43d83f5a7f</guid>
+      <pubDate>Wed, 11 Mar 2026 20:03:31 GMT</pubDate>
+      <title>95: Follow the Incentives</title>
+      <description>&lt;p&gt;AI job loss fear is everywhere, and the latest Bitcoin FUD is coming from names you already know. I break down how these narratives get made, who benefits, and what they’re really selling.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What is Ray and Chamath's angle?&lt;/li&gt;
+&lt;li&gt;Why would these two start humming the same tune?&lt;/li&gt;
+&lt;li&gt;Request: Technical arguments for BIP-110&lt;/li&gt;
+&lt;li&gt;Not links.&lt;/li&gt;
+&lt;li&gt;Make the technical case&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/markets/2026/03/03/core-scientific-sells-usd175-million-in-bitcoin-as-ai-pivot-accelerates"&gt;Core Scientific Sells $175M in Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/3ricMills/status/2028193546319126962"&gt;First BIP-110 Signaling Block&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/CorySwan/status/2028165127762219412"&gt;Jane Street ETF Dump Theory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/milkroad/status/2027381519459995943"&gt;Jane Street Dump Theory Debunked&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bitcoin/bitcoin/pull/34695"&gt;Mt. Gox Stolen Funds Recovery PR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/caprioleio/status/2030503900567204219"&gt;77% of Bitcoin Treasury Companies Underwater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/gomaestroorg/status/2030244366598771052"&gt;Dorsey and Saylor on Bitcoin for Centuries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/TFTC21/status/2029640984028684521"&gt;Lummis on Spending Bitcoin Without Capital Gains Tax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/markets/bitcoin-price-soars-to-73000"&gt;Bitcoin Hits $73K as ETFs Stabilize Markets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/markets/2026/03/04/bitcoin-air-pocket-above-usd72-000-could-mean-quick-run-to-usd80-000"&gt;Bitcoin Air Pocket Above $72K Could Trigger Run to $80K&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/bitcoin-still-due-next-leg-down-72k-btc-price-precedes-death-cross"&gt;Bitcoin May Face Next Leg Down After $73K Move&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/morgan-stanley-coinbase-bny-bitcoin-etf-custody"&gt;Morgan Stanley Taps Coinbase and BNY for Bitcoin ETF Custody&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/359921/cathie-wood-ark-invest-buys-dip-coinbase-robinhood"&gt;Ark Invest Buys the Dip on Coinbase and Robinhood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/uk-lords-grill-coinbase-over-stablecoins"&gt;UK House of Lords Presses Coinbase on Stablecoins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/policy/2026/03/04/trump-s-crypto-adviser-rejects-dimon-on-treating-yield-bearing-stablecoins-like-banks"&gt;Trump Crypto Adviser Rejects Dimon on Yield-Bearing Stablecoins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/359916/morning-minute-cftc-chair-says-u-s-perpetual-futures-are-coming"&gt;CFTC Chair Says US Perpetual Futures Are Coming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://polymarket.com/event/clarity-act-signed-into-law-in-2026"&gt;Clarity Act signed into law in 2026? Predictions &amp; Odds | Polymarket&lt;/a&gt;   
+&lt;strong&gt;Music:&lt;/strong&gt;   
+&lt;a href="https://podcastindex.org/podcast/7719044?episode=50662726481"&gt;Battle By: Bacalao&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>95</podcast:episode>
+      <itunes:episode>95</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="5132" duration="242" remotePercentage="95">
+          <podcast:remoteItem feedGuid="24eb56be-74dd-479d-aa6a-4b3a7afb8894" itemGuid="d7ab3e67-9a3f-4904-b4e7-1adb0656feab" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/3tSxQsCz1tHn634vFGk9/files/AUDIO---DEFAULT---744f1bd3-3ffd-4bbd-8ff4-17fb38fde6ee.mp3" length="117362137" type="audio/mpeg"/>
@@ -262,8 +323,9 @@
       <itunes:duration>4159</itunes:duration>
       <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
       <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
-      <podcast:alternateEnclosure type="application/x-mpegURL" length="357098690" title="Video">
+      <podcast:alternateEnclosure type="application/x-mpegURL" title="Video">
         <podcast:source uri="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/UoHL4DLlLfEHKIwgw0LL/files/VIDEO---DEFAULT---443ba6be-ea96-4b56-8f60-6e0e908a9fdc.mp4/playlist.m3u8"/>
+        <itunes:duration>4158</itunes:duration>
       </podcast:alternateEnclosure>
       <guid isPermaLink="false">ee877531-5c3d-47c3-bbe9-8e59004ad77e</guid>
       <pubDate>Wed, 28 Jan 2026 23:44:59 GMT</pubDate>
