@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 20:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 20:16:20 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,63 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/JYhvPraPSeA6DWZ1sHH3/files/AUDIO---DEFAULT---bef98f33-62c3-4541-b6f5-d429eb3c913e.mp3" length="88341721" type="audio/mpeg"/>
+      <itunes:duration>3661</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/JYhvPraPSeA6DWZ1sHH3/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/JYhvPraPSeA6DWZ1sHH3/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">48f6f8fc-24f0-4bee-831f-7d9714a44d09</guid>
+      <pubDate>Wed, 18 Mar 2026 20:16:19 GMT</pubDate>
+      <title>96: System Stress</title>
+      <description>&lt;p&gt;War spending, mounting financial fragility, and a rare flash of clarity made this a bigger week than it may have seemed at first.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What's the worst Bitcoin take you've ever seen?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.theguardian.com/commentisfree/2026/mar/17/trump-iran-war-cost-americans-11-billion"&gt;Iran war has cost Americans at least $11bn already. And that’s just the start &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.forbes.com/sites/alisondurkee/2026/03/10/why-trumps-war-with-iran-is-costing-nearly-1-billion-a-day-at-least/"&gt;War With Iran Has Already Cost $1 Billion A Day At Least&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=plsYZonW5dM"&gt;Oil and Gas Prices Jump as Iran Lists Gulf Energy Targets - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=5AjShaNN3Jo"&gt;Private Credit: The Next Risk in the Financial System - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/nvidia-ceo-huang-says-company-sees-more-than-1-trillion-in-sales-through-2027-221700475.html"&gt;Nvidia CEO Huang says company sees more than $1 trillion in sales through 2027&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.wsj.com/finance/stocks/nvidias-next-act-will-be-its-biggestand-toughest-a9223741"&gt;Nvidia’s Next Act Will Be Its Biggest—and Toughest - WSJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.forbes.com/sites/jasonbrett/2026/03/17/sec-and-cftc-deliver-landmark-crypto-clarity/"&gt;SEC And CFTC Deliver Landmark Crypto Clarity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.investmentnews.com/alternatives/secs-new-crypto-interpretation-draws-clearer-line-for-advisors/265752"&gt;SEC’s new crypto interpretation draws clearer line for advisors - InvestmentNews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/sec-finally-defines-crypto-201211395.html"&gt;The SEC Finally Defines Crypto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cftc.gov/csl/26-09/download"&gt;CFTC No Action Letter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cftc.gov/PressRoom/PressReleases/9197-26"&gt;CFTC Staff Issues No-Action Position to Self-Custodial Crypto Asset Wallet Software Provider &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/news/bitcoin-going-die-oscar-nominated-153050652.html"&gt;'Bitcoin Is Going To Die', Oscar-Nominated Actor Declares, But Silver Will Reach 'Thousands Of Dollars'&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/video/stanley-druckenmiller-critiques-bitcoin-utility-201603341.html"&gt;Stanley Druckenmiller Critiques Bitcoin’s Utility&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/business/2026/03/13/stablecoins-bitcoin-could-reshape-finance-stanley-druckenmiller-says"&gt;Stanley Druckenmiller says stablecoins could power global payments in 10–15 years&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/business/2026/03/13/stablecoins-bitcoin-could-reshape-finance-stanley-druckenmiller-says"&gt;Stanley Druckenmiller says stablecoins could power global payments in 10–15 years&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://fountain.fm/track/4pb3Zj6LvXts1aZPQKq4"&gt;Moment of Clarity by Rizik&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>96</podcast:episode>
+      <itunes:episode>96</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="3470" duration="194" remotePercentage="95">
+          <podcast:remoteItem feedGuid="53f0f080-e318-5e46-9b1b-4df00c63872f" itemGuid="c993784a-0684-433b-bc65-fbd6d4abc42c" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/eMRonEidP8Dwv9vBEvf0/files/AUDIO---DEFAULT---897ed39f-858a-44a5-9cf0-e022f8eb009c.mp3" length="129427518" type="audio/mpeg"/>
