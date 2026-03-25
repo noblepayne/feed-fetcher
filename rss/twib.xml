@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 20:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:42:21 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,64 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/S2GEWZcoeHB4nGDl3Q6B/files/AUDIO---DEFAULT---eb45d428-105f-4b1a-8552-1877c6310934.mp3" length="97445356" type="audio/mpeg"/>
+      <itunes:duration>4040</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/S2GEWZcoeHB4nGDl3Q6B/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/S2GEWZcoeHB4nGDl3Q6B/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">6853b8f5-affe-4404-927d-3b96fbb55a09</guid>
+      <pubDate>Wed, 25 Mar 2026 23:42:21 GMT</pubDate>
+      <title>The New Operator</title>
+      <description>&lt;p&gt;Managing a Bitcoin node is changing. We dig into the tools and guard rails that let agents monitor, maintain, and interact with your stack without handing over the keys.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What's next for your node?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/getAlby/hub"&gt;Alby Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://opencode.ai/"&gt;OpenCode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ChrisLAS/skills/tree/main/boltz-cli"&gt;Chris's Boltz and lncli Skill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nwc.dev/"&gt;Nostr Wallet Connect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.nwc.dev/reference-api/overview"&gt;Nostr Wallet Connect Docs Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/nostr-protocol/nips/blob/master/47.md"&gt;NIP-47: Nostr Wallet Connect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/getAlby/mcp"&gt;Alby MCP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/getAlby/cli"&gt;Alby CLI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hoytech/strfry"&gt;strfry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sr.ht/~gheartsfield/nostr-rs-relay/"&gt;nostr-rs-relay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://boltz.exchange/"&gt;Boltz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://api.docs.boltz.exchange/lifecycle.html#reverse-submarine-swaps"&gt;Boltz Swap Types and States&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/BoltzExchange/boltz-client"&gt;boltz-client&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://getalby.com/ai#skills"&gt;Alby AI and Agent Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/jvstein/bitcoin-prometheus-exporter"&gt;Bitcoin Prometheus Exporter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://grafana.com/grafana/dashboards/11274-bitcoin/"&gt;Grafana Bitcoin Node Dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lightninglabs/lndmon"&gt;lndmon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lightningd/plugins"&gt;Core Lightning Plugins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lightningd/plugins/tree/master/prometheus"&gt;Core Lightning Prometheus Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lightningnetwork/lnd"&gt;LND&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ElementsProject/lightning"&gt;Core Lightning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/mempool/mempool"&gt;mempool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lightningnetwork/lnd/blob/master/docs/safety.md"&gt;LND Safety Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md"&gt;LND Recovery Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.lightning.engineering/lightning-network-tools/lnd/disaster-recovery"&gt;Lightning Labs Disaster Recovery Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://darth-coin.github.io/nodes/shtf-restore-lnd-node-en.html"&gt;DarthCoin LND Recovery Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.corelightning.org/docs/faq"&gt;Core Lightning Troubleshooting and FAQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.corelightning.org/docs/backup"&gt;Core Lightning Backup Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>97</podcast:episode>
+      <itunes:episode>97</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/JYhvPraPSeA6DWZ1sHH3/files/AUDIO---DEFAULT---bef98f33-62c3-4541-b6f5-d429eb3c913e.mp3" length="88341721" type="audio/mpeg"/>
