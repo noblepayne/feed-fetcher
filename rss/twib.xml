@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 23:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 23:50:11 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -33,7 +33,7 @@
       <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/S2GEWZcoeHB4nGDl3Q6B/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
       <guid isPermaLink="false">6853b8f5-affe-4404-927d-3b96fbb55a09</guid>
       <pubDate>Wed, 25 Mar 2026 23:42:21 GMT</pubDate>
-      <title>The New Operator</title>
+      <title>97: The New Operator</title>
       <description>&lt;p&gt;Managing a Bitcoin node is changing. We dig into the tools and guard rails that let agents monitor, maintain, and interact with your stack without handing over the keys.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Episode Links:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
