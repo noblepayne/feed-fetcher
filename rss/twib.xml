@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 23:50:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 19:05:19 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,62 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Ao25u1Dj31pdj4UqbU91/files/AUDIO---DEFAULT---fb0ac28f-b884-4d2f-a263-63183f95e94c.mp3" length="73312368" type="audio/mpeg"/>
+      <itunes:duration>3035</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Ao25u1Dj31pdj4UqbU91/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Ao25u1Dj31pdj4UqbU91/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">7c8a473c-fd5b-4dae-82a8-e2363ca48ee3</guid>
+      <pubDate>Wed, 01 Apr 2026 19:05:18 GMT</pubDate>
+      <title>98: Demand by Chaos</title>
+      <description>&lt;p&gt;History is moving whether anyone is ready or not. How the system is under pressure, and why it will flow toward Bitcoin.&lt;/p&gt;
+&lt;p&gt;Episode Links&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exit Interview:  How do you grade our Crypto Czar?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://fiscaldata.treasury.gov/americas-finance-guide/national-debt/"&gt;Understanding the National Debt | U.S. Treasury Fiscal Data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fortune.com/2026/03/30/jerome-powell-39-trillion-national-debt-not-unsustainable-will-not-end-well/"&gt;Jerome Powell says $39 trillion national debt is ‘not unsustainable,’ but it ‘will not end well’ &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=yvrZE0I-VJw"&gt;'ENERGY SHOCKS': Recession fears EXPLODE as oil disruption ROCKS Wall Street - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.kucoin.com/news/insight/BTC/69ac2588a468940007f6b5d0"&gt;The World Uncertainty Index just hit 105,000. Higher than Covid.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/03/26/fannie-mae-accepts-first-crypto-backed-mortgage-product.html"&gt;Fannie Mae accepts first Bitcoin-backed mortgage product&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.rocketmortgage.com/learn/crypto-mortgage"&gt;Crypto and Bitcoin mortgages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=NUaNrRBvKHQ"&gt;The System Isn’t Broken - It’s Rigged | Lyn Alden - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html"&gt;David Sacks says his time as Trump's crypto and AI czar has ended&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.forbes.com/sites/boazsobrado/2026/03/31/tether-was-born-on-bitcoin-twelve-years-later-is-it-coming-back/"&gt;Tether Was Born On Bitcoin. Twelve Years Later, Is It Coming Back?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.forbes.com/sites/digital-assets/2026/03/31/google-finds-quantum-computers-could-break-bitcoin-sooner-than-expected/"&gt;Google Finds Quantum Computers Could Break Bitcoin Sooner Than Expected&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BitcoinNewsCom/status/2038968724871405972"&gt;Blockstream Research dropped a new post-quantum signature scheme: SHRIMPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BitcoinMagazine/status/2038949092206715286"&gt;Developers are currently working on a Bitcoin Improvement Proposal to strengthen Bitcoin against quantum, with a test net already deployed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/thebillyboone/status/2037645521649836230"&gt;MARA sold 15,000 BTC, Bitdeer sold all of its BTC, Riot is selling BTC from treasury to fund data center build-outs, Auradine just rebranded to Velaura AI. The biggest miners are leaving the game.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bitcoin-core/bitcoin-devwiki/wiki/31.0-Release-Notes-Draft"&gt;31.0 Adding Cluster mempool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6877455"&gt;I Need a Little By: The Retrograde&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>98</podcast:episode>
+      <itunes:episode>98</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="2788" duration="249" remotePercentage="95">
+          <podcast:remoteItem feedGuid="59977bdc-d694-5d0e-9887-0231f5c75f29" itemGuid="4a279518-18ae-40fb-a274-1743327105c6" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/S2GEWZcoeHB4nGDl3Q6B/files/AUDIO---DEFAULT---eb45d428-105f-4b1a-8552-1877c6310934.mp3" length="97445356" type="audio/mpeg"/>
