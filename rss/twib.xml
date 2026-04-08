@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 19:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:55:46 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,71 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/VdLA6gudnR7B2y4VE457/files/AUDIO---DEFAULT---ae760f3d-0136-42bf-a94a-94bc3e94324a.mp3" length="84248804" type="audio/mpeg"/>
+      <itunes:duration>3490</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/VdLA6gudnR7B2y4VE457/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/VdLA6gudnR7B2y4VE457/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">024bcdc2-8745-49dd-af8e-a76cf4f68f40</guid>
+      <pubDate>Wed, 08 Apr 2026 19:55:45 GMT</pubDate>
+      <title>99: Empire in Denial</title>
+      <description>&lt;p&gt;This week, even the optimistic case sounds like decline. And when that becomes the sell, Bitcoin starts to look like the only honest asset in the room.&lt;/p&gt;
+&lt;p&gt;Episode Links&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Are you on Team Luke or Team Lyn?&lt;/li&gt;
+&lt;li&gt;And: How should we celebrate episode 100?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/markets/crypto/articles/trump-billion-dollar-bitcoin-blowout-153003014.html?guccounter=1"&gt;Trump’s Billion-Dollar Bitcoin Blowout Exposed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/markets/prediction/event/us-recession-by-end-of-2026/"&gt;US recession by end of 2026? Prediction Market Prices - Yahoo Finance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/markets/crypto/article/the-new-york-times-may-have-found-bitcoin-founder-satoshi-nakamoto-heres-what-you-need-to-know-193426720.html"&gt;The New York Times may have found bitcoin founder Satoshi Nakamoto. Here's what you need to know.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-pioneer-adam-back-bernstein-185803494.html"&gt;Bitcoin Pioneer Adam Back, Bernstein Say Quantum Threat to BTC Isn’t Existential&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/video/morgan-stanley-launches-cheapest-bitcoin-185254456.html"&gt;Morgan Stanley launches cheapest Bitcoin ETF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/markets/crypto/articles/iran-ceasefire-wipes-millions-short-175139898.html"&gt;Iran ceasefire wipes out millions in short liquidations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-going-zero-says-economist-120215898.html"&gt;Bitcoin Going To Zero, Says Economist Who Predicted 2008 Crash — Does His Reasoning Have Merit?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-reclaims-72-000-071808702.html"&gt;Bitcoin Price Reclaims $72,000 After US-Iran Two-Week Ceasefire Agreed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=6tkKoMEiFDk"&gt;The Real War Isn’t in Iran — It’s in the US Treasury Market | Luke Gromen &amp; Lyn Alden - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/Etherealize_io/status/2041159873665106326"&gt;Ethereum Researcher Justin Drake: I think of it more as an opportunity.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/VitalikButerin/status/2026779557479723418"&gt;vitalik.eth on X: A very important document. Let's walk through this one "goal" at a time.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.digitaltoday.co.kr/en/view/46504/ethereum-prepares-for-quantum-threat-security-boost-scalability-challenge"&gt;Ethereum prepares for quantum threat, with security boost and scalability challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinist.com/ethereum-reclaims-2000-as-etf-inflows-and-upgrade/"&gt;Ethereum Reclaims $2,000 as ETF Inflows and Upgrade Roadmap Boost Momentum &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.blockstream.com/blockstream-research-demonstrates-quantum-resistant-transaction-signing-on-liquid-using-simplicity-smart-contracts/"&gt;Blockstream Research Demonstrates Quantum-Resistant Transaction Signing &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.blockstream.com/blockstream-research-brings-libsecp256k1-zkp-back-up-to-speed/"&gt;Blockstream Research Brings libsecp256k1-zkp Back Up to Speed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cryptopotato.com/heres-what-researchers-are-doing-to-protect-bitcoin-from-quantum-threats/"&gt;Here's What Researchers Are Doing to Protect Bitcoin From Quantum Threats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.forbes.com/sites/dianneplummer/2026/03/24/stranded-energy-is-emerging-as-fuel-for-the-digital-economy/"&gt;Stranded Energy Is Emerging As Fuel For The Digital Economy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cryptominerbros.com/blog/how-bitcoin-mining-could-drive-the-next-wave-of-green-innovation/"&gt;How Bitcoin Mining Could Drive the Next Wave of Green Innovation &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bitrue.com/blog/bitcoin-crash-prediction-10000-bloomberg-warning"&gt;Will Bitcoin Crash to $10K? Bloomberg Warning Explained&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bloomberg.com/news/articles/2026-04-08/morgan-stanley-debuts-bitcoin-etf-as-price-slump-rattles-holders?srnd=undefined"&gt;Morgan Stanley Debuts Bitcoin ETF as Price Slump Rattles Holders&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/EricBalchunas/status/2041865947095417000"&gt;Eric Balchunas on X: "BIG BOY LAUNCH: Morgan Stanley Bitcoin ETF hits the market today&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://linuxfestnorthwest.org/"&gt;LFNW2026 - Back to Root&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;MUSIC:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7712919?episode=50428394792"&gt;You Say You're a Warrior, Are Ya? - By: Longy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>99</podcast:episode>
+      <itunes:episode>99</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="3480" duration="308" remotePercentage="95">
+          <podcast:remoteItem feedGuid="565d0930-74bc-44ba-ab5d-da2f6c4b7b79" itemGuid="50886e86-e11c-4d06-901b-7a81a95066f8" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Ao25u1Dj31pdj4UqbU91/files/AUDIO---DEFAULT---fb0ac28f-b884-4d2f-a263-63183f95e94c.mp3" length="73312368" type="audio/mpeg"/>
@@ -69,6 +134,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6877455"&gt;I Need a Little By: The Retrograde&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/PAEF4Nl47kR6psMDW4Ms">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>98</podcast:episode>
       <itunes:episode>98</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -135,6 +201,7 @@
 &lt;li&gt;&lt;a href="https://docs.corelightning.org/docs/backup"&gt;Core Lightning Backup Guide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/dthWmDsXQyZOiHHIWkg7">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>97</podcast:episode>
       <itunes:episode>97</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -184,6 +251,7 @@
 &lt;li&gt;&lt;a href="https://fountain.fm/track/4pb3Zj6LvXts1aZPQKq4"&gt;Moment of Clarity by Rizik&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/oNdTVbg0WoYvNkUh8Uyi">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>96</podcast:episode>
       <itunes:episode>96</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -245,6 +313,7 @@
 &lt;a href="https://podcastindex.org/podcast/7719044?episode=50662726481"&gt;Battle By: Bacalao&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/rcW9yFF6VJmWiO6Q55Wk">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>95</podcast:episode>
       <itunes:episode>95</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -305,6 +374,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7487451?episode=42557196205"&gt;All’s Well That Ends — Justin Lantrip (Podcast Index)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/Oz8GZDAxHzqozajATIMf">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>94</podcast:episode>
       <itunes:episode>94</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -367,6 +437,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6952640?episode=24524846430"&gt;Radio Brigade — Mellow Cassette&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/SrnH7P2j6W6Nf04kFnFb">Listen on Fountain!</podcast:contentLink>
       <itunes:explicit>false</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
@@ -421,6 +492,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7683083"&gt;Take A Break By: Fentlay&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/35cdj0WpiiRdH7zxOLFB">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>92</podcast:episode>
       <itunes:episode>92</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -476,6 +548,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7458367?episode=41517730411"&gt;Shadowland By: Prosperous Soul&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/aUueRBq6vLKdbk5Bw66d">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>91</podcast:episode>
       <itunes:episode>91</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -534,6 +607,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7114678?episode=30604410639"&gt;Be the Wheel By: Theo Katzman&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/HylzhXZwygZVlobhBA5a">Watch on Fountain!</podcast:contentLink>
       <podcast:episode>90</podcast:episode>
       <itunes:episode>90</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -587,6 +661,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7572758"&gt;KNEW ALL ALONG By: Suzanne Santo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/5QJuJ1C2pOE26U8GIvDs">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>89</podcast:episode>
       <itunes:episode>89</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -640,6 +715,7 @@
 &lt;li&gt;&lt;a href="https://fountain.fm/album/7VROkUcz8SaMObJj1uZt"&gt;Sara Jade • Splinters&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/1HyiMFE9Tb7iXcwIGVoj">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>88</podcast:episode>
       <itunes:episode>88</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -692,6 +768,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6757427"&gt;Tokyo Citadel Remix (Single) By: Reel Richard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/xqneGDxzIRyCz3LkIJjN">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>87</podcast:episode>
       <itunes:episode>87</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -747,6 +824,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7606172?episode=46095743698"&gt;Kentucky Sore by Justin Lantrip&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/572orJ6yuCR8W18h2NBn">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>86</podcast:episode>
       <itunes:episode>86</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -795,6 +873,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6619067"&gt;Apex By: Empath Eyes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/EOObZmKyTCz2UM5wEnf0">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>85</podcast:episode>
       <itunes:episode>85</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -848,6 +927,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7590882"&gt;scoot By: Kathryn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/qBmPOFvmB6HalsJo4AaB">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>84</podcast:episode>
       <itunes:episode>84</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -902,6 +982,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7487451?episode=42557196192"&gt;Epiphany Rising By: Justin Lantrip&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/qJvzUyUrWgaKyGocl9CO">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>83</podcast:episode>
       <itunes:episode>83</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -948,6 +1029,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7569233"&gt;Auto Inter Woven Minds By: Longy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/LCHvtqGAP4hoU4nsJY12">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>82</podcast:episode>
       <itunes:episode>82</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -998,6 +1080,7 @@
 &lt;li&gt;&lt;a href="https://v4vmusic.com/?album=cmhpe3xxb000lod0jzz8zgqo3"&gt;KNEW ALL ALONG - Suzanne Santo &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/ESiLMwmjgT3EKg7VfEhg">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>81</podcast:episode>
       <itunes:episode>81</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1048,6 +1131,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7294943"&gt;Kick It - By: Caroline Hale&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/WOslYaeXHkGPni8BznUK">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>80</podcast:episode>
       <itunes:episode>80</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1100,6 +1184,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7078988?episode=29831105835"&gt;The End Of The World BY: Filoxera&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/tpO39owhO8Nv1arT5lrQ">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>79</podcast:episode>
       <itunes:episode>79</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1154,6 +1239,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6614066"&gt;Lowkey By: Ollie&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/NJ9Vr8mMPTAt9Q7GUgCb">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>78</podcast:episode>
       <itunes:episode>78</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1205,6 +1291,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6422477?episode=15565794315"&gt;Spooke by Be Glass&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/sP3uJ6IM6krMt8WNatvn">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>77</podcast:episode>
       <itunes:episode>77</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1257,6 +1344,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7494649"&gt;Better Days By: ₿illy LeRiff&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/dEVrFEYiwHe7CjjkJ2zM">Listen on Fountain!</podcast:contentLink>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -1292,6 +1380,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7484223"&gt;This That by Ollie&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/H5lo1HQmAk34SY3FDwe7">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>75</podcast:episode>
       <itunes:episode>75</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1330,6 +1419,7 @@
 &lt;li&gt;&lt;a href="https://primal.net/Fountain/fountain-13---likes-new-home-tab-improved-search-and-nostr-infrastructure-upgrades"&gt;Fountain 1.3 - Likes, New Home Tab, Improved Search and Nostr Infrastructure Upgrades&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://primal.net/merryoscar/open-podcast-payments-with-bitcoin-and-nostr"&gt;Open Podcast Payments with Bitcoin and Nostr&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/VE7RAtNKr5ifASa9RP17">Listen on Fountain!</podcast:contentLink>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -1379,6 +1469,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7216277?episode=33874518605"&gt;Hard Work [Live in Amsterdam] &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/IwvVdS7vgLUWLRVBxT9Y">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>73</podcast:episode>
       <itunes:episode>73</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1432,6 +1523,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7458607?episode=41528196206"&gt;That's Okay By: Fepeste&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/vNS3UnEX1NMhmngvCl9m">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>72</podcast:episode>
       <itunes:episode>72</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1487,6 +1579,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/5817582?episode=15155913475"&gt;Want You To Stay by Joe Martin &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/eHbgQjpxG79wFOl8PSH5">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>71</podcast:episode>
       <itunes:episode>71</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1536,6 +1629,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7347121?episode=37679753423"&gt;Junkyard of Dreams by Jawbone&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/pIK01qcjeeU884gIpQKA">Listen on Fountain!</podcast:contentLink>
       <itunes:explicit>false</itunes:explicit>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
@@ -1584,6 +1678,7 @@
 &lt;li&gt;&lt;a href="https://x.com/natbrunell/status/1953596262059819296"&gt;Natalie Brunell ⚡️ on X: "My message to the Fox Business hosts on Bitcoin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/QFDccdvK7WNWaBnDnKNX">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>69</podcast:episode>
       <itunes:episode>69</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1620,6 +1715,7 @@
 &lt;li&gt;&lt;a href="https://github.com/fountain-fm/podpay"&gt;fountain-fm/podpay&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/examples/value/lnaddress.md"&gt;podcast-namespace &lt;/a&gt;&lt;a href="http://lnaddress.md"&gt;lnaddress.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/DHij2nHK31PV8UGN3aB5">Listen on Fountain!</podcast:contentLink>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/8q6H86bJ9jNVKorlOmM8/files/CHAPTER_ART---DEFAULT---a4eea12f-c4a0-4f50-aa86-ff5796c5ddda.jpg"/>
     </item>
@@ -1660,6 +1756,7 @@
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=HJgBNmQcSpw"&gt;How the FIRE movement is inspiring early retirees - YouTube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/NYnqsqd7mDA2Irs4UdTp">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>67</podcast:episode>
       <itunes:episode>67</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1696,6 +1793,7 @@
 &lt;li&gt;&lt;a href="http://sat.watch"&gt;sat.watch&lt;/a&gt;&lt;a href="https://sat.watch/"&gt; - Real-time Bitcoin monitoring&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/</link>
+      <podcast:contentLink href="https://fountain.fm/episode/WZ3tI74ML94r0zSER5kL">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>66</podcast:episode>
       <itunes:episode>66</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1716,6 +1814,7 @@
       <pubDate>Thu, 24 Jul 2025 19:35:57 GMT</pubDate>
       <title>Bonus 01: Living in the Shadow of Bitcoin</title>
       <description>&lt;p&gt;A viral anti-Bitcoin video spreads fear through emotional storytelling and slick sound design. But what's the real story behind the drama, and why does it matter?&lt;/p&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/W1GUocLwHJy4ZwFOgHD1">Listen on Fountain!</podcast:contentLink>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WxMQ7HpjU1XJpgUbo1Fm/files/CHAPTER_ART---DEFAULT---e32b13c4-9bdf-4102-9ff0-4c4fc72462a9.jpg"/>
     </item>
@@ -1755,6 +1854,7 @@
 &lt;li&gt;&lt;a href="https://www.cryptopolitan.com/btc-miner-mara-to-raise-1-billion/"&gt;BTC miner MARA to raise $1 billion for new Bitcoin purchases&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.cnbc.com/2025/07/21/treasury-secretary-bessent-calls-for-a-review-of-the-entire-federal-reserve.html"&gt;Treasury Secretary Bessent calls for a review of 'the entire' Federal Reserve&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/dx7ZCbuFd02B2WNHw5t0">Listen on Fountain!</podcast:contentLink>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -1795,6 +1895,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7124552?episode=30832768692"&gt;Numb By: Circle the Earth&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/5oUJU2XXl58Aijr3SSZB">Listen on Fountain!</podcast:contentLink>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -1833,6 +1934,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7403081?episode=39556559583"&gt;Coins &amp; Consequences feat. ProofBoy &lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Go check out the full Album: &lt;a href="https://podcastindex.org/podcast/7403081"&gt;Bitcoin Block Party &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+      <podcast:contentLink href="https://fountain.fm/episode/kXECvtVUz0YchqJwYojt">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>63</podcast:episode>
       <itunes:episode>63</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1848,6 +1950,7 @@
       <title>62: Bitcoin Is the Geiger Counter</title>
       <description>&lt;p&gt;Bitcoin doesn't lie about world events, and this week proved it. Plus, my thoughts on Bitcoin Core facing its own flavor of cancel culture and why Arthur Hayes predicts $9 trillion will be printed by 2028.&lt;/p&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/62</link>
+      <podcast:contentLink href="https://fountain.fm/episode/VFttjTwwdrQTY56jhvwT">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>62</podcast:episode>
       <itunes:episode>62</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1890,6 +1993,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7380161"&gt;nameless | By: Hurling Pixels&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/61</link>
+      <podcast:contentLink href="https://fountain.fm/episode/wAEPrSdJaSN6sBoXPiyc">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>61</podcast:episode>
       <itunes:episode>61</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1935,6 +2039,7 @@
 &lt;li&gt;&lt;a href="https://delvingbitcoin.org/t/addressing-community-concerns-and-objections-regarding-my-recent-proposal-to-relax-bitcoin-cores-standardness-limits-on-op-return-outputs/1697"&gt;Addressing…&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/60</link>
+      <podcast:contentLink href="https://fountain.fm/episode/Tw9hZ8o62HCijYfbehpu">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>60</podcast:episode>
       <itunes:episode>60</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -1973,6 +2078,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6619067?episode=15578332666"&gt;Shadow Man - By: Empath Eyes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/59</link>
+      <podcast:contentLink href="https://fountain.fm/episode/WxWTrL5j7jkcC9iMKXKK">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>59</podcast:episode>
       <itunes:episode>59</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2014,6 +2120,7 @@
 &lt;li&gt;&lt;a href="https://x.com/BitcoinScoresby/status/1927403656510337308"&gt;spend your bitcoin at&lt;/a&gt; &lt;a href="https://github.com/Square"&gt;@Square&lt;/a&gt; terminals.&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/58</link>
+      <podcast:contentLink href="https://fountain.fm/episode/GQQPWGeUc9aBucftbmn8">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>58</podcast:episode>
       <itunes:episode>58</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2058,6 +2165,7 @@
 &lt;li&gt;&lt;a href="https://www.aljazeera.com/economy/2025/4/14/bitcoin-king-why-is-bhutan-betting-on-crypto"&gt;Can Bitcoin save Bhutan’s struggling economy? | Crypto News | Al Jazeera&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/57</link>
+      <podcast:contentLink href="https://fountain.fm/episode/AOzP3E36q3uaYd7A1yBC">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>57</podcast:episode>
       <itunes:episode>57</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2100,6 +2208,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7314244"&gt;You and me vs close to you By: Oxford&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/56</link>
+      <podcast:contentLink href="https://fountain.fm/episode/xUOwVQh6OodM7ARZx4Tq">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>56</podcast:episode>
       <itunes:episode>56</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2143,6 +2252,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7292781"&gt;Horizons Of Hope By: Jawbone&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/55</link>
+      <podcast:contentLink href="https://fountain.fm/episode/siRhe2e8cfUztXI2wxqz">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>55</podcast:episode>
       <itunes:episode>55</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2186,6 +2296,7 @@
 &lt;li&gt;&lt;a href="https://www.barstoolsports.com/blog/3542720/coachella-kicked-off-today-with-reportedly-more-than-60percent-of-its-attending-crowds-financing-their-tickets-through-new-payment-plans"&gt;Coachella Kick…&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/54</link>
+      <podcast:contentLink href="https://fountain.fm/episode/fET3czvurUjgMrzlPOMb">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>54</podcast:episode>
       <itunes:episode>54</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2230,6 +2341,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7281937"&gt;Getaway by Two Weeks In Nashville&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/53</link>
+      <podcast:contentLink href="https://fountain.fm/episode/aYkCHhxhHailHivYeVlu">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>53</podcast:episode>
       <itunes:episode>53</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2272,6 +2384,7 @@
 &lt;li&gt;&lt;a href="https://www.fountain.fm/track/deiZaruSVG1FuT3OCbkl"&gt;TJ Wong • Apple Pie&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/52</link>
+      <podcast:contentLink href="https://fountain.fm/episode/D4aVFeG6JBSzhIsJtmvV">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>52</podcast:episode>
       <itunes:episode>52</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2317,6 +2430,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7216097"&gt;It'll Be Me by ROSENTHAL PARKWAY BAND&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/51</link>
+      <podcast:contentLink href="https://fountain.fm/episode/OQ5D4IFwaTgcQceFSafK">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>51</podcast:episode>
       <itunes:episode>51</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2357,6 +2471,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7258711"&gt;Satoshi Statue By: Michilis&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/50</link>
+      <podcast:contentLink href="https://fountain.fm/episode/MgU6hM5tuFJsFll8dMHO">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>50</podcast:episode>
       <itunes:episode>50</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2400,6 +2515,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6685411?episode=16430055980"&gt;Don’t Count Me Out by Jimmie Bratcher&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/49</link>
+      <podcast:contentLink href="https://fountain.fm/episode/YlRXbCciYcBFVU8vcQNH">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>49</podcast:episode>
       <itunes:episode>49</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2443,6 +2559,7 @@
 &lt;li&gt;&lt;a href="https://x.com/Crypto_Mags/status/1894050837602681042"&gt;Yes, Montana's Bitcoin reserve bill was rejected…&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/48</link>
+      <podcast:contentLink href="https://fountain.fm/episode/upVgB0EXFwTw1l9oxzkX">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>48</podcast:episode>
       <itunes:episode>48</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2485,6 +2602,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7216182?episode=33872378609"&gt;DiscoBall By: JoJo Scott&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/47</link>
+      <podcast:contentLink href="https://fountain.fm/episode/CTuxMSMKfBmAl6l0xV4l">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>47</podcast:episode>
       <itunes:episode>47</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2532,6 +2650,7 @@
 &lt;li&gt;&lt;a href="https://wavlake.com/album/be4cbba8-d172-4ea7-8546-1b08f6874aef"&gt;Get It Right By Henry Invisible&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/46</link>
+      <podcast:contentLink href="https://fountain.fm/episode/lMMTumVN2JDxeU7P8luM">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>46</podcast:episode>
       <itunes:episode>46</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2576,6 +2695,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7189530?episode=33073136415"&gt;Lose My Shoes | Neon Neverminds&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/45</link>
+      <podcast:contentLink href="https://fountain.fm/episode/Xm62k8L1bvznIHHLkHPm">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>45</podcast:episode>
       <itunes:episode>45</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2619,6 +2739,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7189530"&gt;Lose My Shoes By Mantel Fox&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/44</link>
+      <podcast:contentLink href="https://fountain.fm/episode/KfmPnNMUUXP4EKC98M3R">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>44</podcast:episode>
       <itunes:episode>44</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2664,6 +2785,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7173023"&gt;Do It Good by Henry Invisible&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/43</link>
+      <podcast:contentLink href="https://fountain.fm/episode/EFPsHIZv1jE6ElpGpu4C">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>43</podcast:episode>
       <itunes:episode>43</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2708,6 +2830,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7158520"&gt;21 Million by Rundance&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/42</link>
+      <podcast:contentLink href="https://fountain.fm/episode/4JpDCfIC8ktOC7zPEcO2">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>42</podcast:episode>
       <itunes:episode>42</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2754,6 +2877,7 @@
 &lt;li&gt;&lt;a href="https://x.com/DocumentingBTC/status/1873065409102168170"&gt;New 45 megawatt bitcoin mine is under construction in Memphis&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/41</link>
+      <podcast:contentLink href="https://fountain.fm/episode/9mx2lLhuKuBSmUI6V0Kw">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>41</podcast:episode>
       <itunes:episode>41</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2799,6 +2923,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7137570"&gt;Digital Age Blues by Simon C&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/40</link>
+      <podcast:contentLink href="https://fountain.fm/episode/Gs57pObx1qwfmqU7dX5t">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>40</podcast:episode>
       <itunes:episode>40</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2840,6 +2965,7 @@
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=lYKRpK7Q2LY&amp;si=2LxIJUJwtibvbGJS"&gt;Is It 'Crazy' for the US to Have a Bitcoin Reserve? - YouTube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/39</link>
+      <podcast:contentLink href="https://fountain.fm/episode/j6jfRqPTSTaLBwXST6P4">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>39</podcast:episode>
       <itunes:episode>39</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2884,6 +3010,7 @@
 &lt;li&gt;&lt;a href="https://www.sciencedirect.com/science/article/abs/pii/S0959652624002464"&gt;Can bitcoin mining empower energy transition and fuel sustainable development g…&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/38</link>
+      <podcast:contentLink href="https://fountain.fm/episode/fZOGMio4KH01wXN2r0tu">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>38</podcast:episode>
       <itunes:episode>38</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2928,6 +3055,7 @@
 &lt;li&gt;&lt;a href="https://wavlake.com/album/6f724ceb-0688-40d5-a93f-4d0b6ec1c797"&gt;Be the Wheel • Theo Katzman&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/37</link>
+      <podcast:contentLink href="https://fountain.fm/episode/OhASjH2Z6h9ZhautXLvc">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>37</podcast:episode>
       <itunes:episode>37</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -2971,6 +3099,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7088565?episode=30037089740"&gt;Slight Curiosity By Circle the Earth&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/36</link>
+      <podcast:contentLink href="https://fountain.fm/episode/YyK42fGjwYxtHJIieXtO">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>36</podcast:episode>
       <itunes:episode>36</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3011,6 +3140,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6917119?episode=22904515494"&gt;Tip Toe by Jack Holliday&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/35</link>
+      <podcast:contentLink href="https://fountain.fm/episode/Ja88fLvmYe0TicmpxCUR">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>35</podcast:episode>
       <itunes:episode>35</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3052,6 +3182,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6751084?episode=18165690894"&gt;1night by Daddy NAT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/34</link>
+      <podcast:contentLink href="https://fountain.fm/episode/Vr7NfU0BS5J72dlAUxw9">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>34</podcast:episode>
       <itunes:episode>34</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3097,6 +3228,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7025679?episode=28261527231"&gt;That Smile You're Wearing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/33</link>
+      <podcast:contentLink href="https://fountain.fm/episode/bjTtthOArjVTLcDMY9Mb">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>33</podcast:episode>
       <itunes:episode>33</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3143,6 +3275,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7000726?episode=27023396650"&gt;Stop feat. Alex Bonyata&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/32</link>
+      <podcast:contentLink href="https://fountain.fm/episode/OWJ5NmoXdwWBQPVDMLIS">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>32</podcast:episode>
       <itunes:episode>32</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3185,6 +3318,7 @@
 &lt;li&gt;&lt;a href="https://x.com/coinbase/status/1846218132261585254"&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/31</link>
+      <podcast:contentLink href="https://fountain.fm/episode/bKPOKr5Zz9x5Ag8e9sea">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>31</podcast:episode>
       <itunes:episode>31</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3227,6 +3361,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7034903?episode=28655703579"&gt;Unleash By Tony Salomone&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/30</link>
+      <podcast:contentLink href="https://fountain.fm/episode/68JIUK9bRh3TZRRQix6j">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>30</podcast:episode>
       <itunes:episode>30</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3271,6 +3406,7 @@
 &lt;li&gt;…&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/29</link>
+      <podcast:contentLink href="https://fountain.fm/episode/ocAIIK4t3dedQ60MdcNB">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>29</podcast:episode>
       <itunes:episode>29</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3313,6 +3449,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7022802"&gt;Disco Swag by The Doerfels&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/28</link>
+      <podcast:contentLink href="https://fountain.fm/episode/wCzD2abXNisiXaFdGuL2">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>28</podcast:episode>
       <itunes:episode>28</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3359,6 +3496,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7020394"&gt;Don't Take This For Granted - By: Two Weeks In Nashville&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/27</link>
+      <podcast:contentLink href="https://fountain.fm/episode/QweCBkrDcs85b2bOhZJG">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>27</podcast:episode>
       <itunes:episode>27</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3405,6 +3543,7 @@
 &lt;li&gt;&lt;a href="https://river.com/learn/how-bitcoin-fees-work/"&gt;How Bitcoin Fees Work&amp;…&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/26</link>
+      <podcast:contentLink href="https://fountain.fm/episode/bUpW9fc7gSqQC7JuqYtZ">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>26</podcast:episode>
       <itunes:episode>26</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3447,6 +3586,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7000738"&gt;Free by Tony Salomone&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/25</link>
+      <podcast:contentLink href="https://fountain.fm/episode/ezoIReGHyaaoGVyz5XFv">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>25</podcast:episode>
       <itunes:episode>25</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3489,6 +3629,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Noobie Corner Links&lt;/strong&gt;&lt;/p&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/24</link>
+      <podcast:contentLink href="https://fountain.fm/episode/TW6OKzLAJ5sWcCFkFoEs">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>24</podcast:episode>
       <itunes:episode>24</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3540,6 +3681,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6751084?episode=18165690894"&gt;1night by Daddy NAT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/23</link>
+      <podcast:contentLink href="https://fountain.fm/episode/ALHzQXEWlAEGzZBGCZF0">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>23</podcast:episode>
       <itunes:episode>23</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3583,6 +3725,7 @@
 *&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/22</link>
+      <podcast:contentLink href="https://fountain.fm/episode/wZDrARwN8Bprlj4iqWKd">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>22</podcast:episode>
       <itunes:episode>22</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3626,6 +3769,7 @@
 &lt;li&gt;&lt;a href="https://x.com/SenLummis/status/1817302883894722687"&gt;Senator Cyn…&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/21</link>
+      <podcast:contentLink href="https://fountain.fm/episode/Gy5l3e8pz5KuMg8VWs9n">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>21</podcast:episode>
       <itunes:episode>21</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3665,6 +3809,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6607236?episode=15577099605"&gt;Politics Be Damned&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/20</link>
+      <podcast:contentLink href="https://fountain.fm/episode/NeMRd9qEIYqVgtnE8rp8">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>20</podcast:episode>
       <itunes:episode>20</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3712,6 +3857,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6960746?episode=24897318548"&gt;Cool Summer by Tony Salomone&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/19</link>
+      <podcast:contentLink href="https://fountain.fm/episode/RKkLWUqgL8w1osomlYyY">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>19</podcast:episode>
       <itunes:episode>19</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3754,6 +3900,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6633845?episode=15580006549"&gt;Fiat Prison Blues by Brrreadfan&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/18</link>
+      <podcast:contentLink href="https://fountain.fm/episode/ATHcfiaA5KBLhrWev6CR">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>18</podcast:episode>
       <itunes:episode>18</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3797,6 +3944,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6560977?episode=15572708386"&gt;Charlie by Kurtisdrums&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/17</link>
+      <podcast:contentLink href="https://fountain.fm/episode/laKBtwdE2WGvVgjsY74N">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>17</podcast:episode>
       <itunes:episode>17</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3847,6 +3995,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6941864?episode=24028325476"&gt;Live While I’m Alive by Abel James&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/miner-capitulation-gets-ugly</link>
+      <podcast:contentLink href="https://fountain.fm/episode/rwvdhFA8YzdqKb67jdWx">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>16</podcast:episode>
       <itunes:episode>16</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3894,6 +4043,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://www.nobsbitcoin.com/lnd-versions-prior-to-v0-17-0-vulnerable-to-lnd-onion-bomb-dos-attack/"&gt;LND Versions Prior to v0.17.0 Vulnerable to LND Onion Bomb DoS Attack&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/fresh-summer-fud-and-macro-mess</link>
+      <podcast:contentLink href="https://fountain.fm/episode/i9JTIMpb3ilECfRuAThs">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>15</podcast:episode>
       <itunes:episode>15</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3927,6 +4077,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6803256?episode=19370402266"&gt;Give My Life by Minno&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/no-cuts-for-you</link>
+      <podcast:contentLink href="https://fountain.fm/episode/XlOAGBr90EDJPO7oN5nc">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>14</podcast:episode>
       <itunes:episode>14</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -3974,6 +4125,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6908619"&gt;Red Light By: Tony Salomone&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/bitcoin-gets-ready-to-feed</link>
+      <podcast:contentLink href="https://fountain.fm/episode/XKl8CFvymM4PwNkLKZeW">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>13</podcast:episode>
       <itunes:episode>13</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4014,6 +4166,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6917119"&gt;Tip Toe by Jack Holliday&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/the-stagflation-scenario</link>
+      <podcast:contentLink href="https://fountain.fm/episode/mMu6051i5Y22xDfwYLkQ">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>12</podcast:episode>
       <itunes:episode>12</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4058,6 +4211,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6736415"&gt;Element Zero by Reel Richard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/why-biden-just-flipped-on-crypto</link>
+      <podcast:contentLink href="https://fountain.fm/episode/6qL9HZfQIrOy7doficz2">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>11</podcast:episode>
       <itunes:episode>11</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4095,6 +4249,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6855581"&gt;I Need a Little by The Retrograde&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/10-bitcoins-next-battle</link>
+      <podcast:contentLink href="https://fountain.fm/episode/MAqHHAPibYqe36SBDIzc">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>10</podcast:episode>
       <itunes:episode>10</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4136,6 +4291,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6861579"&gt;Self Destruct by The Trusted&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/09-the-7-reasons-bitcoin-tanked</link>
+      <podcast:contentLink href="https://fountain.fm/episode/OkhoFcfPV1ZIhDSA2MOe">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>9</podcast:episode>
       <itunes:episode>9</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4178,6 +4334,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6796493?episode=19194534527"&gt;Play Guitar by Doerfel Family Bluegrass&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/08-samourai-wallet-founders-arrested</link>
+      <podcast:contentLink href="https://fountain.fm/episode/BS0qPBM5KXyARV0z4qOX">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>8</podcast:episode>
       <itunes:episode>8</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4214,6 +4371,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6865081"&gt;Leave It Alone - June &amp; The Jets&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/07-a-tale-of-two-halvings</link>
+      <podcast:contentLink href="https://fountain.fm/episode/rnRlTQAXO9aHd5N9WaPo">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>7</podcast:episode>
       <itunes:episode>7</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4252,6 +4410,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6852157"&gt;So Many Years by TJ Wong&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/06-debunking-big-blocker-alternative-history</link>
+      <podcast:contentLink href="https://fountain.fm/episode/IkqDZn452J7lVv85mnKC">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>6</podcast:episode>
       <itunes:episode>6</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4302,6 +4461,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6736415?episode=17777519591"&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/05-now-theyre-getting-it</link>
+      <podcast:contentLink href="https://fountain.fm/episode/dVvYEHzkXOARVEFhnIeJ">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>5</podcast:episode>
       <itunes:episode>5</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4336,6 +4496,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6847198?episode=20489755437"&gt;Money Maker&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/04-why-larry-fink-is-bullish</link>
+      <podcast:contentLink href="https://fountain.fm/episode/l0Z13KU2ycbMhuZdBhXP">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>4</podcast:episode>
       <itunes:episode>4</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4368,6 +4529,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://twitter.com/The_BTC_Patriot/status/1767979823782048039"&gt;Hodl.80 IQ.Patriot on X: “This is awesome”&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/03-battle-at-the-crypto-flood-gates</link>
+      <podcast:contentLink href="https://fountain.fm/episode/Ts9glJDmd7kO2JVBuq2Q">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>3</podcast:episode>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4402,6 +4564,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://www.wavlake.com/btc-minstrel"&gt;BTC Minstrel&lt;/a&gt; -  | &lt;a href="https://www.wavlake.com/track/c73d06ee-ee9a-4253-aad3-8ea9b2b8d9bc"&gt;What Shall We Do With Michael Saylor&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/02-saylor-is-just-lucky</link>
+      <podcast:contentLink href="https://fountain.fm/episode/o8lTCMlVCqTWzMZsj5F5">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>2</podcast:episode>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
@@ -4445,6 +4608,7 @@ LINKS**  &lt;/p&gt;
 &lt;li&gt;&lt;a href="https://app.thebitcoincompany.com/signup?ref=UNPLUGGED"&gt;The Bitcoin Company Promo Link&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://www.thisweekinbitcoin.show/episodepage/01-why-bezos-is-buying-your-bag</link>
+      <podcast:contentLink href="https://fountain.fm/episode/8dtZKAHIpGgInnAxp7tb">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>1</podcast:episode>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
