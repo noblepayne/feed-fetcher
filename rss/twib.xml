@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 19:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 21:42:10 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,55 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/xN6yiqVrhX123ut1lQAY/files/AUDIO---DEFAULT---8b4d506f-6b37-41a8-8029-9f20c64bb9a3.mp3" length="137007147" type="audio/mpeg"/>
+      <itunes:duration>5689</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/xN6yiqVrhX123ut1lQAY/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/xN6yiqVrhX123ut1lQAY/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">46ae6aa2-51dd-4d19-bc91-4db697b66d6c</guid>
+      <pubDate>Wed, 15 Apr 2026 21:42:09 GMT</pubDate>
+      <title>100: The Market Fit</title>
+      <description>&lt;p&gt;The pattern is getting harder to miss: the dollar loses power, and Bitcoin gains relevance. As war, sanctions, and financial stress expose the old system’s limits, the market is starting to recognize what Bitcoin was built for.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is Saylor Under-Selling Bitcoin's Potential On Purpose?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://x.com/KobeissiLetter/status/2044031118400253968"&gt;US March PPI inflation rises to 4.0%, its highest since February 2023. Core PPI inflation was unchanged, at 3.8%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/covenant-ai-leaves-bittensor-decentralization-tao-drops-18"&gt;Covenant AI Leaves Bittensor Amid Decentralization Concerns, TAO Drops 18%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/363926/bittensor-token-plunges-builder-departs-decentralization-doubts"&gt;BitTensor AI Token Plunges as Top Builder Departs Over Decentralization Doubts - Decrypt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/markets/bittensor-s-tao-risks-45percent-dip-amid-decentralization-theater-accusation"&gt;Bittensor's TAO Risks 45% Dip Amid 'Decentralization Theater' Accusations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/kevin-warsh-stake-bitcoin-startup"&gt;Trump's Fed Pick Warsh Reveals Stake In Bitcoin Startup Flashnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/bitcoin-moves-past-halfway-point-halving"&gt;Bitcoin Moves Past Halfway Point In Halving Cycle As Supply Tightens Toward 2028&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it"&gt;Fed chairman nominee Kevin Warsh's vast holdings include crypto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=eLrI5ISbDw0"&gt;IMF warns about risk of global recession as Iran war impacts energy costs - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7414920"&gt;Against All Love By: FM Rodeo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>100</podcast:episode>
+      <itunes:episode>100</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="5453" duration="234" remotePercentage="95">
+          <podcast:remoteItem feedGuid="9bc5a8b4-e8b7-5d4f-8df1-4e121a68ede7" itemGuid="2659bfa0-a0c4-47b6-a43b-54d775c860fe" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/VdLA6gudnR7B2y4VE457/files/AUDIO---DEFAULT---ae760f3d-0136-42bf-a94a-94bc3e94324a.mp3" length="84248804" type="audio/mpeg"/>
@@ -78,6 +127,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7712919?episode=50428394792"&gt;You Say You're a Warrior, Are Ya? - By: Longy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/4iIAnhV05SyF1YGgDHso">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>99</podcast:episode>
       <itunes:episode>99</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
