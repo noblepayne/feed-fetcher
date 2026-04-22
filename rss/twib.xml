@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 21:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:45:15 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,75 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Zt9NM8GsFvnefpkbutFR/files/AUDIO---DEFAULT---bcb89139-2508-40eb-bd5e-f7b3453d3b34.mp3" length="99852601" type="audio/mpeg"/>
+      <itunes:duration>4141</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Zt9NM8GsFvnefpkbutFR/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Zt9NM8GsFvnefpkbutFR/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">f9efaeae-42b0-4ae4-a4b9-9fa9955d144f</guid>
+      <pubDate>Wed, 22 Apr 2026 15:45:14 GMT</pubDate>
+      <title>101: Stress Test</title>
+      <description>&lt;p&gt;Bitcoin isn’t being normalized by hype, but by strain. As the Fed loses credibility, it looks less like a trade and more like a necessity.   &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If Kevin Warsh Makes it… Will he cut rates?&lt;/li&gt;
+&lt;li&gt;Or - will he battle it out with Trump?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/bitcoin-price-passes-75000-as-iran-war"&gt;Bitcoin Price Passes $75,000 As Iran War Turns It From ‘Digital Gold’ Into Geopolitical Settlement Bet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/uk-lawmaker-probe-nigel-farages-bitcoin"&gt;UK Lawmaker Calls For Probe Into Nigel Farage’s Bitcoin Ties&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/tether-moves-over-70-million-in-bitcoin"&gt;Tether Moves Over $70 Million In Bitcoin To Reserves, On-chain Data Shows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/covenant-ai-leaves-bittensor-decentralization-tao-drops-18"&gt;Covenant AI Leaves Bittensor Amid Decentralization Concerns, TAO Drops 18%&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://decrypt.co/363926/bittensor-token-plunges-builder-departs-decentralization-doubts"&gt;Bittensor Token Plunges as Top Builder Departs Over Decentralization Doubts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/markets/bittensor-s-tao-risks-45percent-dip-amid-decentralization-theater-accusation"&gt;Bittensor's TAO Risks 45% Dip Amid 'Decentralization Theater' Accusations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/kevin-warsh-stake-bitcoin-startup"&gt;Trump's Fed Pick Warsh Reveals Stake In Bitcoin Startup Flashnet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/bitcoin-moves-past-halfway-point-halving"&gt;Bitcoin Moves Past Halfway Point In Halving Cycle As Supply Tightens Toward 2028&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coindesk.com/policy/2026/04/14/the-next-fed-chair-has-a-crypto-portfolio-here-s-everything-that-s-in-it"&gt;Fed Chairman Nominee Kevin Warsh's Vast Holdings Include Crypto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cointelegraph.com/news/goldman-sachs-files-for-bitcoin-income-etf-using-options-strategy"&gt;Goldman Sachs Targets Income with New Bitcoin ETF Filing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitcoinmagazine.com/news/billion-dollar-day-strc-atm"&gt;Back-To-Back Billion-Dollar Days: Strategy's STRC ATM Clears $2.7B In 48 Hours&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/04/15/asia-markets-today-nikkei225-hang-seng-csi300-nifty50-oil-iran-us-.html"&gt;Asia Markets Today: Nikkei 225, Hang Seng, CSI 300&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/F57618ED6E5F30B585258DD9002DD780/$FILE/Warsh%2C%20Kevin%20%20final278.pdf"&gt;Kevin Warsh Executive Branch Public Financial Disclosure Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cnbc.com/2026/04/14/federal-reserve-warsh-wealth.html"&gt;Fed Nominee Warsh Filings Detail Vast Wealth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/"&gt;Quantum-Safe Bitcoin Transactions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.zerohedge.com/geopolitical/iran-charge-bitcoin-tolls-strait-hormuz-transit-ceasefire-takes-hold"&gt;Iran Gives Approved Hormuz Shippers "Few Seconds" To Submit Payment In Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.sfchronicle.com/crime/article/crypto-wrench-attack-home-invasion-22088091.php"&gt;Crime Ring Stole Millions in Crypto in California ‘Wrench Attacks’&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.politico.com/news/2024/03/25/a-665m-crypto-war-chest-roils-ai-safety-fight-00148621"&gt;The $665 Million Crypto Fund Roiling the AI Safety Fight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://u.today/bitcoin-lighting-gets-major-adoption-boost-in-us"&gt;Bitcoin Lightning Gets Major Adoption Boost in US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://finance.yahoo.com/markets/crypto/articles/coinbase-fannie-mae-enable-crypto-120846995.html"&gt;Coinbase, Fannie Mae to Enable Crypto-Backed Mortgages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.forbes.com/sites/digital-assets/2026/03/31/google-finds-quantum-computers-could-break-bitcoin-sooner-than-expected/"&gt;Google Finds Quantum Computers Could Break Bitcoin Sooner Than Expected&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=xnHIorw6INg"&gt;Prosecutors Turned Away from Federal Reserve After Unannounced Visit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BitcoinMagazine/status/2044521149078376730"&gt;Fox Business: Bitcoin Is a Lifeline for Many Iranians&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/DiscoverCrypto/status/2046401245284630876"&gt;IBM Launching a Bitcoin and Crypto Wallet for People &amp; Institutions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BitcoinMagazine/status/2046605478407385594"&gt;Admiral Samuel Paparo Says Bitcoin Shows Incredible Potential as a Computer Science Tool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/pete_rizzo_/status/2045540122376933826"&gt;Jordi Visser Says Bitcoin Is About to Rip Significantly Higher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://podcastindex.org/podcast/6607254?episode=15577100900"&gt;Pony Up Daddy By: $2 Holla&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>101</podcast:episode>
+      <itunes:episode>101</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="3998" duration="289" remotePercentage="95">
+          <podcast:remoteItem feedGuid="99a14604-f38b-5e9d-8679-9314d1207cd4" itemGuid="86460cfa-0217-47d7-ba88-7179df615415" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/xN6yiqVrhX123ut1lQAY/files/AUDIO---DEFAULT---8b4d506f-6b37-41a8-8029-9f20c64bb9a3.mp3" length="137007147" type="audio/mpeg"/>
@@ -62,6 +131,7 @@
 &lt;li&gt;&lt;a href="https://podcastindex.org/podcast/7414920"&gt;Against All Love By: FM Rodeo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/dSZy9lmGieVi6mOPVd94">Listen on Fountain!</podcast:contentLink>
       <podcast:episode>100</podcast:episode>
       <itunes:episode>100</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
