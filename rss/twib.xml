@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 18:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 16:00:30 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,22 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <podcast:paidItem>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:alternateEnclosure type="audio/mpeg" length="31903702" title="Early-Access Episode" paywall="L402" auth="NOSTR">
+        <itunes:duration>1319</itunes:duration>
+        <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/mpEruhLQBgMP6eSL8P5d/files/AUDIO---CHAPTERS---PAID---PODCAST.json" type="application/json+chapters"/>
+        <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/mpEruhLQBgMP6eSL8P5d/files/AUDIO---TRANSCRIPT---PAID---SRT.srt" type="application/x-subrip" rel="captions"/>
+        <podcast:source uri="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/mpEruhLQBgMP6eSL8P5d/files/AUDIO---PAID---22dc0a54-d996-4c87-b406-b4265bdd1852.mp3"/>
+      </podcast:alternateEnclosure>
+      <guid isPermaLink="false">44505fca-ff34-4d21-b2be-4b09c48c30f0</guid>
+      <pubDate>Sat, 25 Apr 2026 16:00:28 GMT</pubDate>
+      <title>Bonus: 101 Leftovers</title>
+      <description>&lt;p&gt;A behind-the-scenes look at what got cut from last week’s episode with Chris’s new show-prep workflow. Think of it as an audit, out in the public.&lt;/p&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:contentLink href="https://fountain.fm/episode/U7sASul3s13nPcfhSO5s">Listen on Fountain!</podcast:contentLink>
+      <itunes:explicit>false</itunes:explicit>
+    </podcast:paidItem>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/Zt9NM8GsFvnefpkbutFR/files/AUDIO---DEFAULT---bcb89139-2508-40eb-bd5e-f7b3453d3b34.mp3" length="99852601" type="audio/mpeg"/>
