@@ -3,7 +3,7 @@
   <channel>
     <description>&lt;p&gt;This Week in Bitcoin is an independent, investigative podcast covering Bitcoin. A high-signal news podcast focused on analysis you'll find valuable.&lt;/p&gt;</description>
     <generator>Fountain</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 16:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:08:56 GMT</lastBuildDate>
     <language>en</language>
     <link>https://www.thisweekinbitcoin.show</link>
     <title>This Week in Bitcoin</title>
@@ -25,6 +25,67 @@
       <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
       <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
     </podcast:value>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WX9WwhKTXzZGghJA9G5V/files/AUDIO---DEFAULT---64a48f2b-e575-4d50-8f3d-4abb504ce836.mp3" length="91257273" type="audio/mpeg"/>
+      <itunes:duration>3782</itunes:duration>
+      <podcast:chapters url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WX9WwhKTXzZGghJA9G5V/files/AUDIO---CHAPTERS---DEFAULT---PODCAST.json" type="application/json+chapters"/>
+      <podcast:transcript url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/WX9WwhKTXzZGghJA9G5V/files/AUDIO---TRANSCRIPT---DEFAULT---SRT.srt" type="application/x-subrip" rel="captions"/>
+      <guid isPermaLink="false">65fe1349-9f02-40ee-8275-e9259622ccf5</guid>
+      <pubDate>Wed, 29 Apr 2026 16:08:56 GMT</pubDate>
+      <title>102: Acceptance To Adoption</title>
+      <description>&lt;p&gt;I came away from Bitcoin 2026 with one clear signal: beneath the circus, something more permanent is being built.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Episode Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🇺🇸 &lt;a href="https://partner.river.com/jupiter"&gt;Buy Sats on River&lt;/a&gt; - The best way to stack in the US&lt;/li&gt;
+&lt;li&gt;🇨🇦 &lt;a href="https://www.bitcoinwell.com/jupiter"&gt;The Bitcoin Well&lt;/a&gt; - An amazing automatic self-custody Bitcoin platform&lt;/li&gt;
+&lt;li&gt;⚡ &lt;a href="https://app.thebitcoincompany.com/signup?ref=JUPITER"&gt;The Bitcoin Company&lt;/a&gt; - Spending your Bitcoin Via Lightning&lt;/li&gt;
+&lt;li&gt;🏦 &lt;a href="https://use.foldapp.com/r/XNHPXTFC"&gt;Fold Card&lt;/a&gt; - Pay bills Stack Sats&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href="https://borrower.saltlending.com/register?referralCode=GkPQdbqWG"&gt;SALT Lending&lt;/a&gt; - Get access to your BTC Value w/out Selling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Boost Question&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is Polymarket the bigger Bitcoin distraction?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://x.com/pete_rizzo_/status/2047772475165933658"&gt;Yahoo Finance Analyst: Bitcoin Moving From Acceptance to Adoption&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BTCtreasuries/status/2048888002286436605"&gt;Jeff Park: IBIT Options Could Fuel New Bitcoin Highs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/pete_rizzo_/status/2048861291482058847"&gt;White House Teases Strategic Bitcoin Reserve Announcement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/pete_rizzo_/status/2048811328672796728"&gt;Rep. Begich to Introduce Strategic Bitcoin Reserve Bill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/pete_rizzo_/status/2048831341572050969"&gt;Attorney General Says Bitcoin Developers Won’t Be Prosecuted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/TFTC21/status/2049135996654981459"&gt;Paul Tudor Jones Calls Bitcoin the Best Inflation Hedge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/pete_rizzo_/status/2048753506706751791"&gt;CNBC: Senate Vote Coming on Warsh Confirmation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/bitcoinmagazine/status/2048835376849301656"&gt;Lummis Says Crypto Market Structure Markup Coming in May&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/bitcoinnews/status/2048812752613814354"&gt;Begich Renames Bitcoin Reserve Act&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/bitcoinmagazine/status/2048811517697728883"&gt;Begich Reads Self-Custody Protection Bill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/pete_rizzo_/status/2047990664185385222"&gt;Novogratz: Saylor Buying Could Trigger Bitcoin Supply Shock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.benzinga.com/crypto/cryptocurrency/26/04/52129165/jerome-powell-set-to-chair-last-fed-meeting-what-does-it-mean-for-bitcoin"&gt;Jerome Powell’s Last Fed Meeting and Bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.barchart.com/story/news/1592889/microstrategys-market-cap-is-less-than-its-bitcoin-holdings-and-mstr-stock-has-halved-in-just-the-past-year-what-gives"&gt;Why MSTR Trades Below Its Bitcoin Holdings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://invezz.com/news/2026/04/29/bitcoin-outlook-as-kevin-warsh-prepares-to-take-over-the-fed/"&gt;Bitcoin Outlook as Kevin Warsh Prepares for the Fed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.coinotag.com/czech-central-bank-btc-reserve-test-increases-returns"&gt;Czech Central Bank Bitcoin Reserve Test Boosts Returns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.benzinga.com/crypto/cryptocurrency/26/04/52136262/paul-tudor-jones-calls-bitcoin-unequivocally-the-best-inflation-hedge"&gt;Paul Tudor Jones: Bitcoin Is the Best Inflation Hedge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://beincrypto.com/strive-ceo-bitcoins-crash-digital-credit-future/"&gt;Strive CEO on Bitcoin’s Crash and Digital Credit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://zycrypto.com/fbi-boss-reveals-bitcoin-shift-after-getting-smart-through-deep-research/"&gt;FBI Boss Reveals Bitcoin Shift After Deep Research&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://crypto.news/white-house-teases-major-update-on-strategic-bitcoin-reserve/"&gt;White House Teases Strategic Bitcoin Reserve Update&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://coinmarketcap.com/academy/article/tether-and-canaan-build-modular-bitcoin-mining-systems"&gt;Tether and Canaan Build Modular Bitcoin Mining Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.etftrends.com/disruptive-technology-content-hub/disruptive-theme-of-the-week-bitcoin-miner-optionality/"&gt;Bitcoin Miner Optionality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://x.com/BitcoinatBlock/status/2048788236005519410"&gt;Block Launches Bitkey Wallet, Cash App Bitcoin Earnings, and Proof of Reserves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://block.xyz/proof-of-reserves"&gt;Block Proof of Reserves&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://thisweekinbitcoin.show</link>
+      <podcast:episode>102</podcast:episode>
+      <itunes:episode>102</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" split="90" type="node" address="03de23d27775ff1abc1d5770e56ee058464c9fcd4cc39837e605646e95aaf5f8f4"/>
+        <podcast:valueRecipient name="Jupiter Broadcasting" split="8" type="node" address="037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39"/>
+        <podcast:valueRecipient name="Fountain" split="2" type="lnaddress" address="boostbot@fountain.fm"/>
+        <podcast:valueTimeSplit startTime="3597" duration="208" remotePercentage="95">
+          <podcast:remoteItem feedGuid="dfc51831-1d1b-4f06-80e3-2f7051dc4052" itemGuid="595cda03-04c4-48be-8cdf-16e62804e73e" medium="music"/>
+        </podcast:valueTimeSplit>
+      </podcast:value>
+    </item>
     <item>
       <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://feeds.fountain.fm/40huHEEF6JMPGYctMuUI/items/mpEruhLQBgMP6eSL8P5d/files/AUDIO---DEFAULT---22dc0a54-d996-4c87-b406-b4265bdd1852.mp3" length="31903702" type="audio/mpeg"/>
